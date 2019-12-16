@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.multiwu" name="MultiWu Repository" version="1.0.0" provider-name="MultiWu">
+    <extension point="xbmc.addon.repository" name="MultiWu Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/MultiWu/repository.multiwu/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/MultiWu/repository.multiwu/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/MultiWu/repository.multiwu/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>MultiWu Repository</summary>
+        <description>Repozytorium MultiWu</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>

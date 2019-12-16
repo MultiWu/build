@@ -128,7 +128,7 @@
     <setting id="show_osd_buttons">true</setting>
     <setting id="show_osd_on_play">true</setting>
     <setting id="show_service_name">true</setting>
-    <setting id="showAdultChannels">Wyłączone</setting>
+    <setting id="showAdultChannels">Włączone</setting>
     <setting id="showBeneluxChannels" default="true">false</setting>
     <setting id="showCroatianChannels" default="true">false</setting>
     <setting id="showCzechChannels" default="true">false</setting>
@@ -177,5 +177,5 @@
     <setting id="wizjatv_username" default="true"></setting>
     <setting id="xmltv.file" default="true"></setting>
     <setting id="xmltv.logo.folder" default="true"></setting>
-    <setting id="XXX_EPG" default="true"></setting>
+    <setting id="XXX_EPG" default="true">http://mods-kodi.pl/m-tvguide/support2018/freeepg/xxx.xml</setting>
 </settings>
