@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog">
+	<allowoverlay>no</allowoverlay>
+	<defaultcontrol always="true">6000</defaultcontrol>
+	<coordinates>
+		<system>1</system><posx>0</posx><posy>0</posy>
+	</coordinates>
+		<animation effect="fade" time="200">WindowOpen</animation>
+		<animation effect="fade" time="200">WindowClose</animation>
+	<controls>
+		<control type="label" id="6001"><description>visibility marker for selection box</description></control>
+
+			<control type="image">
+				<description>Background</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>1280</width>
+				<height>720</height>
+				<texture colordiffuse="90000000">../../Default/media/osd/white.png</texture>
+			</control>
+			<control type="image">
+				<description>Background</description>
+				<posx>185</posx>
+				<posy>105</posy>
+				<width>910</width>
+				<height>532</height>
+				<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+			</control>
+			<control type="image">
+				<description>Logo</description>
+				<posx>238</posx>
+				<posy>140</posy>
+				<width>75</width>
+				<height>75</height>
+				<texture>../../Default/media/dialogs/logo_channel.png</texture>
+			</control>
+			<control type="image">
+				<description>Separator</description>
+				<posx>255</posx>
+				<posy>178</posy>
+				<width>771</width>
+				<height>10</height>
+				<texture>../../Default/media/dialogs/separator.png</texture>
+			</control>
+			
+			<control type="label" id="1">
+				<description>Header label</description>
+				<posx>0%</posx>
+				<posy>140</posy>
+				<width>1280</width>
+				<height>45</height>
+				<font>font32_title</font>
+				<label>$ADDON[script.mtvguide 30500]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>fff0efef</textcolor>
+				<shadowcolor>e13c3c3c</shadowcolor>
+			</control>
+
+		<control type="label">
+			<posx>0%</posx>
+			<posy>190</posy>
+			<width>1280</width>
+			<height>45</height>
+			<font>font25_title</font>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>e13c3c3c</shadowcolor>
+			<label>$ADDON[script.mtvguide 30501]</label>
+		</control>
+		<control type="list" id="6000">
+			<posx>280</posx>
+			<posy>240</posy>
+			<width>720</width>
+			<height>270</height>
+			<viewtype label="list">list</viewtype>
+			<orientation>vertical</orientation>
+			<focusposition>0</focusposition>
+			<onright>6003</onright>
+			<itemlayout width="720" height="45">
+				<control type="image">
+					<posx>0</posx>
+					<posy>0</posy>
+					<width>720</width>
+					<height>40</height>
+					<texture border="5">../../Default/media/dialogs/button-nofocus-red.png</texture>
+				</control>
+				<control type="label">
+					<posx>25</posx>
+					<posy>0</posy>
+					<width>450</width>
+					<height>40</height>
+					<align>left</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>fff0efef</textcolor>
+					<shadowcolor>e13c3c3c</shadowcolor>
+					<info>ListItem.Label</info>
+				</control>
+				<control type="image">
+					<posx>675</posx>
+					<posy>8</posy>
+					<width>25</width>
+					<height>25</height>
+					<info>ListItem.Icon</info>
+				</control>
+			</itemlayout>
+			<focusedlayout width="720" height="45">
+				<control type="image">
+					<posx>0</posx>
+					<posy>0</posy>
+					<width>720</width>
+					<height>40</height>
+					<texture border="5">../../Default/media/dialogs/button-focus-red.png</texture>
+				</control>
+				<control type="image">
+					<posx>5</posx>
+					<posy>17</posy>
+					<width>7</width>
+					<height>7</height>
+					<texture>../../Default/media/tvguide-channel-leftarrow.png</texture>
+				</control>
+				<control type="label">
+					<posx>25</posx>
+					<posy>0</posy>
+					<width>450</width>
+					<height>40</height>
+					<align>left</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>fff0efef</textcolor>
+					<shadowcolor>e13c3c3c</shadowcolor>
+					<label>$INFO[ListItem.Label]</label>
+				</control>
+				<control type="image">
+					<posx>675</posx>
+					<posy>8</posy>
+					<width>25</width>
+					<height>25</height>
+					<info>ListItem.Icon</info>
+				</control>
+			</focusedlayout>
+		</control>
+		
+		<control type="group">
+			<posx>500</posx>
+			<posy>290</posy>
+			<width>560</width>
+			<height>38</height>
+			<visible>!Control.IsVisible(6001)</visible>
+			<animation type="Visible">
+				<effect type="slide" start="560,0" end="0,0" time="500"/>
+			</animation>
+			<animation type="Hidden">
+				<effect type="slide" start="0,0" end="560,0" time="500"/>
+			</animation>
+
+			<control type="image">
+				<posx>15</posx>
+				<posy>15</posy>
+				<width>545</width>
+				<height>145</height>
+				<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+			</control>
+
+			<control type="image">
+				<posx>478</posx>
+				<posy>70</posy>
+				<width>25</width>
+				<height>25</height>
+				<texture>../../Default/media/tvguide-channel-updownarrow.png</texture>
+			</control>
+			<control type="image">
+				<posx>40</posx>
+				<posy>55</posy>
+				<width>500</width>
+				<height>10</height>
+				<texture>../../Default/media/dialogs/separator.png</texture>
+			</control>
+			<control type="button" id="6002">
+				<posx>30</posx>
+				<posy>20</posy>
+				<width>500</width>
+				<height>38</height>
+				<aligny>center</aligny>
+				<font>font25_title</font>
+				<textcolor>ffe34555</textcolor>
+				<shadowcolor>e1000000</shadowcolor>
+				<texturefocus>-</texturefocus>
+				<texturenofocus>-</texturenofocus>
+			</control>
+			<control type="label">
+				<posx>36</posx>
+				<posy>70</posy>
+				<width>500</width>
+				<height>60</height>
+				<font>font13</font>
+				<textcolor>fff0efef</textcolor>
+				<shadowcolor>e13c3c3c</shadowcolor>
+				<label>$ADDON[script.mtvguide 30501]</label>
+			</control>
+		</control>
+
+		<control type="button" id="6003">
+			<description>Save</description>
+			<posx>465</posx>
+			<posy>538</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/selectFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/selectFO.png</texturenofocus>
+			<onleft>6000</onleft>
+			<onright>6004</onright>
+			<onup>6000</onup>
+		</control>
+		<control type="button" id="6004">
+			<description>Cancel</description>
+			<posx>605</posx>
+			<posy>538</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/cancelFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/cancelFO.png</texturenofocus>
+			<onleft>6003</onleft>
+			<onright>6000</onright>
+			<onup>6000</onup>
+		</control>
+	</controls>
+</window>

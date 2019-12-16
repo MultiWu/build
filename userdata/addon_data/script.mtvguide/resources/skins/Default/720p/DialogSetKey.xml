@@ -1,0 +1,525 @@
+<window>
+	<defaultcontrol always="false">9001</defaultcontrol>
+	<zorder>50</zorder>
+	<coordinates>
+		<system>1</system><posx>0</posx><posy>-45</posy>
+	</coordinates>
+		<animation effect="fade" time="200">WindowOpen</animation>
+		<animation effect="fade" time="200">WindowClose</animation>
+	<controls>
+	<ondown>9002</ondown>
+		<control type="image">
+			<description>Background</description>
+			<posx>0</posx>
+			<posy>45</posy>
+			<width>1280</width>
+			<height>720</height>
+			<texture>../../Default/media/tvguide-background-default.png</texture>
+		</control>
+		
+		<control type="image">
+			<description>Logo</description>
+			<posx>28</posx>
+			<posy>71</posy>
+			<width>202</width>
+			<height>70</height>
+			<texture>../../Default/media/dialogs/mods-kodi_logo.png</texture>
+		</control>
+		
+		<control type="image">
+			<description>Logo</description>
+			<posx>1106</posx>
+			<posy>55</posy>
+			<width>155</width>
+			<height>103</height>
+			<texture>../../Default/media/dialogs/keyboard_icon.png</texture>
+		</control>
+		<control type="image">
+			<description>Shadow</description>
+			<posx>240</posx>
+			<posy>110</posy>
+			<width>800</width>
+			<height>590</height>
+			<texture>../../Default/media/dialogs/shadow.png</texture>
+		</control>
+		<control type="image">
+			<description>Separator</description>
+			<posx>255</posx>
+			<posy>133</posy>
+			<width>771</width>
+			<height>10</height>
+			<texture>../../Default/media/dialogs/separator.png</texture>
+		</control>
+		<control type="label" id="1">
+			<description>Header label</description>
+			<posx>0%</posx>
+			<posy>88</posy>
+			<width>1280</width>
+			<height>45</height>
+			<font>font32_title</font>
+			<label>$ADDON[script.mtvguide 31002]</label>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>e13c3c3c</shadowcolor>
+		</control>
+		
+		<control type="button" id="9001">
+			<posx>280</posx>
+			<posy>155</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9099</onup>
+			<ondown>9002</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8001">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>160</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31009]</label>
+		</control>
+		<control type="label" id="7001">
+			<description>Value</description>
+			<right>290</right>
+			<top>160</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9002">
+			<posx>280</posx>
+			<posy>200</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9001</onup>
+			<ondown>9003</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8002">
+			<posx>288</posx>
+			<top>205</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31008]</label>
+		</control>
+		<control type="label" id="7002">
+			<description>Value</description>
+			<right>290</right>
+			<top>205</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9003">
+			<posx>280</posx>
+			<posy>245</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9002</onup>
+			<ondown>9004</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8003">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>250</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31007]</label>
+		</control>
+		<control type="label" id="7003">
+			<description>Value</description>
+			<right>290</right>
+			<top>250</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9004">
+			<posx>280</posx>
+			<posy>290</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9003</onup>
+			<ondown>9009</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8004">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>295</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31006]</label>
+		</control>
+		<control type="label" id="7004">
+			<description>Value</description>
+			<right>290</right>
+			<top>295</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9009">
+			<posx>280</posx>
+			<posy>335</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9004</onup>
+			<ondown>9010</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8009">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>340</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31015]</label>
+		</control>
+		<control type="label" id="7009">
+			<description>Value</description>
+			<right>290</right>
+			<top>340</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9010">
+			<posx>280</posx>
+			<posy>380</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9009</onup>
+			<ondown>9005</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8010">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>385</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31016]</label>
+		</control>
+		<control type="label" id="7010">
+			<description>Value</description>
+			<right>290</right>
+			<top>385</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9005">
+			<posx>280</posx>
+			<posy>425</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9010</onup>
+			<ondown>9006</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8005">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>430</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31005]</label>
+		</control>
+		<control type="label" id="7005">
+			<description>Value</description>
+			<right>290</right>
+			<top>430</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9006">
+			<posx>280</posx>
+			<posy>470</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9005</onup>
+			<ondown>9007</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8006">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>475</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31010] / $ADDON[script.mtvguide 31014]</label>
+		</control>
+		<control type="label" id="7006">
+			<description>Value</description>
+			<right>290</right>
+			<top>475</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9007">
+			<posx>280</posx>
+			<posy>515</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9006</onup>
+			<ondown>9020</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8007">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>520</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31011]</label>
+		</control>
+		<control type="label" id="7007">
+			<description>Value</description>
+			<right>290</right>
+			<top>520</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9020">
+			<posx>280</posx>
+			<posy>560</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9007</onup>
+			<ondown>9021</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8020">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>565</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31017]</label>
+		</control>
+		<control type="label" id="7020">
+			<description>Value</description>
+			<right>290</right>
+			<top>565</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9021">
+			<posx>280</posx>
+			<posy>605</posy>
+			<width>720</width>
+			<height>40</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<textcolor>FFF0F0F0</textcolor>
+			<label></label>
+			<onup>9020</onup>
+			<ondown>9099</ondown>
+			<texturefocus border="5">../../Default/media/dialogs/button-focus-red.png</texturefocus>
+			<texturenofocus border="5">../../Default/media/dialogs/button-nofocus-red.png</texturenofocus>
+		</control>
+		<control type="label" id="8021">
+			<description>Label</description>
+			<posx>288</posx>
+			<top>610</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 31018]</label>
+		</control>
+		<control type="label" id="7021">
+			<description>Value</description>
+			<right>290</right>
+			<top>610</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+		</control>
+		<control type="button" id="9008">
+			<description>Reset</description>
+			<posx>745</posx>
+			<posy>688</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/resetFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/resetFO.png</texturenofocus>
+			<onleft>1000</onleft>
+			<onright>9099</onright>
+			<onup>9021</onup>
+			<ondown>9001</ondown>
+		</control>
+		<control type="button" id="9099">
+			<description>Save</description>
+			<posx>465</posx>
+			<posy>688</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/selectFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/selectFO.png</texturenofocus>
+			<onleft>9008</onleft>
+			<onright>1000</onright>
+			<onup>9021</onup>
+			<ondown>9001</ondown>
+		</control>
+		<control type="button" id="1000">
+			<description>Cancel</description>
+			<posx>605</posx>
+			<posy>688</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/cancelFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/cancelFO.png</texturenofocus>
+			<onclick>Dialog.Close(all,true)</onclick>
+			<onleft>9099</onleft>
+			<onright>9008</onright>
+			<onup>9021</onup>
+			<ondown>9001</ondown>
+		</control>
+	</controls>
+</window>

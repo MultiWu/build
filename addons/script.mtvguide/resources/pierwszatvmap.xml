@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map id="pierwszatv" version="1.0" strm="service=pierwszatv&amp;cid=%s">
+	<channel id="CBS Action" 								title="(?=CBS(\s*|_)Action(\s*TV)?(\s*HD)?$)" strm=""/>
+</map>
+
+<!--
+	<channel id="" 									title="(?=HBO\s*3$)" strm=""/>
+	<channel id="" 									title="(?=HBO\s*3$)" strm=""/>
+-->

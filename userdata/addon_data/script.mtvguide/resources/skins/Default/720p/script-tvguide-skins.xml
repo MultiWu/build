@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog">
+	<allowoverlay>no</allowoverlay>
+	<defaultcontrol always="false">9002</defaultcontrol>
+	<zorder>9</zorder>
+	<coordinates>
+		<system>1</system><posx>0</posx><posy>0</posy>
+	</coordinates>
+	<controls>
+		<control type="label" id="6001"><description>visibility marker for selection box</description></control>
+
+		<control type="image">
+			<description>Background</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>1280</width>
+			<height>720</height>
+			<texture>../../Default/media/tvguide-background-default.png</texture>
+		</control>
+		
+		<control type="image">
+			<description>Logo</description>
+			<posx>28</posx>
+			<posy>26</posy>
+			<width>202</width>
+			<height>70</height>
+			<texture>../../Default/media/dialogs/mods-kodi_logo.png</texture>
+		</control>
+		
+		<control type="image">
+			<description>Logo</description>
+			<posx>1106</posx>
+			<posy>10</posy>
+			<width>155</width>
+			<height>115</height>
+			<texture>../../Default/media/dialogs/skins_logo.png</texture>
+		</control>
+		
+		<!-- Mouse control panel -->
+		<control type="label" id="">
+			<description>visibility marker for mouse control group</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>1280</width>
+			<height>720</height>
+		</control>
+
+			<control type="button" id="9000">
+				<description>Navigate down</description>
+				<posx>590</posx>
+				<posy>620</posy>
+				<width>100</width>
+				<height>100</height>
+				<texturefocus flipy="true" colordiffuse="ffe34555">../../Default/media/buttons/nextupFO.png</texturefocus>
+				<texturenofocus flipy="true">../../Default/media/buttons/nextupFO.png</texturenofocus>
+				<onup>9001</onup>
+				<ondown>-</ondown>
+				<onleft>9002</onleft>
+				<onright>9002</onright>
+			</control>
+			<control type="button" id="9001">
+				<description>Navigate up</description>
+				<posx>590</posx>
+				<posy>0</posy>
+				<width>100</width>
+				<height>100</height>
+				<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/nextupFO.png</texturefocus>
+				<texturenofocus>../../Default/media/buttons/nextupFO.png</texturenofocus>
+				<onup>-</onup>
+				<ondown>9000</ondown>
+				<onleft>9002</onleft>
+				<onright>9002</onright>
+			</control>
+			<control type="button" id="9002">
+				<description>Select</description>
+				<posx>1153</posx>
+				<posy>312</posy>
+				<width>97</width>
+				<height>97</height>
+				<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/selectFO.png</texturefocus>
+				<texturenofocus>../../Default/media/buttons/selectFO.png</texturenofocus>
+				<onup>-</onup>
+				<ondown>-</ondown>
+				<onleft>9000</onleft>
+				<onright>9000</onright>
+			</control>
+			
+		<control type="image" id="5001">
+			<description>Skin Name</description>
+			<posx>0</posx>
+			<posy>604</posy>
+			<width>1280</width>
+			<height>115</height>
+			<texture>dialogs/name.png</texture>
+		</control>
+			
+		<control type="image">
+			<description>Shadow</description>
+			<posx>201</posx>
+			<posy>114</posy>
+			<width>848</width>
+			<height>508</height>
+			<texture>../../Default/media/dialogs/shadow_back.png</texture>
+		</control>
+		
+		<control type="image" id="5000">
+			<description>Skin Background</description>
+			<posx>238</posx>
+			<posy>110</posy>
+			<width>800</width>
+			<height>480</height>
+		</control>
+	</controls>
+</window>

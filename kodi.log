@@ -1,0 +1,561 @@
+﻿2019-12-16 17:46:52.898 T:1548  NOTICE: -----------------------------------------------------------------------
+2019-12-16 17:46:52.898 T:1548  NOTICE: Starting Kodi (18.5 Git:20191116-37f51f6e63). Platform: Windows NT x86 64-bit
+2019-12-16 17:46:52.898 T:1548  NOTICE: Using Release Kodi x64 build
+2019-12-16 17:46:52.898 T:1548  NOTICE: Kodi compiled 2019-11-16 by MSVC 191627034 for Windows NT x86 64-bit version 10.0 (0x0A000006)
+2019-12-16 17:46:52.898 T:1548  NOTICE: Running on Windows 10, kernel: Windows NT x86 64-bit version 10.0.18362
+2019-12-16 17:46:52.898 T:1548  NOTICE: FFmpeg version/source: 4.0.4-Kodi
+2019-12-16 17:46:52.898 T:1548  NOTICE: Host CPU: Intel(R) Xeon(R) CPU E5450 @ 3.00GHz, 4 cores available
+2019-12-16 17:46:52.898 T:1548  NOTICE: Desktop Resolution: 1440x900 32Bit at 60Hz
+2019-12-16 17:46:52.898 T:1548  NOTICE: Running with restricted rights
+2019-12-16 17:46:52.898 T:1548  NOTICE: Aero is enabled
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://xbmc/ is mapped to: C:\Program Files\Kodi
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files\Kodi
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files\Kodi/addons
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://masterprofile/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://home/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://temp/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\cache
+2019-12-16 17:46:52.898 T:1548  NOTICE: special://logpath/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\
+2019-12-16 17:46:52.898 T:1548  NOTICE: The executable running is: C:\Program Files\Kodi\kodi.exe
+2019-12-16 17:46:52.902 T:1548  NOTICE: Local hostname: DESKTOP-PAD9FNL
+2019-12-16 17:46:52.902 T:1548  NOTICE: Log File is located: C:\Users\Oliwier\AppData\Roaming\Kodi\kodi.log
+2019-12-16 17:46:52.903 T:1548  NOTICE: -----------------------------------------------------------------------
+2019-12-16 17:46:52.904 T:1548    INFO: loading settings
+2019-12-16 17:46:52.904 T:1548  NOTICE: special://profile/ is mapped to: special://masterprofile/
+2019-12-16 17:46:52.909 T:1548   DEBUG: CSkinSettings: no <skinsettings> tag found
+2019-12-16 17:46:52.910 T:1548  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2019-12-16 17:46:52.910 T:1548  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+2019-12-16 17:46:52.910 T:1548  NOTICE: Default Video Player: VideoPlayer
+2019-12-16 17:46:52.910 T:1548  NOTICE: Default Audio Player: paplayer
+2019-12-16 17:46:52.910 T:1548  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+2019-12-16 17:46:52.910 T:1548  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+2019-12-16 17:46:52.910 T:1548  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+2019-12-16 17:46:52.917 T:1548  NOTICE: Running database version Addons27
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: game.controller.default v1.0.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: game.controller.snes v1.0.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: hellyrepo.kodi v0.2.6 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.global.main v1.0.14 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.game v1.1.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.pvr v5.10.3 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: kodi.resource v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.album.universal v3.1.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.artists.universal v4.3.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.common.allmusic.com v3.2.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.common.fanart.tv v3.6.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.common.imdb.com v3.1.4 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.common.musicbrainz.org v2.2.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.common.theaudiodb.com v2.0.3 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.common.themoviedb.org v3.1.10 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.local v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.themoviedb.org v5.1.10 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: metadata.tvshows.themoviedb.org v3.4.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: peripheral.joystick v1.4.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: plugin.program.multiwuwizard v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: plugin.video.exodusredux v2.0.3a installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: plugin.video.usbwizard v1.2.9 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: repository.exodusredux v0.0.9 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: repository.host505 v2.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: repository.mods-kodi v0.1.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: repository.xbmc.org v3.1.6 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: repository.xbmchub v3.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: resource.images.studios.white v0.0.24 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: resource.language.pl_pl v9.0.16 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.33 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.58 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.exodusredux.artwork v1.0.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.exodusredux.metadata v1.0.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.extendedinfo v5.6.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.favourites v7.1.3 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.addon.common v2.0.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.addon.signals v0.0.5 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.autocompletion v1.1.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.beautifulsoup4 v4.6.2 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.certifi v2019.9.11 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.chardet v3.0.4 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.dateutil v2.8.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.elementtree v1.2.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.exodusredux v2.0.5 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.idna v2.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.kodi65 v1.2.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.metahandler v3.99.02 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.myconnpy v1.1.7 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.oathscrapers v0.5.8 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.openscrapers v0.0.1.99a installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.pil v1.1.7 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.requests v2.22.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.resolveurl v5.0.36 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.routing v0.2.3 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.simplejson v3.16.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.six v1.13.0 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.urllib3 v1.25.6 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.module.youtube.dl v19.912.1 installed
+2019-12-16 17:46:52.940 T:1548  NOTICE: ADDON: script.mtvguide v8.1.4 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: script.randomandlastitems v2.2.2 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: script.theoath.artwork v1.0.7 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: script.theoath.metadata v1.0.2 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: service.library.data.provider v0.3.2 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: service.skin.widgets v0.0.33 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: service.xbmc.versioncheck v0.4.7 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: skin.estouchy v2.0.27 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: skin.estuary v2.0.26 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: skin.xonfluence v4.0.10 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: webinterface.default v18.x-2.4.6 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.addon v18.5.0 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.core v0.1.0 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.gui v5.14.0 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.json v10.3.0 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.python v2.26.0 installed
+2019-12-16 17:46:52.941 T:1548  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
+2019-12-16 17:46:53.015 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.015 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD_MA" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.016 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_TRUEHD" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.016 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_EAC3" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.016 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTS" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.017 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_AC3" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.020 T:13276  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: sample rate 192khz on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-16 17:46:53.044 T:13276  NOTICE: Found 2 Lists of Devices
+2019-12-16 17:46:53.044 T:13276  NOTICE: Enumerated DIRECTSOUND devices:
+2019-12-16 17:46:53.044 T:13276  NOTICE:     Device 1
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {2260B3D5-F7D5-495D-A2F0-77BCC75B5580}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Microphone)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Steam Streaming Microphone)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 48000
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 2
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {3030490C-1641-48AD-B29B-6F65C54BE3CE}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : Speakers - Głośniki (High Definition Audio Device)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (High Definition Audio Device)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 48000
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 3
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : default
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : default
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra:
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 48000
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 4
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {802D3C7E-E6F9-490E-B637-5BFFF187A323}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : HDMI - 916W (NVIDIA High Definition Audio)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: DIRECTSOUND: 916W (NVIDIA High Definition Audio)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 48000
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 5
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {87E1AAD6-1084-4AFE-B4AF-1552229F30BF}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Speakers)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Steam Streaming Speakers)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 48000
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 6
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {AA1454AA-71F9-46C7-95DE-7FC3DE280747}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: DIRECTSOUND: Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 48000
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+2019-12-16 17:46:53.045 T:13276  NOTICE: Enumerated WASAPI devices:
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 1
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {2260B3D5-F7D5-495D-A2F0-77BCC75B5580}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Microphone)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Steam Streaming Microphone)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 2
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : {3030490C-1641-48AD-B29B-6F65C54BE3CE}
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayName     : Speakers - Głośniki (High Definition Audio Device)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (High Definition Audio Device)
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-16 17:46:53.045 T:13276  NOTICE:     Device 3
+2019-12-16 17:46:53.045 T:13276  NOTICE:         m_deviceName      : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra:
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-16 17:46:53.046 T:13276  NOTICE:     Device 4
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceName      : {802D3C7E-E6F9-490E-B637-5BFFF187A323}
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : HDMI - 916W (NVIDIA High Definition Audio)
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra: WASAPI: 916W (NVIDIA High Definition Audio)
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,48000,44100,32000
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-16 17:46:53.046 T:13276  NOTICE:     Device 5
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceName      : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra:
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,48000,44100,32000
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-16 17:46:53.046 T:13276  NOTICE:     Device 6
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceName      : {87E1AAD6-1084-4AFE-B4AF-1552229F30BF}
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Speakers)
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Steam Streaming Speakers)
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8,AE_FMT_RAW
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-16 17:46:53.046 T:13276  NOTICE:     Device 7
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceName      : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra:
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8,AE_FMT_RAW
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-16 17:46:53.046 T:13276  NOTICE:     Device 8
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceName      : {AA1454AA-71F9-46C7-95DE-7FC3DE280747}
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra: WASAPI: Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-16 17:46:53.046 T:13276  NOTICE:     Device 9
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceName      : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayName     : default
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_displayNameExtra:
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_channels        : FL, FR
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-16 17:46:53.046 T:13276  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-16 17:46:53.131 T:1548  NOTICE: Primary mode: Generic PnP Monitor #1: 1440x900 @ 60.00Hz
+2019-12-16 17:46:53.131 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 60.00Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 72.00Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 75.00Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 720x480 @ 60.00Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 720x480 @ 59.94Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 56.00Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 60.00Hz
+2019-12-16 17:46:53.132 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 72.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 75.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 56.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 60.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 72.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 75.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 60.00Hz
+2019-12-16 17:46:53.133 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 70.00Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 75.00Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1152x864 @ 75.00Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1176x664 @ 60.00Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1176x664 @ 59.94Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x720 @ 60.00Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x720 @ 59.94Hz
+2019-12-16 17:46:53.134 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x768 @ 60.00Hz
+2019-12-16 17:46:53.135 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x768 @ 75.00Hz
+2019-12-16 17:46:53.135 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x800 @ 60.00Hz
+2019-12-16 17:46:53.135 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x800 @ 75.00Hz
+2019-12-16 17:46:53.135 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x960 @ 60.00Hz
+2019-12-16 17:46:53.135 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 60.00Hz
+2019-12-16 17:46:53.136 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 75.00Hz
+2019-12-16 17:46:53.136 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1360x768 @ 60.00Hz
+2019-12-16 17:46:53.136 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1360x768 @ 75.00Hz
+2019-12-16 17:46:53.136 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1366x768 @ 60.00Hz
+2019-12-16 17:46:53.137 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1366x768 @ 75.00Hz
+2019-12-16 17:46:53.137 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x900 @ 60.00Hz
+2019-12-16 17:46:53.137 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x900 @ 59.94Hz
+2019-12-16 17:46:53.137 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x1024 @ 60.00Hz
+2019-12-16 17:46:53.138 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x1024 @ 59.94Hz
+2019-12-16 17:46:53.138 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 60.00Hz
+2019-12-16 17:46:53.138 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 59.94Hz
+2019-12-16 17:46:53.138 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1768x992 @ 60.00Hz
+2019-12-16 17:46:53.139 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1768x992 @ 59.94Hz
+2019-12-16 17:46:53.139 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 60.00Hz
+2019-12-16 17:46:53.139 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 59.94Hz
+2019-12-16 17:46:53.139 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1440x900 @ 60.00Hz
+2019-12-16 17:46:53.139 T:1548  NOTICE: Additional mode: Generic PnP Monitor #1: 1440x900 @ 75.00Hz
+2019-12-16 17:46:53.139 T:1548  NOTICE: Checking resolution 16
+2019-12-16 17:46:53.449 T:1548 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:46:53.475 T:1548   ERROR: POParser: missing msgstr line in entry. Failed entry: 
+                                            msgctxt "#32613"
+                                            msgid "[B]EXODUS REDUX[/B] : Clear All Cache..."
+                                            msgid "[B]EXODUS REDUX[/B] : Wyczyść całą pamięć podręczną..."
+2019-12-16 17:46:53.496 T:1856  NOTICE: Running database version Addons27
+2019-12-16 17:46:53.497 T:1856  NOTICE: Running database version ViewModes6
+2019-12-16 17:46:53.498 T:1856  NOTICE: Running database version Textures13
+2019-12-16 17:46:53.499 T:1856  NOTICE: Running database version MyMusic72
+2019-12-16 17:46:53.501 T:1856  NOTICE: Running database version MyVideos116
+2019-12-16 17:46:53.502 T:1856  NOTICE: Running database version TV32
+2019-12-16 17:46:53.503 T:1856  NOTICE: Running database version Epg12
+2019-12-16 17:46:53.527 T:1856 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:46:53.536 T:1548  NOTICE:   load skin from: C:\Users\Oliwier\AppData\Roaming\Kodi\addons\skin.xonfluence (version: 4.0.10)
+2019-12-16 17:46:53.916 T:1548 WARNING: CApplication::Initialize - startup.xml taints init process
+2019-12-16 17:46:53.925 T:1548 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2019-12-16 17:46:53.948 T:1548  NOTICE: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Klawiatura (0000:0000)
+2019-12-16 17:46:53.948 T:1548  NOTICE: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mysz (0000:0000)
+2019-12-16 17:46:53.950 T:1548  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2019-12-16 17:46:53.951 T:1548  NOTICE: Loaded playercorefactory configuration
+2019-12-16 17:46:53.951 T:1548  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2019-12-16 17:46:53.951 T:1548  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2019-12-16 17:46:53.954 T:1548 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:46:53.961 T:1548 WARNING: Previous line repeats 1 times.
+2019-12-16 17:46:53.961 T:1548  NOTICE: initialize done
+2019-12-16 17:46:53.962 T:1548  NOTICE: Running the application...
+2019-12-16 17:46:53.972 T:1548  NOTICE: VideoPlayer::OpenFile: special://skin/extras/Intro/KODI-Intro-Video.mp4
+2019-12-16 17:46:53.972 T:13384  NOTICE: Creating InputStream
+2019-12-16 17:46:53.974 T:13384  NOTICE: Creating Demuxer
+2019-12-16 17:46:53.992 T:13384  NOTICE: Opening stream: 0 source: 256
+2019-12-16 17:46:53.992 T:13384  NOTICE: Creating video codec with codec id: 27
+2019-12-16 17:46:53.992 T:13384  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+2019-12-16 17:46:53.992 T:13384  NOTICE: Creating video thread
+2019-12-16 17:46:53.993 T:13384  NOTICE: Opening stream: 1 source: 256
+2019-12-16 17:46:53.993 T:13384  NOTICE: Finding audio codec for: 86018
+2019-12-16 17:46:53.993 T:13384  NOTICE: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder aac
+2019-12-16 17:46:53.993 T:13384  NOTICE: Creating audio thread
+2019-12-16 17:46:53.995 T:428  NOTICE: running thread: video_thread
+2019-12-16 17:46:53.998 T:244  NOTICE: running thread: CVideoPlayerAudio::Process()
+2019-12-16 17:46:53.998 T:244  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+2019-12-16 17:46:54.769 T:1548  NOTICE: DXVA::CProcessorHD::InitProcessor: supported deinterlace methods: blend:yes, bob:yes, adaptive:yes, mocomp:no.
+2019-12-16 17:46:54.771 T:1548 WARNING: CWinRenderer::UpdateVideoFilter: chosen scaling method 1 is not supported by renderer
+2019-12-16 17:46:54.926 T:12272  NOTICE: ES: Starting UDP Event server on port 9777
+2019-12-16 17:46:54.926 T:12272  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+2019-12-16 17:46:54.994 T:428  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 33333
+2019-12-16 17:46:57.161 T:788 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:47:01.890 T:428 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+2019-12-16 17:47:08.022 T:3044 WARNING: Previous line repeats 74 times.
+2019-12-16 17:47:08.022 T:3044   ERROR: XFILE::CDirectory::GetDirectory - Error getting None
+2019-12-16 17:47:08.046 T:428   ERROR: Previous line repeats 3 times.
+2019-12-16 17:47:08.046 T:428 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+2019-12-16 17:47:08.186 T:244  NOTICE: CVideoPlayerAudio::Process - stream stalled
+2019-12-16 17:47:08.218 T:13384  NOTICE: CVideoPlayer::OnExit()
+2019-12-16 17:47:08.218 T:13384  NOTICE: VideoPlayer: eof, waiting for queues to empty
+2019-12-16 17:47:08.218 T:13384  NOTICE: Closing stream player 1
+2019-12-16 17:47:08.218 T:13384  NOTICE: CDVDMessageQueue(audio)::WaitUntilEmpty
+2019-12-16 17:47:08.218 T:13384  NOTICE: Waiting for audio thread to exit
+2019-12-16 17:47:08.218 T:244   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
+2019-12-16 17:47:08.218 T:244  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+2019-12-16 17:47:08.218 T:13384  NOTICE: Closing audio device
+2019-12-16 17:47:08.218 T:13384  NOTICE: Deleting audio codec
+2019-12-16 17:47:08.218 T:13384  NOTICE: Closing stream player 2
+2019-12-16 17:47:08.218 T:13384  NOTICE: CDVDMessageQueue(video)::WaitUntilEmpty
+2019-12-16 17:47:08.218 T:13384  NOTICE: waiting for video thread to exit
+2019-12-16 17:47:08.218 T:428   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
+2019-12-16 17:47:08.218 T:428  NOTICE: thread end: video_thread
+2019-12-16 17:47:08.218 T:13384  NOTICE: deleting video codec
+2019-12-16 17:47:08.239 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Started
+2019-12-16 17:47:08.240 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Good!
+2019-12-16 17:47:08.247 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [First Run] Skipping Save Data Settings
+2019-12-16 17:47:08.288 T:1548  NOTICE: CVideoPlayer::CloseFile()
+2019-12-16 17:47:08.288 T:1548  NOTICE: DXVA::CDecoder::Close: closing decoder.
+2019-12-16 17:47:08.288 T:1548  NOTICE: DXVA: closing decoder context.
+2019-12-16 17:47:08.288 T:1548  NOTICE: VideoPlayer: waiting for threads to exit
+2019-12-16 17:47:08.288 T:1548  NOTICE: VideoPlayer: finished waiting
+2019-12-16 17:47:08.288 T:1548  NOTICE: CVideoPlayer::CloseFile()
+2019-12-16 17:47:08.288 T:1548  NOTICE: VideoPlayer: waiting for threads to exit
+2019-12-16 17:47:08.288 T:1548  NOTICE: VideoPlayer: finished waiting
+2019-12-16 17:47:08.454 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:47:08.461 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Current Build Check] Build Installed: MWUBuild Alpha
+2019-12-16 17:47:08.472 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Update Check] Started
+2019-12-16 17:47:08.503 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:47:08.504 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Check] Build Installed: Checking Updates
+2019-12-16 17:47:08.532 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:47:08.585 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Check Updates] [Installed Version: 1.0.0] [Current Version: 1.0.0]
+2019-12-16 17:47:08.607 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Install Repo] Not Enabled
+2019-12-16 17:47:08.609 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Binary Detection] Eligible Binary Addons to Reinstall
+2019-12-16 17:47:08.609 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] Started
+2019-12-16 17:47:08.637 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:47:08.698 T:5800  NOTICE: Previous line repeats 1 times.
+2019-12-16 17:47:08.698 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] No New Version v1.0.0
+2019-12-16 17:47:08.699 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] Started
+2019-12-16 17:47:08.730 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+2019-12-16 17:47:08.815 T:5800  NOTICE: Previous line repeats 1 times.
+2019-12-16 17:47:08.815 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] id[1] Dismissed
+2019-12-16 17:47:08.822 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Started
+2019-12-16 17:47:08.824 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Install seems to be completed correctly
+2019-12-16 17:47:08.857 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Trakt Data Not Found for Exodus Redux
+2019-12-16 17:47:08.858 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Gaia(plugin.video.gaia) is not installed
+2019-12-16 17:47:08.859 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-16 17:47:08.860 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
+2019-12-16 17:47:08.861 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-16 17:47:08.862 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Realizer(plugin.video.realizer) is not installed
+2019-12-16 17:47:08.862 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-16 17:47:08.863 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Seren(plugin.video.seren) is not installed
+2019-12-16 17:47:08.864 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
+2019-12-16 17:47:08.865 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Trakt(script.trakt) is not installed
+2019-12-16 17:47:08.865 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Venom(plugin.video.venom) is not installed
+2019-12-16 17:47:08.866 T:5800   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
+2019-12-16 17:47:08.867 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Trakt Data
+2019-12-16 17:47:08.875 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
+2019-12-16 17:47:08.876 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
+2019-12-16 17:47:08.877 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
+2019-12-16 17:47:08.877 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-16 17:47:08.878 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren AD(plugin.video.seren) is not installed
+2019-12-16 17:47:08.879 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren RD(plugin.video.seren) is not installed
+2019-12-16 17:47:08.880 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
+2019-12-16 17:47:08.880 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
+2019-12-16 17:47:08.910 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL AD
+2019-12-16 17:47:08.942 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL RD
+2019-12-16 17:47:08.973 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL PM
+2019-12-16 17:47:08.976 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
+2019-12-16 17:47:08.977 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
+2019-12-16 17:47:08.977 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
+2019-12-16 17:47:08.978 T:5800   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
+2019-12-16 17:47:08.979 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Real Debrid Data
+2019-12-16 17:47:09.001 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for Fanart.tv - Exodus Redux
+2019-12-16 17:47:09.002 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
+2019-12-16 17:47:09.003 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-16 17:47:09.004 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
+2019-12-16 17:47:09.005 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-16 17:47:09.005 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
+2019-12-16 17:47:09.006 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-16 17:47:09.007 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
+2019-12-16 17:47:09.008 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
+2019-12-16 17:47:09.022 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for IMDb - Exodus Redux
+2019-12-16 17:47:09.023 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
+2019-12-16 17:47:09.024 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-16 17:47:09.025 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-16 17:47:09.026 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
+2019-12-16 17:47:09.026 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-16 17:47:09.027 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
+2019-12-16 17:47:09.028 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Venom(plugin.video.venom) is not installed
+2019-12-16 17:47:09.029 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+2019-12-16 17:47:09.030 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
+2019-12-16 17:47:09.031 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Netflix(plugin.video.netflix) is not installed
+2019-12-16 17:47:09.032 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+2019-12-16 17:47:09.032 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+2019-12-16 17:47:09.034 T:5800 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
+2019-12-16 17:47:09.074 T:5800 WARNING: Previous line repeats 2 times.
+2019-12-16 17:47:09.074 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for OMDb - metahandler
+2019-12-16 17:47:09.076 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+2019-12-16 17:47:09.077 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
+2019-12-16 17:47:09.077 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
+2019-12-16 17:47:09.078 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Orion(script.module.orion) is not installed
+2019-12-16 17:47:09.120 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for TMDb - Exodus Redux
+2019-12-16 17:47:09.129 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for TMDb Login - ExtendedInfo Script
+2019-12-16 17:47:09.130 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
+2019-12-16 17:47:09.131 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+2019-12-16 17:47:09.132 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-16 17:47:09.140 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for TMDb - OpenInfo
+2019-12-16 17:47:09.141 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
+2019-12-16 17:47:09.142 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-16 17:47:09.142 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
+2019-12-16 17:47:09.143 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-16 17:47:09.144 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Seren(plugin.video.seren) is not installed
+2019-12-16 17:47:09.145 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
+2019-12-16 17:47:09.146 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+2019-12-16 17:47:09.146 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Venom(plugin.video.venom) is not installed
+2019-12-16 17:47:09.147 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
+2019-12-16 17:47:09.148 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Trakt - Seren(plugin.video.seren) is not installed
+2019-12-16 17:47:09.149 T:5800 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
+2019-12-16 17:47:09.179 T:5800 WARNING: Previous line repeats 2 times.
+2019-12-16 17:47:09.179 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for TVDB - metahandler
+2019-12-16 17:47:09.180 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
+2019-12-16 17:47:09.182 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-16 17:47:09.182 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
+2019-12-16 17:47:09.183 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Seren(plugin.video.seren) is not installed
+2019-12-16 17:47:09.184 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Yahoo! Weather(weather.yahoo) is not installed
+2019-12-16 17:47:09.185 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+2019-12-16 17:47:09.186 T:5800   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
+2019-12-16 17:47:09.186 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Login Data
+2019-12-16 17:47:09.232 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Started
+2019-12-16 17:47:09.238 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
+2019-12-16 17:47:09.243 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Started
+2019-12-16 17:47:09.250 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
+2019-12-16 17:47:09.256 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Started
+2019-12-16 17:47:09.262 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
+2019-12-16 17:47:09.268 T:5800  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Clean Up] Not Enabled
+2019-12-16 17:47:16.169 T:1548 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:47:19.969 T:10272 WARNING: Previous line repeats 3 times.
+2019-12-16 17:47:19.969 T:10272   ERROR: XFILE::CDirectory::GetDirectory - Error getting None
+2019-12-16 17:47:55.512 T:1548   ERROR: Previous line repeats 3 times.
+2019-12-16 17:47:55.512 T:1548 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:47:55.520 T:1548   ERROR: Window Translator: Can't find window gameviewmode
+2019-12-16 17:48:29.841 T:1548 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
+2019-12-16 17:48:51.048 T:1548 WARNING: Previous line repeats 22 times.
+2019-12-16 17:48:51.048 T:1548 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:48:51.966 T:1548 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
+2019-12-16 17:49:39.700 T:6156 WARNING: Previous line repeats 57 times.
+2019-12-16 17:49:39.700 T:6156  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/:
+2019-12-16 17:49:39.938 T:6156  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:49:40.134 T:6156  NOTICE: Previous line repeats 3 times.
+2019-12-16 17:49:40.134 T:6156  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
+2019-12-16 17:49:40.143 T:6156  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
+2019-12-16 17:49:40.643 T:13344  NOTICE: Previous line repeats 1 times.
+2019-12-16 17:49:40.643 T:13344   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/474e6712.png
+2019-12-16 17:49:40.644 T:6948   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/d/dbd86432.png
+2019-12-16 17:49:40.662 T:13176   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/4/48b892d7.png
+2019-12-16 17:49:40.753 T:6948   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/5/5416977f.png
+2019-12-16 17:49:40.861 T:13344   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/13fd4366.png
+2019-12-16 17:49:40.978 T:13344   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/0/04e061d8.png
+2019-12-16 17:49:43.367 T:6528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: builds ]
+2019-12-16 17:49:43.588 T:6528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:49:43.798 T:6528  NOTICE: Previous line repeats 3 times.
+2019-12-16 17:49:43.798 T:6528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
+2019-12-16 17:49:43.799 T:6528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.guisettings
+2019-12-16 17:49:43.800 T:6528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
+2019-12-16 17:49:43.846 T:13344   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
+2019-12-16 17:49:49.108 T:11528   ERROR: Previous line repeats 4 times.
+2019-12-16 17:49:49.108 T:11528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: buildinfo ] [ name: MWUBuild Alpha ]
+2019-12-16 17:49:49.324 T:11528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:49:49.439 T:11528  NOTICE: Previous line repeats 2 times.
+2019-12-16 17:49:49.439 T:11528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.info
+2019-12-16 17:49:49.468 T:11528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-16 17:49:49.499 T:11528  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
+2019-12-16 17:49:51.361 T:11528 WARNING: Attempt to use invalid handle -1
+2019-12-16 17:50:47.154 T:1548 WARNING: Previous line repeats 1 times.
+2019-12-16 17:50:47.154 T:1548 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-16 17:51:02.401 T:340 WARNING: Previous line repeats 6 times.
+2019-12-16 17:51:02.401 T:340 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.usbwizard/?url=url&mode=3&name=FULL+BACKUP&iconimage=&description=Back+Up+Your+Full+System
+2019-12-16 17:51:02.401 T:340   ERROR: InputStream: Error opening, plugin://plugin.video.usbwizard/?url=url&mode=3&name=FULL+BACKUP&iconimage=&description=Back+Up+Your+Full+System
+2019-12-16 17:51:02.402 T:4304 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.usbwizard/?url=addons&mode=6&name=Backup+Just+Your+Addons&iconimage=&description=Back+Up+Your+Addons
+2019-12-16 17:51:02.402 T:4304   ERROR: InputStream: Error opening, plugin://plugin.video.usbwizard/?url=addons&mode=6&name=Backup+Just+Your+Addons&iconimage=&description=Back+Up+Your+Addons
+2019-12-16 17:51:02.403 T:13596 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.usbwizard/?url=addon_data&mode=6&name=Backup+Just+Your+Addon+UserData&iconimage=&description=Back+Up+Your+Addon+Userdata
+2019-12-16 17:51:02.403 T:13596   ERROR: InputStream: Error opening, plugin://plugin.video.usbwizard/?url=addon_data&mode=6&name=Backup+Just+Your+Addon+UserData&iconimage=&description=Back+Up+Your+Addon+Userdata
+2019-12-16 17:51:02.403 T:340 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.usbwizard/?url=C%3A%5CUsers%5COliwier%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Cguisettings.xml&mode=4&name=Backup+Guisettings.xml&iconimage=&description=Back+Up+Your+guisettings.xml
+2019-12-16 17:51:02.403 T:340   ERROR: InputStream: Error opening, plugin://plugin.video.usbwizard/?url=C%3A%5CUsers%5COliwier%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Cguisettings.xml&mode=4&name=Backup+Guisettings.xml&iconimage=&description=Back+Up+Your+guisettings.xml
+2019-12-16 17:51:02.404 T:4304 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.usbwizard/?url=C%3A%5CUsers%5COliwier%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Csources.xml&mode=4&name=Backup+Source.xml&iconimage=&description=Back+Up+Your+sources.xml
+2019-12-16 17:51:02.404 T:4304   ERROR: InputStream: Error opening, plugin://plugin.video.usbwizard/?url=C%3A%5CUsers%5COliwier%5CAppData%5CRoaming%5CKodi%5Cuserdata%5Csources.xml&mode=4&name=Backup+Source.xml&iconimage=&description=Back+Up+Your+sources.xml
+2019-12-16 17:51:02.404 T:13596 WARNING: XFILE::CFileFactory::CreateLoader - unsupported protocol(plugin) in plugin://plugin.video.usbwizard/?url=C%3A%5CUsers%5COliwier%5CAppData%5CRoaming%5CKodi%5Cuserdata%5CRssFeeds.xml&mode=4&name=Backup+RssFeeds.xml&iconimage=&description=Back+Up+Your+RssFeeds.xml
+2019-12-16 17:51:02.404 T:13596   ERROR: InputStream: Error opening, plugin://plugin.video.usbwizard/?url=C%3A%5CUsers%5COliwier%5CAppData%5CRoaming%5CKodi%5Cuserdata%5CRssFeeds.xml&mode=4&name=Backup+RssFeeds.xml&iconimage=&description=Back+Up+Your+RssFeeds.xml

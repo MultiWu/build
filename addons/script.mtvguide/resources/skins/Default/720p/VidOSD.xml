@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window>
+	<zorder>1</zorder>
+	<aspectratio>scale</aspectratio>
+	<defaultcontrol always="true">1000</defaultcontrol>
+	<allowoverlay>no</allowoverlay>
+	<coordinates>
+		<system>1</system><posx>0</posx><posy>0</posy>
+	</coordinates>
+	<animation effect="fade" time="200">WindowOpen</animation>
+	<animation effect="fade" time="200">WindowClose</animation>
+		<controls>
+		<control type="button" id="1000">
+			<description>Close Window button</description>
+			<top>11</top>
+			<left>auto</left>
+			<width>48</width>
+			<height>48</height>
+			<label>-</label>
+			<font>-</font>
+			<onclick>Dialog.Close(VideoOSD,true)</onclick>
+			<onclick>FullScreen</onclick>
+			<texturefocus>-</texturefocus>
+			<texturenofocus>-</texturenofocus>
+			<onleft>1000</onleft>
+			<onright>1000</onright>
+			<onup>100</onup>
+			<ondown>100</ondown>
+			<animation effect="slide" end="-70,0" time="0" condition="true">Conditional</animation>
+			<visible>hidden</visible>
+		</control>
+			
+		<!-- !LiveTV -->
+		<control type="group" id="100">
+			<posx>0</posx>
+			<posy>0</posy>
+			<visible>true</visible>
+		
+		<control type="image">
+			<posx>15</posx>
+			<posy>480</posy>
+			<width>1250</width>
+			<height>225</height>
+			<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+		</control>
+		
+		<control type="image">
+			<top>532</top>
+			<left>-40</left>
+			<width>1086</width>
+			<height>10</height>
+			<texture colordiffuse="">../../Default/media/dialogs/separator.png</texture>
+		</control>
+		<control type="image">
+			<top>626</top>
+			<left>-40</left>
+			<width>1303</width>
+			<height>10</height>
+			<texture colordiffuse="">../../Default/media/dialogs/separator.png</texture>
+		</control>
+		
+		<control type="label" id="4950">
+			<visible>hidden</visible>
+		</control>
+		
+		<control type="label" id="4951">
+			<visible>hidden</visible>
+		</control>
+
+		<control type="grouplist">
+			<left>153</left>
+			<posy>546</posy>
+			<width>1280</width>
+			<height>720</height>
+			<itemgap>5</itemgap>
+			<orientation>horizontal</orientation>
+			<aligny>center</aligny>
+			
+		<control type="label" id="4921">
+			<description>Program time</description>
+			<left>0</left>
+			<top>0</top>
+			<width min="20" max="350">auto</width>
+			<height>25</height>
+			<font>font12</font>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<align>left</align>
+		</control>	
+		
+		<control type="label">
+			<description>Now playing</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width min="10" max="345">auto</width>
+			<height>25</height>
+			<label>     [B]$LOCALIZE[19030]:[/B]</label>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<font>font12</font>
+			<align>left</align>
+			<animation effect="fade" start="0" end="100" time="150">WindowOpen</animation>
+			<animation effect="fade" start="100" end="0" time="150">WindowClose</animation>
+			<visible>!Control.IsVisible(107) + !Control.IsVisible(108)</visible>
+		</control>
+		
+		<control type="label">
+			<description>Next playing</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width min="10" max="345">auto</width>
+			<height>25</height>
+			<label>     [B]$LOCALIZE[19031]:[/B]</label>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<font>font12</font>
+			<align>left</align>
+			<animation effect="fade" start="0" end="100" time="150">WindowOpen</animation>
+			<animation effect="fade" start="100" end="0" time="150">WindowClose</animation>
+			<visible>Control.IsVisible(107) | Control.IsVisible(108)</visible>
+		</control>
+		
+		<control type="label" id="4920">
+			<description>Program title</description>
+			<left>0</left>
+			<top>0</top>
+			<width min="20" max="350">auto</width>
+			<height>25</height>
+			<font>font12</font>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<align>left</align>
+			<visible>true</visible>
+		</control>
+	</control>
+	
+		<control type="grouplist">
+			<posx>-900</posx>
+			<posy>655</posy>
+			<width>1280</width>
+			<height>720</height>
+			<itemgap>82</itemgap>
+			<orientation>horizontal</orientation>
+			<align>right</align>
+			
+		<control type="label">
+			<posx>0</posx>
+			<posy>0</posy>
+			<width min="20" max="250">auto</width>
+			<height>20</height>
+			<aligny>center</aligny>
+			<font>font12</font>
+			<focusedcolor>FFe34555</focusedcolor>
+			<textcolor>FF505050</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<label>$LOCALIZE[19030]</label>
+			<visible allowhiddenfocus="true">!Control.IsVisible(107) + !Control.IsVisible(108)</visible>
+		</control>
+		
+		<control type="button" id="112">
+			<posx>0</posx>
+			<posy>0</posy>
+			<width min="20" max="250">auto</width>
+			<height>20</height>
+			<font>font12</font>
+			<focusedcolor>FFe34555</focusedcolor>
+			<disabledcolor>FF505050</disabledcolor>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<label>$LOCALIZE[210]</label>
+			<aligny>center</aligny>
+			<texturefocus colordiffuse="">-</texturefocus>
+			<texturenofocus colordiffuse="">-</texturenofocus>
+			<visible allowhiddenfocus="true">Control.IsVisible(107) | Control.IsVisible(108)</visible>
+		</control>
+		
+		<control type="button" id="111">
+			<posx>0</posx>
+			<posy>0</posy>
+			<width min="20" max="250">auto</width>
+			<height>20</height>
+			<aligny>center</aligny>
+			<label>$LOCALIZE[19031]</label>
+			<font>font12</font>
+			<focusedcolor>FFe34555</focusedcolor>
+			<disabledcolor>FF505050</disabledcolor>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<texturefocus colordiffuse="">-</texturefocus>
+			<texturenofocus colordiffuse="">-</texturenofocus>
+			<visible allowhiddenfocus="true">true</visible>
+		</control>
+	</control>
+	
+		<control type="image">
+			<posx>1065</posx>
+			<posy>15</posy>
+			<width>200</width>
+			<height>60</height>
+			<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+		</control>
+		
+		<control type="image">
+			<posx>1065</posx>
+			<posy>15</posy>
+			<width>15</width>
+			<height>60</height>
+			<texture colordiffuse="ffe34555">../../Default/media/osd/white.png</texture>
+		</control>
+		
+		<control type="label">
+			<left>913</left>
+			<top>538</top>
+			<width>166</width>
+			<height>20</height>
+			<align>right</align>
+			<font>font13</font>
+			<textcolor>FF6db9e5</textcolor>
+			<label>$INFO[System.Date(DDD)]</label>
+			<visible>hidden</visible>
+		</control>
+		
+		<control type="label">
+			<left>913</left>
+			<top>560</top>
+			<width>166</width>
+			<height>20</height>
+			<align>right</align>
+			<font>font13</font>
+			<textcolor>FF6db9e5</textcolor>
+			<label>$INFO[System.Date(dd.mm)]</label>
+			<visible>hidden</visible>
+		</control>
+		
+		<control type="label">
+			<posx>1070</posx>
+			<posy>20</posy>
+			<width>200</width>
+			<height>49</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>-</shadowcolor>
+			<font>font45</font>
+			<label>$INFO[System.Time(hh:mm xx)]</label>
+		</control>
+		
+		<control type="image" id="4944">
+			<description>Live</description>
+			<posx>855</posx>
+			<top>503</top>
+			<width>67</width>
+			<height>20</height>
+		</control>
+		
+		<control type="label" id="4925">
+			<visible>hidden</visible>
+		</control>
+		
+		<control type="label" id="4919">
+			<visible>hidden</visible>
+		</control>
+
+		<control type="label">
+			<description>Program channel</description>
+			<left>153</left>
+			<posy>482</posy>
+			<width>566</width>
+			<height>33</height>
+			<align>left</align>
+			<font>font60</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+			<label>$INFO[Control.GetLabel(4925)]. [UPPERCASE]$INFO[Control.GetLabel(4919)][/UPPERCASE]</label>
+			<visible>!String.IsEqual(Control.GetLabel(4925),)</visible>
+		</control>
+		
+		<control type="label">
+			<description>Program channel</description>
+			<left>153</left>
+			<posy>496</posy>
+			<width>566</width>
+			<height>33</height>
+			<align>left</align>
+			<font>font30_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+			<label>[UPPERCASE]$INFO[Control.GetLabel(4919)][/UPPERCASE]</label>
+			<visible>String.IsEqual(Control.GetLabel(4925),)</visible>
+		</control>
+		
+		<control type="image" id="4924">
+			<description>Channel logo</description>
+			<left>1011</left>
+			<top>536</top>
+			<width>213</width>
+			<height>60</height>
+		</control>
+		
+		<control type="textbox" id="4922">
+			<description>Program description</description>
+			<left>153</left>
+			<top>570</top>
+			<width min="20" max="576">auto</width>
+			<height>22</height>
+			<font>font12</font>
+			<align>left</align>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>ff292a29</shadowcolor>
+			<autoscroll time="0" delay="0" repeat="0">false</autoscroll>
+			<visible>true</visible>
+		</control>
+		
+		<control type="label">
+			<description>Now playing</description>
+			<left>153</left>
+			<top>570</top>
+			<width>780</width>
+			<height>32</height>
+			<font>font12</font>
+			<align>left</align>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+			<label>$ADDON[script.mtvguide 55016]...</label>
+			<visible>hidden</visible>
+		</control>
+		
+		<control type="slider" id="4998">
+			<visible>hidden</visible>
+		</control>
+		
+		<control type="progress" id="4999">
+			<posx>155</posx>
+			<posy>607</posy>
+			<width>500</width>
+			<height>5</height>
+			<texturebg>../../Default/media/osd/white.png</texturebg>
+			<midtexture colordiffuse="ffe34555">../../Default/media/osd/white.png</midtexture>
+		</control>
+
+		
+		<control type="image">
+			<left>775</left>
+			<top>545</top>
+			<width>55</width>
+			<height>35</height>
+			<aspectratio align="center">keep</aspectratio>
+			<texture colordiffuse="">$INFO[VideoPlayer.VideoAspect,../../Default/media/flags/aspectratio/,.png]</texture>
+		</control>
+		
+		<control type="image">
+			<left>865</left>
+			<top>545</top>
+			<width>55</width>
+			<height>35</height>
+			<aspectratio align="center">keep</aspectratio>
+			<texture colordiffuse="">$INFO[VideoPlayer.VideoResolution,../../Default/media/flags/resolution/,.png]</texture>
+		</control>
+		
+		<control type="image">
+			<left>775</left>
+			<top>585</top>
+			<width>80</width>
+			<height>35</height>
+			<aspectratio align="center">keep</aspectratio>
+			<texture colordiffuse="">$INFO[VideoPlayer.VideoCodec,../../Default/media/flags/video/,.png]</texture>
+		</control>
+
+		<control type="image">
+			<left>865</left>
+			<top>585</top>
+			<width>55</width>
+			<height>35</height>
+			<aspectratio align="center">keep</aspectratio>
+			<texture colordiffuse="">$INFO[VideoPlayer.AudioCodec,../../Default/media/flags/audio/,.png]</texture>
+		</control>
+		<control type="button" id="108">
+			<posx>580</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/schedulefo.png</texturefocus>
+			<texturenofocus>../../Default/media/schedulefo.png</texturenofocus>
+		</control>
+		<control type="button" id="107">
+			<posx>580</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/schedulefo.png</texturefocus>
+			<texturenofocus>../../Default/media/schedulebd.png</texturenofocus>
+		</control>
+		<control type="button" id="105">
+			<posx>580</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/playfo.png</texturefocus>
+			<texturenofocus>../../Default/media/playbd.png</texturenofocus>
+		</control>
+		<control type="button" id="101">
+			<posx>580</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/stopfo.png</texturefocus>
+			<texturenofocus>../../Default/media/stopbd.png</texturenofocus>
+			<onleft>103</onleft>
+			<onright>102</onright>
+			<onup>105</onup>
+			<ondown>108</ondown>
+		</control>
+		<control type="button" id="102">
+			<posx>620</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/infofo.png</texturefocus>
+			<texturenofocus>../../Default/media/infobd.png</texturenofocus>
+			<onleft>101</onleft>
+			<onright>106</onright>
+		</control>
+		<control type="button" id="106">
+			<posx>660</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/setupfo.png</texturefocus>
+			<texturenofocus>../../Default/media/setupbd.png</texturenofocus>
+			<onleft>102</onleft>
+			<onright>104</onright>
+		</control>
+		<control type="button" id="103">
+			<posx>500</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus flipx="true">../../Default/media/plusfo.png</texturefocus>
+			<texturenofocus flipx="true">../../Default/media/plusbd.png</texturenofocus>
+			<onleft>104</onleft>
+			<onright>101</onright>
+		</control>
+		<control type="button" id="104">
+			<posx>540</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/minusfo.png</texturefocus>
+			<texturenofocus>../../Default/media/minusbd.png</texturenofocus>
+			<onleft>106</onleft>
+			<onright>103</onright>
+		</control>
+		<control type="button" id="109">
+			<posx>700</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/subsfo.png</texturefocus>
+			<texturenofocus>../../Default/media/subsbd.png</texturenofocus>
+			<onleft>106</onleft>
+			<onright>103</onright>
+		</control>
+		<control type="button" id="110">
+			<posx>740</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/langfo.png</texturefocus>
+			<texturenofocus>../../Default/media/langbd.png</texturenofocus>
+			<onleft>106</onleft>
+			<onright>103</onright>
+		</control>
+		<control type="button" id="111">
+			<visible>hidden</visible>
+		</control>
+		<control type="button" id="112">
+			<visible>hidden</visible>
+		</control>
+		<control type="button" id="113">
+			<posx>780</posx>
+			<top>645</top>
+			<width>40</width>
+			<height>40</height>
+			<texturefocus>../../Default/media/numbfo.png</texturefocus>
+			<texturenofocus>../../Default/media/numbbd.png</texturenofocus>
+			<onleft>106</onleft>
+			<onright>103</onright>
+		</control>
+		<control type="image">
+			<description>Channel number input bg</description>
+			<posx>0</posx>
+			<posy>15</posy>
+			<width>160</width>
+			<height>90</height>
+			<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+			<visible>!String.IsEqual(Control.GetLabel(9999),)</visible>
+		</control>
+		<control type="label" id="9999">
+			<description>Channel number input</description>
+			<posx>10</posx>
+			<posy>15</posy>
+			<width>140</width>
+			<height>90</height>
+			<textcolor>fff0efef</textcolor>
+			<font>font60</font>
+			<align>center</align>
+			<aligny>center</aligny>
+		</control>
+	</control>
+</controls>
+</window>

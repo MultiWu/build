@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map id="base us" version="1.0" strm="">
+	<channel id="5 Star Max Eastern US" 									 	title="(?=5\s*Star\s*Max(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="A&amp;E US Eastern Feed US" 									title="(?=A(\s*(&amp;|and))?\s*E(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ABC KABC Los Angeles CA US" 									title="(?=ABC(\s*KABC)?(\s*TV)?(\s*HD)?(\s*(West|Western|WEST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ABC WABC New York NY US" 									 	title="(?=ABC(\s*WABC)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="AMC Eastern Feed US" 									 		title="(?=AMC(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="AT&amp;T Sportsnet Pittsburgh US" 								title="(?=(AT(\s*(&amp;|and))?\s*T)?\s*Sport(s)?net(\s*(East|Eastern|EST))?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="AT&amp;T Sportsnet Rocky Mountain Utah US" 					title="(?=(AT(\s*(&amp;|and))?\s*T)?\s*Sport(s)?net\s*Rocky\s*Mountain\s*Utah(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="AT&amp;T Sportsnet Rocky Mountains US" 						title="(?=(AT(\s*(&amp;|and))?\s*T)?\s*Sport(s)?net\s*Rocky\s*Mountain(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="AT&amp;T Sportsnet Southwest Houston US" 						title="(?=(AT(\s*(&amp;|and))?\s*T)?\s*Sport(s)?net\s*Southwest\s*Houston(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="AXS TV USA HD US" 									 			title="(?=AXS(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ActionMax Eastern US" 									 		title="(?=Action\s*Max(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Altitude 2 US" 									 			title="(?=Altitude\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Altitude Sports US" 									 		title="(?=Altitude\s*Sport(s)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="American Heroes Channel US" 									title="(?=American\s*Heroes(\s*Channel)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Animal Planet US East US" 										title="(?=Animal\s*Planet(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Arirang TV US" 												title="(?=Arirang(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Audience Network US" 											title="(?=Audience\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Azteca America East US" 										title="(?=Azteca(\s*Latin)?(\s*America)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Azteca WMBC Newton NJ US" 										title="(?=Azteca\s*WMBC\s*Newton\s*NJ(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="BBC America East US" 											title="(?=BBC(\s*America)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="BBC World HD US" 												title="(?=BBC\s*World(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="BET Eastern Feed US" 											title="(?=BET(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="BET Her US" 													title="(?=BET\s*Her(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="BYU Brigham Young University US" 								title="(?=BYU(\s*Brigham\s*Young\s*University)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Baby First TV US" 												title="(?=Baby\s*First(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Big Ten Network On Demand US" 									title="(?=Big\s*Ten\s*Network\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Big Ten Network Overflow 1 US" 								title="(?=Big\s*Ten\s*Network\s*Overflow(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Big Ten Network Overflow 3 US" 								title="(?=Big\s*Ten\s*Network\s*Overflow\s*3(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Big Ten Network Overflow 4 US" 								title="(?=Big\s*Ten\s*Network\s*Overflow\s*4(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Big Ten Network US" 											title="(?=Big\s*Ten\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Bloomberg TV USA US" 											title="(?=Bloomberg(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Boomerang On Demand US" 										title="(?=Boomerang\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Boomerang US" 													title="(?=Boomerang(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Bravo USA Eastern Feed US" 									title="(?=Bravo(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CBS KCBS Los Angeles CA US" 									title="(?=CBS(\s*KCBS)?(\s*TV)?(\s*HD)?(\s*(West|Western|WEST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CBS Sports Network USA US" 									title="(?=CBS(\s*Sport(s)?)?(\s*Network)(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CBS WCBS New York NY US" 										title="(?=CBS(\s*WCBS)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CCTV-4 America US" 											title="(?=CCTV(\-)?4(\s*America)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CGTN CCTV4 US" 												title="(?=CGTN\s*CCTV4(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CMT US Eastern Feed US" 										title="(?=CMT(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CMT US On Demand US" 											title="(?=CMT\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CNBC USA US" 													title="(?=CNBC(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CNBC World US" 												title="(?=CNBC\s*World(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CNN Espanol US" 												title="(?=CNN(\s*(Espanol|Latin|Latin\s*America))?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CNN On demand US" 												title="(?=CNN\s*on\s*demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CNN US" 									 					title="(?=(CNN|Cable\s*News\s*Network)(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CSPAN 2 US" 													title="(?=C\s*SPAN\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CSPAN US" 									 					title="(?=C\s*SPAN(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CTN Christian Television Network US" 							title="(?=CTN(\s*Christian\s*Television\s*Network)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CW KFMB-TV2 San Diego CA US" 									title="(?=CW(\s*KFMB)?(\-)?(\s*TV2)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="CW WDCW District of Columbia US" 								title="(?=CW(\s*WDCW)?(\s*District\s*of)?\s*Columbia(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Cartoon Network USA Eastern Feed US" 							title="(?=Cartoon\s*Network(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Cartoon Network USA Pacific Feed US" 							title="(?=Cartoon\s*Network(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Cinemax Eastern Feed US" 										title="(?=Cinemax(\s*TV)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Cinemax Eastern HD US" 										title="(?=Cinemax(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Cinemax On Demand US" 											title="(?=Cinemax\s*on\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Cinemax Pacific Feed US" 										title="(?=Cinemax(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Comedy Central On Demand US" 									title="(?=Comedy\s*Central\s*on\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Comedy Central US Eastern Feed US" 							title="(?=Comedy\s*Central(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Comedy.TV US" 													title="(?=Comedy(\.)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Connecticut Public Television WEDW Bridgeport US"				title="(?=Connecticut\s*Public\s*Television\s*WEDW\s*Bridgeport(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Crime &amp; Investigation Network USA HD US" 					title="(?=(CI|Criminal|Crime)(\s*\+|Plus|and|&amp;)?(\s*Investigation)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Daystar Network US" 											title="(?=Daystar\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Destination America US" 										title="(?=Destination(\s*America)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 721 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*721(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 722 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*722(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 723 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*723(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 724 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*724(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 725 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*725(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 726 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*726(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 727 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*727(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 728 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*728(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 729 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*729(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 730 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*730(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 731 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*731(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 732 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*732(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 733 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*733(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 734 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*734(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 735 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*735(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 736 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*736(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 737 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*737(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 738 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*738(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 739 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*739(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 740 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*740(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 741 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*741(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 742 HD US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*742(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 742 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*742(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 743 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*743(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 744 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*744(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 745 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*745(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 746 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*746(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 747 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*747(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 748 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*748(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings 749 US" 								title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*749(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 721 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*721(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 722 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*722(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 723 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*723(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 724 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*724(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 725 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*725(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 726 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*726(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 727 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*727(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 728 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*728(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 729 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*729(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 730 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*730(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 731 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*731(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 732 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*732(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 733 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*733(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 734 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*734(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 735 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*735(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 736 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*736(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 737 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*737(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 739 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*739(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 740 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*740(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 741 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*741(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 743 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*743(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 744 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*744(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 745 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*745(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 746 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*746(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 747 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*747(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 748 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*748(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLB Extra Innings HD 749 US" 							title="(?=Direct(\s*TV)?\s*MLB\s*Extra\s*Innings\s*HD\s*749(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 471 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*471(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 471 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*471(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 472 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*472(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 472 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*472(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 473 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*473(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 473 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*473(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 474 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*474(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 474 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*474(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 475 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*475(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 475 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*475(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 476 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*476(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 476 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*476(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 477 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*477(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 477 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*477(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 478 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*478(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 478 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*478(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 479 HD US" 							title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*479(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV MLS Direct Kick 479 US" 								title="(?=Direct(\s*TV)?\s*MLS\s*Direct\s*Kick\s*479(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 750 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*750(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 750 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*750(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 751 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*751(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 751 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*751(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 752 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*752(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 752 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*752(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 753 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*753(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 753 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*753(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 754 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*754(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 754 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*754(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 755 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*755(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 755 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*755(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 756 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*756(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 756 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*756(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 757 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*757(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 757 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*757(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 758 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*758(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 758 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*758(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 759 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*759(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 759 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*759(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 760 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*760(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 760 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*760(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 761 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*761(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 761 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*761(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 762 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*762(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 762 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*762(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 763 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*763(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 763 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*763(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 764 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*764(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 764 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*764(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 765 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*765(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 765 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*765(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 766 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*766(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 766 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*766(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 767 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*767(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 767 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*767(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 768 HD US" 							title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*768(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NBA League Pass 768 US" 								title="(?=Direct(\s*TV)?\s*NBA\s*League\s*Pass\s*768(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 769 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*769(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 769 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*769(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 770 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*770(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 770 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*770(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 771 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*771(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 771 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*771(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 772 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*772(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 772 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*772(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 773 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*773(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 773 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*773(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 774 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*774(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 774 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*774(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 775 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*775(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 775 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*775(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 776 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*776(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 776 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*776(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 777 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*777(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 777 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*777(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 778 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*778(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 778 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*778(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 779 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*779(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 779 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*779(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 780 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*780(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 780 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*780(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 781 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*781(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 781 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*781(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 782 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*782(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 782 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*782(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 783 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*783(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 783 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*783(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 784 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*784(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 784 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*784(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 785 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*785(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 785 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*785(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 786 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*786(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 786 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*786(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 787 HD US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*787(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV NHL Center Ice 787 US" 								title="(?=Direct(\s*TV)?\s*NHL\s*Center\s*Ice\s*787(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 121 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?(\s*1)?21(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 122 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?(\s*1)?22(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 123 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?(\s*1)?23(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 124 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?(\s*1)?24(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 701 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*701(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 702 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*702(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 703 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*703(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 704 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*704(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 705 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*705(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 706 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*706(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 707 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*707(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 708 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*708(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 709 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*709(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 710 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*710(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 711 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*711(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 712 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*712(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 713 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*713(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 714 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*714(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 715 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*715(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 716 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*716(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 717 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*717(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 718 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*718(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 719 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*719(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="DirecTV Sports 720 US" 										title="(?=Direct(\s*TV)?\s*Sport(s)?\s*720(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Discovery Channel US Eastern Feed US" 							title="(?=(Discovery|Disc)(.)?(\s*Channel)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Discovery Channel US On Demand US" 							title="(?=(Discovery|Disc)(.)?(\s*Channel)?(\s*On)?\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Discovery Family Channel US" 									title="(?=(Discovery|Disc)(.)?\s*Family\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Discovery Life Channel US" 									title="(?=(Discovery|Disc)(.)?\s*Life\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Discovery en Espanol US" 										title="(?=(Discovery|Disc)(.)?(\s*en)?(\s*(Espanol|Latin|Latin\s*America))?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Disney Eastern Feed US" 										title="(?=Disney(\s*Channel)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Disney Junior USA East US" 									title="(?=Disney(\s*Channel)?\s*(Junior|Jr)(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Disney On Demand US" 											title="(?=Disney(\s*on)?\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Disney Pacific Feed US" 										title="(?=Disney(\s*Channel)?(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Disney XD USA Eastern Feed US" 								title="(?=Disney(\s*Channel)?\s*XD(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Do It Yourself Network USA East US" 							title="(?=(DIY|Do\s*It\s*Yourself)(\s*Network)?(\s*TV)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="E! Entertainment USA Eastern Feed US" 							title="(?=E(!)?(\s*Entertainment)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN Classics USA US" 											title="(?=ESPN\s*Classics(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 1 US" 										title="(?=ESPN\s*College\s*Extra(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 2 US" 										title="(?=ESPN\s*College\s*Extra\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 3 HD US" 									title="(?=ESPN\s*College\s*Extra\s*3(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 3 US" 										title="(?=ESPN\s*College\s*Extra\s*3(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 4 HD US" 									title="(?=ESPN\s*College\s*Extra\s*4(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 4 US" 										title="(?=ESPN\s*College\s*Extra\s*4(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 5 HD US" 									title="(?=ESPN\s*College\s*Extra\s*5(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 5 US" 										title="(?=ESPN\s*College\s*Extra\s*5(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 6 US" 										title="(?=ESPN\s*College\s*Extra\s*6(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 7 US" 										title="(?=ESPN\s*College\s*Extra\s*7(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN College Extra 8 US" 										title="(?=ESPN\s*College\s*Extra\s*8(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN Deportes On Demand US" 									title="(?=ESPN\s*Deportes\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN Deportes US" 												title="(?=ESPN\s*Deportes(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN News US" 													title="(?=ESPN\s*News(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN On Demand US" 											title="(?=ESPN\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN U US" 													title="(?=ESPN\s*U(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN US" 									 					title="(?=ESPN(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN2 Alternate US" 											title="(?=ESPN\s*2\s*Alternate(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPN2 US" 									 					title="(?=ESPN\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ESPNU On Demand US" 											title="(?=ESPN\s*U\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="EVINE US" 									 					title="(?=EVINE(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="EWTN USA US" 													title="(?=EWTN(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="El Rey Network US" 											title="(?=E\s*l\s*Rey(\s*Network)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Eleven Sports US" 												title="(?=Eleven\s*Sport(s)?(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Enlace US" 													title="(?=Enlace(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FLIX Eastern US" 												title="(?=FLIX(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FOX KTTV Los Angeles CA US" 									title="(?=FOX(\s*KTTV)?(\s*TV)?(\s*HD)?(\s*(West|Western|WEST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FOX Soccer Plus HD US" 										title="(?=FOX\s*Soccer\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FOX Soccer Plus US" 											title="(?=FOX\s*Soccer\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FOX Sports Southwest Houston US" 								title="(?=FOX\s*Sport(s)?\s*Southwest\s*Houston(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FOX WNYW New York NY US" 										title="(?=FOX(\s*WNYW)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*US)$)" strm=""/>
+	<channel id="FUSE TV Eastern Feed US" 										title="(?=FUSE(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FX Movie Channel US" 											title="(?=FX\s*Movie(\s*Channel)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FX Networks East Coast US" 									title="(?=FX(\s*Network(s)?)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FXX USA Eastern US" 											title="(?=FXX(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="FYI USA Eastern US" 											title="(?=FYI(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Food Network USA Eastern Feed US" 								title="(?=Food\s*Network(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Business US" 												title="(?=Fox\s*Business(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox College Sports Atlantic US" 								title="(?=Fox\s*College\s*Sport(s)?\s*Atlantic(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox College Sports Central US" 								title="(?=Fox\s*College\s*Sport(s)?\s*Central(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox College Sports Pacific US" 								title="(?=Fox\s*College\s*Sport(s)?(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Deportes US" 												title="(?=Fox\s*Deportes(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox News US" 													title="(?=Fox\s*News(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports 1 US" 												title="(?=Fox\s*Sport(s)?(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports 2 US" 												title="(?=Fox\s*Sport(s)?\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Arizona Alt B. US" 									title="(?=Fox\s*Sport(s)?\s*Arizona\s*Alt\s*B(\.)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Arizona N.NM US" 									title="(?=Fox\s*Sport(s)?\s*Arizona\s*N(\.)?NM(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Arizona Plus US" 									title="(?=Fox\s*Sport(s)?\s*Arizona\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Arizona US" 										title="(?=Fox\s*Sport(s)?\s*Arizona(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Detroit US" 										title="(?=Fox\s*Sport(s)?\s*Detroit(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Florida 1 HD US" 									title="(?=Fox\s*Sport(s)?\s*Florida(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Florida 1 US" 										title="(?=Fox\s*Sport(s)?\s*Florida(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Florida 2 US" 										title="(?=Fox\s*Sport(s)?\s*Florida\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Florida US" 										title="(?=Fox\s*Sport(s)?\s*Florida(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Indiana US" 										title="(?=Fox\s*Sport(s)?\s*Indiana(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Midwest Kansas State US" 							title="(?=Fox\s*Sport(s)?\s*Midwest\s*Kansas\s*State(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Midwest Nebraska US" 								title="(?=Fox\s*Sport(s)?\s*Midwest\s*Nebraska(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Midwest St. Louis US" 								title="(?=Fox\s*Sport(s)?\s*Midwest\s*St(\.)?\s*Louis(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports New Orleans US" 									title="(?=Fox\s*Sport(s)?\s*New\s*Orleans(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports North US" 											title="(?=Fox\s*Sport(s)?\s*North(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Ohio Cincinnati 2 HD US" 							title="(?=Fox\s*Sport(s)?\s*Ohio\s*Cincinnati\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Ohio Cincinnati 2 US" 								title="(?=Fox\s*Sport(s)?\s*Ohio\s*Cincinnati\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Ohio Cleveland HD US" 								title="(?=Fox\s*Sport(s)?\s*Ohio\s*Cleveland(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Ohio Cleveland US" 									title="(?=Fox\s*Sport(s)?\s*Ohio\s*Cleveland(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Oklahoma US" 										title="(?=Fox\s*Sport(s)?\s*Oklahoma(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports San Diego US" 										title="(?=Fox\s*Sport(s)?\s*San\s*Diego(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports South Carolinas US" 								title="(?=Fox\s*Sport(s)?\s*South\s*Carolinas(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports South TN Nashville US" 								title="(?=Fox\s*Sport(s)?\s*South\s*TN\s*Nashville(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports South US" 											title="(?=Fox\s*Sport(s)?\s*South(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast Georgia US" 								title="(?=Fox\s*Sport(s)?\s*Southeast\s*Georgia(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast North Carolina US" 						title="(?=Fox\s*Sport(s)?\s*Southeast\s*North\s*Carolina(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast South Carolina US" 						title="(?=Fox\s*Sport(s)?\s*Southeast\s*South\s*Carolina(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast Tennessee East US" 						title="(?=Fox\s*Sport(s)?\s*Southeast\s*Tennessee(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast Tennessee Nashville US" 					title="(?=Fox\s*Sport(s)?\s*Southeast\s*Tennessee\s*Nashville(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast Tennessee US" 							title="(?=Fox\s*Sport(s)?\s*Southeast\s*Tennessee(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southeast US" 										title="(?=Fox\s*Sport(s)?\s*Southeast(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southwest OK2 HD Southwest Plus US" 				title="(?=Fox\s*Sport(s)?\s*Southwest\s*OK2\s*HD\s*Southwest\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southwest OK2 US" 									title="(?=Fox\s*Sport(s)?\s*Southwest\s*OK2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southwest San Antonio US" 							title="(?=Fox\s*Sport(s)?\s*Southwest\s*San\s*Antonio(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Southwest US" 										title="(?=Fox\s*Sport(s)?\s*Southwest(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Sun Lightening\Magic HD US" 						title="(?=Fox\s*Sport(s)?\s*Sun\s*Lightening\Magic(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Sun Lightening\Magic US" 							title="(?=Fox\s*Sport(s)?\s*Sun\s*Lightening\Magic(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports West Prime Ticket US" 								title="(?=Fox\s*Sport(s)?\s*West\s*Prime\s*Ticket(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports West US" 											title="(?=Fox\s*Sport(s)?\s*West(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fox Sports Wisconsin US" 										title="(?=Fox\s*Sport(s)?\s*Wisconsin(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Free Speech Network US" 										title="(?=Free\s*Speech\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Freeform East Feed US" 										title="(?=Free\s*Form(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Freeform On Demand US" 										title="(?=Free\s*Form\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fuse On Demand US" 											title="(?=Fuse\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fusion HD US" 													title="(?=Fusion(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Fusion US" 													title="(?=Fusion(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="GAC Great American Country US" 								title="(?=GAC\s*Great(\s*America)?n\s*Country(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="GEB America US" 												title="(?=GEB(\s*America)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="GMA\Pinoy TV US" 												title="(?=GMA\Pinoy(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Galavision Eastern Feed US" 									title="(?=Galavision(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Game Show Network East US" 									title="(?=(GSN|Game\s*Show\s*Network)(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Gem Shopping Network US" 										title="(?=Gem\s*Shopping\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="God TV USA US" 												title="(?=God(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Gol TV USA US" 												title="(?=Gol(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Golf Channel USA US" 											title="(?=Golf\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO 2 Eastern Feed US" 										title="(?=HBO\s*2(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO 2 Pacific Feed US" 										title="(?=HBO\s*2(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Comedy HD East US" 										title="(?=HBO\s*Comedy\s*HD(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Eastern Feed US" 											title="(?=HBO(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Family Eastern Feed US" 									title="(?=HBO\s*Family(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Family Pacific Feed US" 									title="(?=HBO\s*Family(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Latino HBO 7 Eastern US" 									title="(?=HBO\s*Latino\s*HBO\s*7(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO On Demand US" 												title="(?=HBO\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Pacific Feed US" 											title="(?=HBO(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Signature Eastern US" 										title="(?=HBO\s*Signature(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HBO Zone HD East US" 											title="(?=HBO\s*Zone(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HDNet Movies HD US" 											title="(?=HDNet\s*Movies(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HDNet Movies On Dmenad US" 									title="(?=HDNet\s*Movies\s*On\s*Dmenad(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HGTV USA Eastern Feed US" 										title="(?=HGTV(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HLN US" 									 					title="(?=HLN(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="HSN Home Shopping Network US" 									title="(?=HSN\s*Home\s*Shopping\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Hallmark Eastern Feed US" 										title="(?=Hallmark(\s*Channel)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Hallmark Movies &amp; Mysteries Eastern HD US" 				title="(?=Hallmark(\s*Channel)?\s*Movies(\s*(&amp;|and))?\s*Mysteries(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Hillsong K64FT Alexandria LA US" 								title="(?=Hillsong\s*K64FT\s*Alexandria(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="History Channel US Eastern Feed US" 							title="(?=(H|History)(\s*Channel)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Hope Channel US" 												title="(?=Hope\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Hustler TV USA On Demand US" 									title="(?=Hustler\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="INSP US" 									 					title="(?=INSP(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ION Eastern Feed US" 											title="(?=ION(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ION Pacific Feed US" 											title="(?=ION(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ION WPXN New York NY US" 										title="(?=ION\s*WPXN(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Impact Television Network US" 									title="(?=Impact\s*Television\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Independent Film Channel US US" 								title="(?=(IFC|Independent\s*Film\s*Channel)(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Investigation Discovery USA Eastern US" 						title="(?=Investigation\s*Discovery(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Jewelry Television US" 										title="(?=Jewelry\s*Television(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Jewish Life Television US" 									title="(?=Jewish\s*Life\s*Television(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Justice Central US" 											title="(?=Justice\s*Central(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="LOGO East US" 													title="(?=LOGO(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Lifetime Movies East US" 										title="(?=Lifetime\s*Movies(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Lifetime Network US Eastern Feed US" 							title="(?=Lifetime(\s*Network)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Longhorn Network US" 											title="(?=Longhorn\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MGM HD USA US" 												title="(?=MGM(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MHz Worldview US" 												title="(?=MHz\s*Worldview(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MHz Worldview WNYJ-DT2 Milford NJ US" 							title="(?=MHz\s*Worldview\s*WNYJ(\-)?DT2\s*Milford\s*NJ(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MLB Network US" 												title="(?=MLB(\s*Network)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MNT WWOR New York NY US" 										title="(?=MNT\s*WWOR(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MSG Madison Square Gardens US" 								title="(?=MSG\s*Madison\s*Square\s*Gardens(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MSG Plus Syracuse US" 											title="(?=MSG\s*Plus\s*Syracuse(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MSG Plus US" 													title="(?=MSG\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MSG Syracuse US" 												title="(?=MSG\s*Syracuse(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MSNBC USA US" 													title="(?=MSNBC(\s*HD)?(\s*Web)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MTV 2 East US" 												title="(?=MTV\s*2(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MTV Classic East US" 											title="(?=MTV\s*Classic(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MTV Live HD US" 												title="(?=MTV\s*Live(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MTV USA Eastern Feed US" 										title="(?=MTV(\s*Base)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MavTV USA US" 													title="(?=MavTV(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MeTV WJLP New Jersey\New York US" 								title="(?=MeTV\s*WJLP\s*New\s*Jersey\New\s*York(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Mid-Atlantic Sports Network 2 US" 								title="(?=Mid(\-)?Atlantic\s*Sport(s)?\s*Network\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Mid-Atlantic Sports Network US" 								title="(?=Mid(\-)?Atlantic\s*Sport(s)?\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MoreMax Eastern US" 											title="(?=MoreMax(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="MovieMax Max 6 East US" 										title="(?=MovieMax\s*Max\s*6(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NASA Public Educational Channel US" 							title="(?=NASA\s*Public\s*Educational\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBA TV USA US" 												title="(?=NBA(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC KNBC Los Angeles CA US" 									title="(?=NBC(\s*KNBC)?(\s*TV)?(\s*HD)?(\s*(West|Western|WEST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Bay Area US" 										title="(?=NBC\s*Sport(s)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Bay Area\California Plus HD US" 					title="(?=NBC\s*Sport(s)?\California\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Bay Area\California Plus US" 						title="(?=NBC\s*Sport(s)?\California\s*Plus(\s*TV)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Boston US" 											title="(?=NBC\s*Sport(s)?\s*Boston(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports California US" 										title="(?=NBC\s*Sport(s)?\s*California(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Chicago Plus 2 US" 									title="(?=NBC\s*Sport(s)?\s*Chicago\s*Plus\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Chicago Plus US" 									title="(?=NBC\s*Sport(s)?\s*Chicago\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Chicago US" 										title="(?=NBC\s*Sport(s)?\s*Chicago(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Network US" 										title="(?=NBC\s*Sport(s)?\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Washington Plus US" 								title="(?=NBC\s*Sport(s)?\s*Washington\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Sports Washington US" 										title="(?=NBC\s*Sport(s)?\s*Washington(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC Universo Eastern Feed US" 									title="(?=NBC\s*Universo(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NBC WNBC New York NY US" 										title="(?=NBC(\s*WNBC)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NFL Network US" 												title="(?=NFL(\s*Now)?(\s*Network)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NFL Red Zone US" 												title="(?=NFL\s*Red\s*Zone(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NHL Network USA Alternate US" 									title="(?=NHL\s*Network\s*Alternate(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NHL Network USA US" 											title="(?=NHL\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NYC Life WNYE-DT1 New York NY US" 								title="(?=NYC\s*Life\s*WNYE(\-)?DT1(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="National Geographic US Eastern US" 							title="(?=(Nat|National)\s*(Geo|Geographic)(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="National Geographic Wild US" 									title="(?=(Nat|National)\s*(Geo|Geographic)\s*Wild(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="National Religious Broadcasting East US" 						title="(?=National\s*Religious\s*Broadcasting(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="New England Sports Network Plus US" 							title="(?=New\s*England\s*Sport(s)?\s*Network\s*Plus(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="New England Sports Network US" 								title="(?=New\s*England\s*Sport(s)?\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="New Jersey PBS WNJN Montclair NJ US" 							title="(?=New\s*Jersey\s*PBS\s*WNJN\s*Montclair\s*NJ(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="NewsMax TV US" 												title="(?=News\s*Max(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Nick Jr. East US" 												title="(?=Nick(elodeon)?\s*(Jr|JUNIOR)(\.)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Nickelodeon USA East Feed US" 									title="(?=Nick(elodeon)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Nickelodeon USA On Demand US" 									title="(?=Nick(elodeon)?\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Nickelodeon USA Pacific Feed US" 								title="(?=Nick(elodeon)?(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Nicktoons East US" 											title="(?=Nick\s*toons(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Olympic Channel US" 											title="(?=Olympic(\s*Channel)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Oprah Winfrey Network USA Eastern US" 							title="(?=Oprah\s*Winfrey\s*Network(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Outdoor Channel US US" 										title="(?=Outdoor(\s*Channel)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Ovation US" 													title="(?=Ovation(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Oxygen Eastern Feed US" 										title="(?=Oxygen(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="PBS Network HD Eastern US" 									title="(?=PBS(\s*Network)?(\s*HD)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="PBS WLIW Long Island NY US" 									title="(?=PBS\s*WLIW\s*Long\s*Island\s*NY(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="PBS WNET New York NY US" 										title="(?=PBS\s*WNET(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="POP East US" 													title="(?=POP(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Paramount Network USA Eastern Feed US" 						title="(?=Paramount(\s*Channel)?(\s*Network)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Peru Magico US" 												title="(?=Peru\s*Magico(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Playboy HD US" 												title="(?=Playboy(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Playboy Interactive US" 										title="(?=Playboy\s*Interactive(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Playboy On Demand US" 											title="(?=Playboy\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Playboy US" 													title="(?=Playboy(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Premier League Extra Time 1 US" 								title="(?=Premier\s*League\s*Extra\s*Time(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Premier League Extra Time 2 US" 								title="(?=Premier\s*League\s*Extra\s*Time\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Premier League Extra Time 3 US" 								title="(?=Premier\s*League\s*Extra\s*Time\s*3(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Premier League Extra Time 4 US" 								title="(?=Premier\s*League\s*Extra\s*Time\s*4(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Premier League Extra Time 5 US" 								title="(?=Premier\s*League\s*Extra\s*Time\s*5(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="QVC US" 									 					title="(?=QVC(\s*1)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="QVC2 US" 									 					title="(?=QVC\s*2(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="RFD-TV US" 													title="(?=RFD(\-)?TV(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="RNN WRNN Kingston NY US" 										title="(?=RNN\s*WRNN\s*Kingston\s*NY(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="RTVi US" 									 					title="(?=RTVi(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ReelzChannel US" 												title="(?=Reelz\s*(Channel)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Root Sports Northwest Seattle US" 								title="(?=Root\s*Sport(s)?\s*Northwest\s*Seattle(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Root Sports Northwest US" 										title="(?=Root\s*Sport(s)?\s*Northwest(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SBS Korean US" 												title="(?=SBS\s*Korean(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SBTN Saigon Broadcasting Television Network US"				title="(?=SBTN\s*Saigon\s*Broadcasting\s*Television\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SEC Network Alternate US" 										title="(?=SEC\s*Network\s*Alternate(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SEC Network US" 												title="(?=SEC\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SNY: SportsNet New York Comcast US" 							title="(?=SNY\s*Sport(s)?Net(\s*Comcast)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Science US" 													title="(?=Science(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime 2 Eastern US" 										title="(?=Showtime\s*2(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime Beyond HD East US" 									title="(?=Showtime\s*Beyond\s*HD(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime Eastern Feed US" 										title="(?=Showtime(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime Extreme Eastern US" 									title="(?=Showtime\s*Extreme(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime Next HD Eastern US" 									title="(?=Showtime\s*Next\s*HD(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime On Demand US" 										title="(?=Showtime\s*on\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime Showcase Eastern US" 									title="(?=Showtime\s*Showcase(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime West US" 												title="(?=Showtime\s*West(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Showtime Women HD Eastern US" 									title="(?=Showtime\s*Women\s*HD(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Smithsonian Channel USA HD US" 								title="(?=Smithsonian\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SonLife Network US" 											title="(?=SonLife\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SonLife WZME Bridgeport CT US" 								title="(?=SonLife\s*WZME\s*Bridgeport\s*CT(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Spectrum Deportes US" 											title="(?=Spectrum\s*Deportes(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Spectrum SportsNet US" 										title="(?=Spectrum\s*Sport(s)?Net(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Sportsman Channel US" 											title="(?=Sportsman\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Sportstime Ohio US" 											title="(?=Sportstime\s*Ohio(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Cinema HD US" 											title="(?=Starz\s*Cinema(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*US)$)" strm=""/>
+	<channel id="Starz Comedy HD US" 											title="(?=Starz\s*Comedy(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*US)$)" strm=""/>
+	<channel id="Starz Eastern US" 												title="(?=Starz(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Edge Eastern US" 										title="(?=Starz\s*Edge(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Action Eastern US" 								title="(?=Starz\s*Encore\s*Action(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Black Eastern US" 								title="(?=Starz\s*Encore\s*Black(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Classics Eastern US" 								title="(?=Starz\s*Encore\s*Classic(s)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Eastern US" 										title="(?=Starz\s*Encore(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Family Eastern US" 								title="(?=Starz\s*Encore\s*Family(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore On Demand US" 									title="(?=Starz\s*Encore\s*on\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Pacific US" 										title="(?=Starz\s*Encore(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Suspense Eastern US" 								title="(?=Starz\s*Encore\s*Suspense(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Encore Westerns Eastern US" 								title="(?=Starz\s*Encore\s*Westerns(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz In Black Eastern US" 									title="(?=Starz(\s*In)?\s*Black(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Kids &amp; Family Eastern US" 							title="(?=Starz\s*Kids(\s*(&amp;|and))?\s*Family(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz On Demand US" 											title="(?=Starz\s*On\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Starz Pacific US" 												title="(?=Starz(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="SundanceTV USA East US" 										title="(?=Sundance(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Syfy Eastern Feed US" 											title="(?=Syfy(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TBN Trinity Broadcasting Network East US" 						title="(?=TBN\s*Trinity\s*Broadcasting\s*Network(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TBS East US" 													title="(?=TBS(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TCT Network US" 												title="(?=TCT\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TFC The Filipino Channel US" 									title="(?=TFC\s*(The\s*)?Filipino\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TLC USA Eastern US" 											title="(?=TLC(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TMC On Demand US" 												title="(?=TMC\s*on\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TMC US Eastern Feed US" 										title="(?=TMC(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TMC US Pacific Feed US" 										title="(?=TMC(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TMC Xtra HD Eastern US" 										title="(?=TMC(\s*(Extra|Xtra))\s*HD(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TNT Eastern Feed US" 											title="(?=T\s*N\s*T(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TV Globo US" 													title="(?=(TV\s*)?Globo(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TV Land Eastern US" 											title="(?=(TV\s*)?Land(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TV One US" 													title="(?=(TV\s*)?One(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TVG Television Games Network US" 								title="(?=(TVG|Television\s*Games)(\s*Network)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TeenNick Eastern US" 											title="(?=Teen\s*Nick(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Telecentro US" 												title="(?=Telecentro(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Telemundo Eastern Feed US" 									title="(?=Telemundo(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Telemundo Pacific Feed US" 									title="(?=Telemundo(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Telemundo WNJU Teterboro NJ US" 								title="(?=Telemundo\s*WNJU\s*Teterboro\s*NJ(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="The Cooking Channel US" 										title="(?=(The\s*)?Cooking\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="The Tennis Channel US" 										title="(?=(The\s*)?Tennis\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="The Weather Channel US" 										title="(?=(The\s*)?Weather\s*Channel(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="The Word Network US" 											title="(?=(The\s*)?Word\s*Network(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="ThrillerMax East US" 											title="(?=ThrillerMax(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Travel US East US" 											title="(?=Travel(\s*Channel)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TruTV On Demand US" 											title="(?=TruTV\s*on\s*Demand(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Turner Classic Movies USA US" 									title="(?=Turner\s*Classic\s*Movies(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="TyC Sports US" 												title="(?=TyC\s*Sport(s)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="UNI WXTV Teaneck NJ US" 										title="(?=UNI\s*WXTV\s*Teaneck\s*NJ(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="UP US" 									 					title="(?=UP(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="USA Network East Feed US" 										title="(?=USA\s*Network(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Uni Deportes US" 												title="(?=Uni\s*Deportes(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="UniMas Network Pacific US" 									title="(?=UniMas\s*Network(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="UniMas WFUT New York NY US" 									title="(?=UniMas\s*WFUT(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Universal Kids US" 											title="(?=Universal\s*Kids(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Univision Eastern Feed US" 									title="(?=Univision(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Univision Pacific Feed US" 									title="(?=Univision(\s*TV)?(\s*HD)?(\s*(Pacific|PST))(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="V-Me Television HD US" 										title="(?=V(\-)?Me\s*Television(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="VH1 Eastern Feed US" 											title="(?=VH1(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Velocity HD US" 												title="(?=Velocity(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="Viceland USA US" 												title="(?=Viceland(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="WE Womens Entertainment Eastern US" 							title="(?=WE\s*Womens\s*Entertainment(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="WGN America Eastern Feed US" 									title="(?=WGN(\s*America)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="WLNY TV10\55 Riverhead NY US" 									title="(?=WLNY(\s*TV)\s*10(\\)?55\s*Riverhead(\s*NY)?(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="WMBC-Newton NJ US" 											title="(?=WMBC(\-)?Newton\s*NJ(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="WPIX New York SUPERSTATION US" 								title="(?=(WPIX|PIX)(\s*New)?(\s*York)?\s*SUPERSTATION(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="WeatherNation US" 												title="(?=Weather\s*Nation(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="World Harvest Television US" 									title="(?=World\s*Harvest\s*Television(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="YES Network US" 												title="(?=YES(\s*Network)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="beIN Sport USA US" 											title="(?=beIN\s*Sport(s)?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="beIN Sport en Espanol US" 										title="(?=beIN\s*Sport(s)?(\s*en)?(\s*(Espanol|Latin|Latin\s*America))?(\s*TV)?(\s*HD)?(\s*US)$)" strm=""/>
+	<channel id="truTV USA Eastern US" 											title="(?=truTV(\s*TV)?(\s*HD)?(\s*(East|Eastern|EST))?(\s*HD)?(\s*US)$)" strm=""/>
+	
+	<category name="Movie" 									tags="Action|Action \ Comedy|Adventure|Classic|Comedy|Comedy \ Drama|Drama|Fable|Family|Fantasy|Horror|Movies|Mystery|Romance|Sci-Fi|Science|Short Film|Spy|Suspense|Thriller|True Story|Western"/>
+	<category name="Series" 								tags="Sitcom|Soaps"/>
+	<category name="Information" 							tags="Business|Current Affairs|Discussion|Financial|Legal|News|News Magazine|Political"/>
+	<category name="Entertainment" 							tags="Awards|Cards|Dance|Fashion|Game Shows|Music|Musical|Paid Program|Radio|Reality TV|Shopping|Talk Show|Talk Shows"/>
+	<category name="Document" 								tags="Animals|Anthology|Automotive|Biography|Computers &amp; Technologies|Crime Story|Cultural Magazine|Docu-Drama|Docu-Series|Documentary|Environmental|History|Religious|War"/>
+	<category name="Kids" 									tags="Animated|Children|"/>
+	<category name="Sport" 									tags="Athletics|Australian Rules Football|Auto Racing|Baseball|Basketball|Boating|Bowling|Boxing|Curling|Cycling|Equestrian|Fishing|Fitness|Football|Golf|Gymnastics|Hockey|Horse Racing|Lacrosse|Martial Arts|Motorcycle Racing|Olympics|Performing Arts|Rugby|Skating|Soccer|Softball|Sport|Sports|Tennis|Triathlon|Volleyball|Watersports|Winter Sports|Wrestling|eSports"/>
+	<category name="Interactive Entertainment" 				tags="Adult|Christmas|Epic|Extreme|Food|Garden|Hallowe'en|Health|Hobbies &amp; Crafts|Home|Hunting|Instructional|Lifestyle|Local|Miscellaneous|New Age|Outdoors|Regular|Rodeo|Specials|TBA|Thanksgiving|Track &amp; Field|Travel"/>
+</map>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window type="dialog">
+	<allowoverlay>no</allowoverlay>
+	<defaultcontrol always="true">301</defaultcontrol>
+	<zorder>9</zorder>
+	<coordinates>
+		<system>1</system><posx>0</posx><posy>0</posy>
+	</coordinates>
+		<animation effect="fade" time="200">WindowOpen</animation>
+		<animation effect="fade" time="200">WindowClose</animation>
+	<controls>
+		<control type="label" id="6001"><description>visibility marker for selection box</description></control>
+		<control type="image">
+			<description>Background</description>
+			<posx>0</posx>
+			<posy>0</posy>
+			<width>1280</width>
+			<height>720</height>
+			<texture colordiffuse="90000000">../../Default/media/osd/white.png</texture>
+		</control>
+		<control type="image">
+			<description>Background</description>
+			<posx>208</posx>
+			<posy>117</posy>
+			<width>864</width>
+			<height>486</height>
+			<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+		</control>
+		<control type="image">
+			<description>Logo</description>
+			<posx>260</posx>
+			<posy>150</posy>
+			<width>75</width>
+			<height>75</height>
+			<texture>../../Default/media/dialogs/logo_rec.png</texture>
+		</control>
+		<control type="image">
+			<description>Logo</description>
+			<posx>975</posx>
+			<posy>150</posy>
+			<width>60</width>
+			<height>54</height>
+			<texture>../../Default/media/dialogs/.png</texture>
+		</control>
+		<control type="image">
+			<description>Separator</description>
+			<posx>278</posx>
+			<posy>178</posy>
+			<width>725</width>
+			<height>10</height>
+			<texture>../../Default/media/dialogs/separator.png</texture>
+		</control>
+		
+		<control type="label" id="1">
+			<description>Header label</description>
+			<posx>0%</posx>
+			<posy>140</posy>
+			<width>1280</width>
+			<height>45</height>
+			<font>font32_title</font>
+			<label>$ADDON[script.mtvguide 70006]</label>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>e13c3c3c</shadowcolor>
+			<visible>true</visible>
+		</control>
+		
+		<control type="button" id="301">
+			<description>Save</description>
+			<posx>465</posx>
+			<posy>500</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/selectFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/selectFO.png</texturenofocus>
+			<onleft>303</onleft>
+			<onright>302</onright>
+			<onup>402</onup>
+			<ondown>401</ondown>
+		</control>
+		
+		<control type="button" id="302">
+			<description>Cancel</description>
+			<posx>605</posx>
+			<posy>500</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/cancelFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/cancelFO.png</texturenofocus>
+			<onleft>301</onleft>
+			<onright>303</onright>
+			<onup>402</onup>
+			<ondown>401</ondown>
+		</control>
+		
+		<control type="button" id="303">
+			<description>Reset</description>
+			<posx>745</posx>
+			<posy>500</posy>
+			<width>64</width>
+			<height>64</height>
+			<texturefocus colordiffuse="ffe34555">../../Default/media/buttons/resetFO.png</texturefocus>
+			<texturenofocus>../../Default/media/buttons/resetFO.png</texturenofocus>
+			<onleft>302</onleft>
+			<onright>301</onright>
+			<onup>402</onup>
+			<ondown>401</ondown>
+		</control>
+		
+		<control type="label">
+			<description>Label</description>
+			<left>370</left>
+			<top>200</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 70000]</label>
+		</control>
+		
+		<control type="label" id="201">
+			<description>Value</description>
+			<left>482</left>
+			<top>198</top>
+			<width min="20" max="430">auto</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<textcolor>ffe34555</textcolor>
+			<shadowcolor>e1000000</shadowcolor>
+			<label></label>
+		</control>
+				
+		<control type="label">
+			<description>Label</description>
+			<left>370</left>
+			<top>250</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 70001]</label>
+		</control>
+		
+		<control type="label" id="202">
+			<description>Value</description>
+			<left>-230</left>
+			<top>250</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<label></label>
+		</control>
+		
+		<control type="label">
+			<description>Label</description>
+			<left>370</left>
+			<top>300</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 70002]</label>
+		</control>
+		
+		<control type="label" id="203">
+			<description>Value</description>
+			<left>-230</left>
+			<top>300</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<label></label>
+		</control>
+		
+		<control type="label">
+			<description>Label</description>
+			<left>370</left>
+			<top>350</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 70003]</label>
+		</control>
+		
+		<control type="label" id="204">
+			<description>Value</description>
+			<left>-230</left>
+			<top>350</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+			<label></label>
+		</control>
+		
+		<control type="label">
+			<description>Label</description>
+			<left>370</left>
+			<top>400</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 70004]</label>
+		</control>
+		
+		<control type="label" id="501">
+			<description>Slider Value</description>
+			<left>-350</left>
+			<top>400</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+		</control>
+		
+		<control type="slider" id="401">
+			  <description>Slider</description>
+			  <left>810</left>
+			  <top>405</top>
+			  <width>100</width>
+			  <height>19</height>
+			  <texturesliderbar border="10">../../Default/media/dialogs/slider-back.png</texturesliderbar>
+			  <textureslidernib>../../Default/media/dialogs/slider-nib.png</textureslidernib>
+			  <textureslidernibfocus colordiffuse="ffe34555">../../Default/media/dialogs/slider-nib.png</textureslidernibfocus>
+			  <info></info>
+			  <action></action>
+			  <controloffsetx>0</controloffsetx>
+			  <controloffsety>0</controloffsety>
+			  <pulseonselect></pulseonselect>
+			  <orientation>horizontal</orientation>
+			  <onup>301</onup>
+			  <ondown>402</ondown>
+		</control>
+		
+		<control type="label">
+			<description>Label</description>
+			<left>370</left>
+			<top>450</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>left</align>
+			<aligny>center</aligny>
+			<font>font13</font>
+			<label>$ADDON[script.mtvguide 70005]</label>
+		</control>
+		
+		<control type="label" id="502">
+			<description>Slider Value</description>
+			<left>-350</left>
+			<top>450</top>
+			<width>1140</width>
+			<height>30</height>
+			<align>right</align>
+			<aligny>center</aligny>
+			<font>font13_title</font>
+		</control>
+		
+		<control type="slider" id="402">
+			  <description>Slider</description>
+			  <left>810</left>
+			  <top>455</top>
+			  <width>100</width>
+			  <height>19</height>
+			  <texturesliderbar border="10">../../Default/media/dialogs/slider-back.png</texturesliderbar>
+			  <textureslidernib>../../Default/media/dialogs/slider-nib.png</textureslidernib>
+			  <textureslidernibfocus colordiffuse="ffe34555">../../Default/media/dialogs/slider-nib.png</textureslidernibfocus>
+			  <info></info>
+			  <action></action>
+			  <controloffsetx>0</controloffsetx>
+			  <controloffsety>0</controloffsety>
+			  <pulseonselect></pulseonselect>
+			  <orientation>horizontal</orientation>
+			  <onup>401</onup>
+			  <ondown>301</ondown>
+		</control>
+		
+		<control type="button" id="1000">
+			<description>Close Window button</description>
+			<posx>1500</posx>
+			<posy>152</posy>
+			<width>48</width>
+			<height>48</height>
+			<onclick>dialog.Close(all,true)</onclick>
+			<onclick>FullScreen</onclick>
+			<texturefocus>-</texturefocus>
+			<texturenofocus>-</texturenofocus>
+		</control>
+	</controls>
+</window>

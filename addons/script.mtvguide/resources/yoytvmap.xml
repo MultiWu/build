@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map id="yoytv" version="1.0" strm="service=yoytv&amp;cid=%s">
+	
+	<channel id="Eleven Sport" 								title="(?=(Eleven|11|E)\s*Sport(s)?(\s*NETWORK)?(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="8TV"										title="(?=(TV\s*)?8(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="FOX Comedy" 								title="(?=(FOX(X)?\s*Comedy|Comedy\s*FOX(X)?)(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Super Polsat" 								title="(?=(Super\s*(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)(\s*SPORT)?|(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)(\s*SPORT)?\s*Super)(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Super Polsat" 								title="(?=(Super\s*Polsat|Polsat\s*Super|PA\s*SPORT\s*SUPER)(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat 2" 									title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*2(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat Cafe" 								title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*Caf(e)?(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat Sport" 								title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*SPORT(\s*1)?(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat Play" 								title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*Play(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="POLSAT NEWS 2" 							title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*NEWS\s*2(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat News" 								title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*News(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat Sport Extra" 						title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)?\s*Sport\s*Extra(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="POLSAT ROMANS"								title="(?=(Polsat|PA|P|POL|PO|PA\s*SAT|P\s*SAT|PO\s*SAT)\s*(Romans|ROMANCE)(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat Film" 								title="(?=(Polsat|PO\s*SAT)\s*Film(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Polsat" 									title="(?=(Polsat|PA|P|POL|PA\s*SAT|P\s*SAT|PO\s*SAT)(\s*TV)?(\s*HD)?\s*$)" strm=""/>
+	<channel id="FOX" 										title="(?=(HD\s*)?FOX(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="Kino Polska Muzyka" 						title="(?=Kino(\s*Polska)?\s*(Muzyka|MYZYKA)(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="BBC CBeebies" 								title="(?=(BBC\s*)?(CBeebies|CBEENIES)(\s*TV)?(\s*HD)?$)" strm=""/>
+</map>
+
+<!--
+	<channel id=""						title="(?=\s*Private\s*XXXX\s*XXXXX(\s*TV)?(\s*HD)?\s*$)" strm=""/>
+-->

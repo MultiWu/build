@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+	<category label="90001">
+		<setting label="90002" type="action" action="RunScript($CWD/help.py,help)" />
+		<setting label="90003" type="action" action="RunScript($CWD/readme.py,readme)" />
+		<setting label="90004" type="action" action="RunScript($CWD/credits.py,credits)" />
+	</category>
+	<category label="55007">
+		<setting id="max_connection_time" label="30958" type="number" default="25"/>
+		<setting id="reconnect_stream" label="30960" type="bool" default="true"/>
+		<setting id="max_reconnect_attempts" label="30961" type="slider" default="5" range="1,50" option="int" visible="eq(-1,true)"/>
+		<setting id="reconnect_delay" label="30962" type="slider" default="300" range="0,3000" option="int" visible="eq(-2,true)"/>
+		<setting id="refresh_streams" label="30976" type="bool" default="true"/>
+		<setting id="max_wait_for_playback" label="30977" type="slider" default="8" range="8,60" option="int"/>
+
+		<setting type="sep"/>
+		<setting label="80001" type="lsep"/>
+ 		<setting id="wizjatv_enabled" type="bool" label="59904" default="false"/>
+		<setting id="wizjatv_use_free_account" type="bool" label="59910" default="true" visible="eq(-1,true)"/>
+		<setting id="wizjatv_username" type="text" label="55002" default="" visible="eq(-2,true) + eq(-1,false)"/>
+		<setting id="wizjatv_password" type="text" option="hidden" label="55003" default="" visible="eq(-3,true) + eq(-2,false)"/>
+ 		<setting id="priority_wizjatv" label="55009" type="enum" default="2" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-4,true)"/>
+
+		<setting type="sep"/>
+		<setting label="30912" type="lsep"/>
+		<setting id="WeebTV_enabled" type="bool" label="59904" default="false"/>
+		<setting id="username" type="text" label="55002" default="" visible="eq(-1,true)"/>
+		<setting id="userpassword" type="text" option="hidden" label="55003" default="" visible="eq(-2,true)"/>
+		<setting id="video_quality" type="bool" label="55005" default="true" visible="eq(-3,true)"/>
+		<setting id="assign_all_streams_weeb" type="bool" label="55008" default="true" visible="eq(-1,true) + eq(-4,true)"/>
+		<setting id="miltisession_enabled" type="bool" label="59909" default="false" visible="eq(-5,true)"/>
+		<setting id="priority_weebtv" label="55009" type="enum" default="5" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-6,true)"/>
+
+		<setting type="sep"/>
+		<setting label="59902" type="lsep"/>
+		<setting id="GoldVOD_enabled" type="bool" label="59904" default="false"/>
+		<setting id="usernameGoldVOD" type="text" label="55002" default="" visible="eq(-1,true)"/>
+		<setting id="userpasswordGoldVOD" type="text" option="hidden" label="55003" default="" visible="eq(-2,true)"/>
+		<setting id="video_qualityGoldVOD" type="bool" label="55005" default="true" visible="eq(-3,true)"/>
+		<setting id="assign_all_streams_goldvod" type="bool" label="55008" default="true" visible="eq(-1,true) + eq(-4,true)"/>
+		<setting id="GoldVOD_location" type="labelenum" label="90000" default="Holandia" values="Holandia|Rumunia|Niemcy|UK|USA" visible="eq(-5,true)"/>
+		<setting id="priority_goldvod" label="55009" type="enum" default="1" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-6,true)"/>
+
+		<setting type="sep"/>
+		<setting label="80005" type="lsep"/>
+		<setting id="videostar_enabled" type="bool" label="59904" default="false"/>
+		<setting id="videostar_username" type="text" label="55002" default="" visible="eq(-1,true)"/>
+		<setting id="videostar_password" type="text" option="hidden" label="55003" default="" visible="eq(-2,true)"/>
+		<setting id="priority_videostar" label="55009" type="enum" default="2" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-3,true)"/>
+
+		<setting type="sep"/>
+		<setting label="80006" type="lsep"/>
+		<setting id="ipla_enabled" type="bool" label="59904" default="false"/>
+		<setting id="ipla_username" type="text" label="55002" default="" visible="eq(-1,true)"/>
+		<setting id="ipla_password" type="text" option="hidden" label="55003" default="" visible="eq(-2,true)"/>
+		<setting id="priority_ipla" label="55009" type="enum" default="6" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-3,true)"/>
+
+	</category>
+	<category label="59905">
+		<setting id="nr_of_playlists" label="59916" type="labelenum" default="0" values="0|1|2|3|4|5"/>
+		
+		<setting type="sep" visible="gt(-1,0)"/>
+		<setting label="59911" type="lsep" visible="gt(-2,0)"/>
+		<setting id="playlist_1_enabled" type="bool" label="59904" default="false" visible="gt(-3,0)"/>
+		<setting id="playlist_1_display_name" label="59914" type="text" default="Playlist_1" visible="eq(-1,true) + gt(-4,0)"/>
+		<setting id="playlist_1_source" label="59907" type="labelenum" default="Url" values="Url|File" visible="eq(-2,true) + gt(-5,0)"/>
+		<setting id="playlist_1_url" label="59906" type="text" visible="eq(-1,0) + eq(-3,true) + gt(-6,0)" default=""/>
+		<setting id="playlist_1_file" label="59908" type="file" visible="eq(-2,1) + eq(-4,true) + gt(-7,0)" default=""/>
+		<setting id="playlist_1_stop_when_starting" type="bool" label="30974" default="false" visible="eq(-5,true) + gt(-8,0)"/>
+		<setting id="playlist_1_high_prio_hd" type="bool" label="30975" default="true" visible="eq(-6,true) + gt(-9,0)"/>
+		<setting id="playlist_1_priority" label="55009" type="enum" default="6" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-7,true) + gt(-10,0)"/>
+    
+		<setting type="sep" visible="gt(-11,1)"/>
+		<setting label="59912" type="lsep" visible="gt(-12,1)"/>
+		<setting id="playlist_2_enabled" type="bool" label="59904" default="false" visible="gt(-13,1)"/>
+		<setting id="playlist_2_display_name" label="59914" type="text" default="Playlist_2" visible="eq(-1,true) + gt(-14,1)"/>
+		<setting id="playlist_2_source" label="59907" type="labelenum" default="Url" values="Url|File" visible="eq(-2,true) + gt(-15,1)"/>
+		<setting id="playlist_2_url" label="59906" type="text" visible="eq(-1,0) + eq(-3,true) + gt(-16,1)" default=""/>
+		<setting id="playlist_2_file" label="59908" type="file" visible="eq(-2,1) + eq(-4,true) + gt(-17,1)" default=""/>
+		<setting id="playlist_2_stop_when_starting" type="bool" label="30974" default="false" visible="eq(-5,true) + gt(-18,1)" />
+		<setting id="playlist_2_high_prio_hd" type="bool" label="30975" default="true" visible="eq(-6,true) + gt(-19,1)" />
+		<setting id="playlist_2_priority" label="55009" type="enum" default="6" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-7,true) + gt(-20,1)"/>
+
+		<setting type="sep" visible="gt(-21,2)"/>
+		<setting label="59913" type="lsep" visible="gt(-22,2)"/>
+		<setting id="playlist_3_enabled" type="bool" label="59904" default="false" visible="gt(-23,2)"/>
+		<setting id="playlist_3_display_name" label="59914" type="text" default="Playlist_3" visible="eq(-1,true) + gt(-24,2)"/>
+		<setting id="playlist_3_source" label="59907" type="labelenum" default="Url" values="Url|File" visible="eq(-2,true) + gt(-25,2)"/>
+		<setting id="playlist_3_url" label="59906" type="text" visible="eq(-1,0) + eq(-3,true) + gt(-26,2)" default=""/>
+		<setting id="playlist_3_file" label="59908" type="file" visible="eq(-2,1) + eq(-4,true) + gt(-27,2)" default=""/>
+		<setting id="playlist_3_stop_when_starting" type="bool" label="30974" default="false" visible="eq(-5,true) + gt(-28,2)" />
+		<setting id="playlist_3_high_prio_hd" type="bool" label="30975" default="true" visible="eq(-6,true) + gt(-29,2)" />
+		<setting id="playlist_3_priority" label="55009" type="enum" default="6" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-7,true) + gt(-30,2)"/>
+		
+		<setting type="sep" visible="gt(-31,3)"/>
+		<setting label="59917" type="lsep" visible="gt(-32,3)"/>
+		<setting id="playlist_4_enabled" type="bool" label="59904" default="false" visible="gt(-33,3)"/>
+		<setting id="playlist_4_display_name" label="59914" type="text" default="Playlist_4" visible="eq(-1,true) + gt(-34,3)"/>
+		<setting id="playlist_4_source" label="59907" type="labelenum" default="Url" values="Url|File" visible="eq(-2,true) + gt(-35,3)"/>
+		<setting id="playlist_4_url" label="59906" type="text" visible="eq(-1,0) + eq(-3,true) + gt(-36,3)" default=""/>
+		<setting id="playlist_4_file" label="59908" type="file" visible="eq(-2,1) + eq(-4,true) + gt(-37,3)" default=""/>
+		<setting id="playlist_4_stop_when_starting" type="bool" label="30974" default="false" visible="eq(-5,true) + gt(-38,3)" />
+		<setting id="playlist_4_high_prio_hd" type="bool" label="30975" default="true" visible="eq(-6,true) + gt(-39,3)" />
+		<setting id="playlist_4_priority" label="55009" type="enum" default="6" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-7,true) + gt(-40,3)"/>
+		
+		<setting type="sep" visible="gt(-41,4)"/>
+		<setting label="59918" type="lsep" visible="gt(-42,4)"/>
+		<setting id="playlist_5_enabled" type="bool" label="59904" default="false" visible="gt(-43,4)"/>
+		<setting id="playlist_5_display_name" label="59914" type="text" default="Playlist_5" visible="eq(-1,true) + gt(-44,4)"/>
+		<setting id="playlist_5_source" label="59907" type="labelenum" default="Url" values="Url|File" visible="eq(-2,true) + gt(-45,4)"/>
+		<setting id="playlist_5_url" label="59906" type="text" visible="eq(-1,0) + eq(-3,true) + gt(-46,4)" default=""/>
+		<setting id="playlist_5_file" label="59908" type="file" visible="eq(-2,1) + eq(-4,true) + gt(-47,4)" default=""/>
+		<setting id="playlist_5_stop_when_starting" type="bool" label="30974" default="false" visible="eq(-5,true) + gt(-48,4)" />
+		<setting id="playlist_5_high_prio_hd" type="bool" label="30975" default="true" visible="eq(-6,true) + gt(-49,4)" />
+		<setting id="playlist_5_priority" label="55009" type="enum" default="6" lvalues="55010|55011|55017|55012|55018|55013|55019|55014|55020|55021|55022|55023" visible="eq(-7,true) + gt(-50,4)"/>
+	</category>
+
+	<category label="30101">
+		<setting id="source" label="30701" type="labelenum" default="m-TVGuide" values="XMLTV|m-TVGuide"/>
+		<setting id="AutoUpdateCid" label="30703" type="bool" default="true" visible="eq(-1,1)"/>
+		<setting id="OnlyChannelsWithStream" label="30705" type="bool" default="true" visible="eq(-2,1)"/>
+		<setting id="UpdateEPGOnModifiedDate" label="30706" type="bool" default="true" visible="eq(-3,1)"/>
+		<setting id="useCustomParser" label="30708" type="bool" default="true" visible="eq(-4,1)"/>
+		<setting id="show.logo" label="30355" type="bool" default="true" visible="eq(-5,1)"/>
+		<setting id="xmltv.file" label="30103" type="file" visible="eq(-6,0)"/>
+		<setting id="xmltv.logo.folder" label="30116" type="folder" visible="eq(-7,0)"/>
+		<setting type="sep" visible="eq(-8,1)"/>
+		<setting label="30111" type="lsep" visible="eq(-9,1)"/>
+		<setting id="m-TVGuide" label="30118" type="text" visible="eq(-10,1)" default="http://mods-kodi.pl/"/>
+		<setting id="m-TVGuide2" label="30119" type="text" visible="eq(-11,1)" default=""/>
+		<setting id="m-TVGuide3" label="30120" type="text" visible="eq(-12,1)" default=""/>
+		<setting type="sep" visible="eq(-13,1)"/>
+		<setting label="30740" type="lsep" visible="eq(-14,1)"/>
+		<setting id="showForeginChannels" type="bool" label="30739" default="false"  visible="eq(-15,1)"/>
+		<setting id="showBeneluxChannels" type="bool" label="30743" default="false" visible="eq(-16,1) + eq(-1,true)"/>
+		<setting id="benelux_EPG" label="30744" type="text" visible="eq(-17,1) + eq(-1,true) + eq(-2,true)" default=""/>
+		<setting id="showCzechChannels" type="bool" label="30753" default="false" visible="eq(-18,1) + eq(-3,true)"/>
+		<setting id="czech_EPG" label="30752" type="text" visible="eq(-19,1) + eq(-1,true) + eq(-4,true)" default=""/>
+		<setting id="showCroatianChannels" type="bool" label="30733" default="false" visible="eq(-20,1) + eq(-5,true)"/>
+		<setting id="croatian_EPG" label="30734" type="text" visible="eq(-21,1) + eq(-1,true) + eq(-6,true)" default=""/>
+		<setting id="showDanishChannels" label="30727" type="bool" default="false" visible="eq(-22,1) + eq(-7,true)"/>
+		<setting id="danish_EPG" label="30728" type="text" visible="eq(-23,1) + eq(-1,true) + eq(-8,true)" default=""/>
+		<setting id="showEnglishChannels" label="30725" type="bool" default="false" visible="eq(-24,1) + eq(-9,true)"/>
+		<setting id="english_EPG" label="30726" type="text" visible="eq(-25,1) + eq(-1,true) + eq(-10,true)" default=""/>
+		<setting id="showFrenchChannels" label="30729" type="bool" default="false" visible="eq(-26,1) + eq(-11,true)"/>
+		<setting id="french_EPG" label="30730" type="text" visible="eq(-27,1) + eq(-1,true) + eq(-12,true)" default=""/>	
+		<setting id="showGermanChannels" label="30731" type="bool" default="false" visible="eq(-28,1) + eq(-13,true)"/>
+		<setting id="german_EPG" label="30732" type="text" visible="eq(-29,1) + eq(-1,true) + eq(-14,true)" default=""/>	
+		<setting id="showNorwegianChannels" label="30737" type="bool" default="false" visible="eq(-30,1) + eq(-15,true)"/>
+		<setting id="norwegian_EPG" label="30738" type="text" visible="eq(-31,1) + eq(-1,true) + eq(-16,true)" default=""/>		
+		<setting id="showSerbianChannels" label="30735" type="bool" default="false" visible="eq(-32,1) + eq(-17,true)"/>
+		<setting id="serbian_EPG" label="30736" type="text" visible="eq(-33,1) + eq(-1,true) + eq(-18,true)" default=""/>		
+		<setting id="showSwedishChannels" label="30716" type="bool" default="false" visible="eq(-34,1) + eq(-19,true)"/>
+		<setting id="swedish_EPG" label="30718" type="text" visible="eq(-35,1) + eq(-1,true) + eq(-20,true)" default=""/>
+		<setting id="showUsChannels" label="30755" type="bool" default="false" visible="eq(-36,1) + eq(-21,true)"/>
+		<setting id="us_EPG" label="30754" type="text" visible="eq(-37,1) + eq(-1,true) + eq(-22,true)" default=""/>
+		<setting type="sep" visible="eq(-38,1) + eq(-1,false)"/>
+		<setting label="30751" type="lsep" visible="eq(-39,1)"/>
+		<setting id="showRadioChannels" label="30749" type="bool" default="false" visible="eq(-40,1)"/>
+		<setting id="radio_EPG" label="30750" type="text" visible="eq(-41,1) + eq(-1,true)" default=""/>
+		<setting label="30741" type="lsep" visible="eq(-42,1)"/>
+		<setting id="showAdultChannels" label="30715" action="RunScript($CWD/settingsImportExport.py, Adult)" option="close" type="action" default="Disabled" visible="eq(-43,1)"/>
+		<setting label="30746" type="lsep" visible="eq(-44,1)"/>
+		<setting id="showVodChannels" label="30745" action="RunScript($CWD/settingsImportExport.py, Vod)" option="close" type="action" default="Disabled" visible="eq(-45,1)"/>
+		<setting type="sep" visible="eq(-46,1)"/>
+		<setting label="30742" type="lsep" visible="eq(-47,1)"/>
+		<setting id="Time.Zone" label="30911" type="labelenum" default="+01:00" values="-12:00|-11:00|-10:00|-09:30|-09:00|-08:00|-07:00|-06:00|-05:00|-04:30|-04:00|-03:30|-03:00|-02:00|-01:00|00:00|+01:00|+02:00|+03:00|+03:30|+04:00|+04:30|+05:00|+05:30|+05:45|+06:00|+06:30|+07:00|+08:00|+09:00|+09:30|+10:00|+10:30|+11:00|+11:30|+12:00|+12:45|+13:00|+14:00|" visible="eq(-48,1)"/>
+	</category>
+	<category label="30913">
+		<setting id="autostart_mtvguide" label="30915" type="bool" default="false"/>
+		<setting type="sep"/>
+		<setting id="autostart_channel" label="30919" type="bool" default="false"/>
+		<setting id="autostart_channel_last" label="30921" type="bool" default="true" visible="eq(-1,true)"/>
+		<setting id="autostart_channel_number" label="30920" type="number" default="1" visible="eq(-1,false) + eq(-2,true)"/>
+		<setting type="sep"/>
+		<setting id="notifications.enabled" label="30106" type="bool" default="true"/>
+		<setting id="sleep__enabled" type="bool" label="89001" default="false"/>
+		<setting id="sleep_timer" type="number" label="89003" default="90" visible="eq(-1,true)"/>
+		<setting id="sleep__action" type="enum" label="89002" default="0" lvalues="89004|89005|89006|89007" visible="eq(-2,true)"/>
+		<setting id="pokazpanel" label="30910" type="bool" default="false"/>
+		<setting id="categories.remember" label="30993" type="bool" visible="true" default="true" />
+		<setting label="31002" type="action" action="RunScript($CWD/setkey.py)"/>
+		<setting id="info_key" visible="false"/>
+		<setting id="stop_key" visible="false"/>
+		<setting id="pp_key" visible="false"/>
+		<setting id="pm_key" visible="false"/>
+		<setting id="volume_up_key" visible="false"/>
+		<setting id="volume_down_key" visible="false"/>
+		<setting id="home_key" visible="false"/>
+		<setting id="context_key" visible="false"/>
+		<setting id="record_key" visible="false"/>
+		<setting id="list_key" visible="false"/>
+		<setting id="switch_to_last_key" visible="false"/>
+		<setting type="sep"/>
+		<setting label="30347" type="lsep"/>
+		<setting id="channel.shortcut" label="30348" type="bool" default="true"/>
+        <setting id="channel.shortcut.behaviour" label="30349" visible="eq(-1,true)" type="enum" default="0" lvalues="30350|30352" />
+		<setting type="sep"/>
+		<setting id="exit" label="30963" type="enum" default="1" lvalues="30982|30983"/>
+	</category>
+	<category label="69040">
+		<setting id="info.osd" label="31001" type="bool" default="true"/>
+		<setting id="start_video_minimalized" label="30917" type="bool" default="true"/>
+		<setting id="navi_back_stop_play" label="310011" type="bool" default="false" visible="eq(-2,true) + eq(-1,true)"/>
+		<setting id="osd_time" label="69045" type="slider" default="25" range="1,50" option="int" visible="eq(-3,true)"/>
+		<setting id="VidOSD_on_select" label="30918" type="bool" default="true" visible="eq(-4,true) + true"/>
+		<setting id="show_osd_buttons" label="69042" type="bool" default="true" visible="eq(-5,true) + eq(-1,true)"/>
+		<setting id="key_right_left_show_next" label="69041" type="bool" default="false" visible="eq(-6,true) + eq(-1,false)"/>
+		<setting id="show_osd_on_play" label="69043" type="bool" default="true" visible="eq(-7,true)"/>
+		<setting id="osd_on_play_time" label="69044" type="slider" default="3" range="1,50" option="int" visible="eq(-8,true) + eq(-1,true)"/>
+		<setting id="osd_on_stream_change" label="69046" type="bool" default="false" visible="eq(-9,true) + eq(-2,true)"/>
+		<setting id="show_service_name" label="69047" type="bool" default="true" visible="eq(-10,true)"/>
+		<setting id="show.time" label="Always display time" type="bool" default="true" visible="eq(-11,true)"/>
+	</category>
+	<category label="30916">
+		<setting label="69035" type="action" action="RunScript($CWD/logUploader.py, primary)"/>
+		<setting label="30108" type="action" action="RunScript($CWD/notification.py)"/>
+		<setting label="30109" type="action" action="RunScript($CWD/cleardb.py, clearRecordings)"/>
+		<setting type="sep"/>
+		<setting label="30953" type="action" action="RunScript($CWD/settingsImportExport.py, Export)"/>
+		<setting label="30954" type="action" option="close" action="RunScript($CWD/settingsImportExport.py, Import)"/>
+		<setting type="sep"/>
+		<setting label="30980" type="lsep"/>
+		<setting type="lsep"/>
+		<setting label="30952" type="action" action="RunScript($CWD/cleardb.py, clearCustom)"/>
+		<setting label="30950" type="action" action="RunScript($CWD/cleardb.py, clearAll)"/>
+		<setting label="30955" type="action" action="RunScript($CWD/cleardb.py, deleteDbFile)"/>
+		<setting label="30973" type="action" option="close" action="RunScript($CWD/cleardb.py, deleteAll)"/>
+	</category>
+	<category label="69000">
+		<setting label="69032" type="lsep"/>
+		<setting id="download_record_app" label="69017" type="action" option="close" value="" action="RunScript($CWD/settingsImportExport.py, DownloadRecordAppFromModsKodi)"/>
+		<setting type="sep"/>
+		<setting id="record.folder" label="69003" type="folder" value="" option="writeable"/>
+		<setting id="use_only_ffmpeg" label="69016" type="bool" default="false"/>
+		<setting id="rtmpdumpExe" label="69001" type="action" option="close" value="" action="RunScript($CWD/settingsImportExport.py, ImportRecordApp)" visible="eq(-1,false)"/>
+		<setting id="ffmpegExe" label="69002" type="action" option="close" value="" action="RunScript($CWD/settingsImportExport.py, ImportRecordApp)"/>
+		<setting type="sep"/>
+		<setting id="record_stop_playback" label="69038" type="bool" default="false"/>
+		<setting id="max_reattempts" label="69024" type="number" default="5"/>
+		<setting id="ask_to_delete_watched" label="69025" type="enum" default="1" lvalues="69028|69029|69030"/>
+	</category>
+	<category label="30309">
+        <setting id="listing.days" label="30339" type="slider" default="3" range="1,3" option="int" visible="true"/>
+        <setting id="listing.hours" label="30340" type="slider" default="1" range="0,6" option="int" visible="true"/>
+        <setting id="listing.sort.time" label="30341" type="bool" default="true" />
+		<setting id="program.search.plot" label="30342" type="bool" default="false" />
+	</category>
+	<category label="30702">
+		<setting id="Skin" label="30914" type="action" action="RunScript($CWD/skins.py, SelectSkin)" default="Default"/>
+		<setting label="30714" type="action" action="RunScript($CWD/skins.py, DeleteSkins)"/>
+	</category>
+	<category label="30930">
+		<setting label="30931" type="lsep"/>
+		<setting id="color.Filmy" label="30932" type="select" default="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.Seriale" label="30933" type="select" default="[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.Informacja" label="30934" type="select" default="[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.Rozrywka" label="30935" type="select" default="[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.Dokument" label="30936" type="select" default="[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.Dladzieci" label="30937" type="select" default="[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.Sport" label="30938" type="select" default="[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.InteraktywnyProgramRozrywkowy" label="30939" type="select" default="[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]" values="[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]|[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]|[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]|[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]|[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]|[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]|[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]|[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]|[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting type="sep"/>
+		<setting label="30940" type="lsep"/>
+		<setting id="color.default" label="30941" type="select" default="[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]" values="[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]"/>
+		<setting id="color.defaultfocus" label="30942" type="select" default="[COLOR](10) $ADDON[script.mtvguide 70016][/COLOR]" values="[COLOR](10) $ADDON[script.mtvguide 70016][/COLOR]|[COLOR ff0000ff](13) $ADDON[script.mtvguide 70019][/COLOR]|[COLOR ffff0000](14) $ADDON[script.mtvguide 70020][/COLOR]|[COLOR ffffa500](15) $ADDON[script.mtvguide 70021][/COLOR]|[COLOR FF2C2C2C](16) $ADDON[script.mtvguide 70022][/COLOR]"/>
+		<setting id="color.notification" label="30943" type="select" default="[COLOR](11) $ADDON[script.mtvguide 70017][/COLOR]" values="[COLOR](11) $ADDON[script.mtvguide 70017][/COLOR]|[COLOR ff0000ff](13) $ADDON[script.mtvguide 70019][/COLOR]|[COLOR ffff0000](14) $ADDON[script.mtvguide 70020][/COLOR]|[COLOR ffffa500](15) $ADDON[script.mtvguide 70021][/COLOR]"/>
+		<setting id="color.recording" label="30944" type="select" default="[COLOR](12) $ADDON[script.mtvguide 70018][/COLOR]" values="[COLOR](12) $ADDON[script.mtvguide 70018][/COLOR]|[COLOR ff0000ff](13) $ADDON[script.mtvguide 70019][/COLOR]|[COLOR ffff0000](14) $ADDON[script.mtvguide 70020][/COLOR]|[COLOR ffffa500](15) $ADDON[script.mtvguide 70021][/COLOR]"/>
+	</category>
+	<category label="30901">
+		<setting label="30902" type="action" action="UpdateAddonRepos"/>
+	</category>
+</settings>

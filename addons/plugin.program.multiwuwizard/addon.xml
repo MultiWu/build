@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.multiwuwizard" name="[COLOR red][B]MultiWu [/B][/COLOR]Wizard" version="1.0.0" provider-name="MultiWu">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+    </requires>
+    
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+    
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR red][B]MultiWu [/B][/COLOR]Wizard</summary>
+        <description lang="en">[COLOR red][B]MultiWu [/B][/COLOR]Wizard. Instalator pakietu MWUBuild</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>https://www.github.com/MultiWu/plugin.program.multiwuwizard/</source>
+        <news>
+        1.0.0
+         - Initial Commit
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>

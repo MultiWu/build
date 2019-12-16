@@ -1,0 +1,206 @@
+<window>
+	<defaultcontrol always="true">1000</defaultcontrol>
+	<coordinates>
+		<system>1</system><posx>0</posx><posy>0</posy>
+	</coordinates>
+		<animation effect="fade" time="200">WindowOpen</animation>
+		<animation effect="fade" time="200">WindowClose</animation>
+	<controls>
+			<control type="group">
+				<include>VisibleFadeEffect</include>
+			<control type="image">
+				<description>Background</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>1280</width>
+				<height>720</height>
+				<texture colordiffuse="90000000">../../Default/media/osd/white.png</texture>
+			</control>
+			<control type="image">
+				<description>Background</description>
+				<posx>185</posx>
+				<posy>105</posy>
+				<width>910</width>
+				<height>532</height>
+				<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+			</control>
+			<control type="image">
+				<description>Logo</description>
+				<posx>238</posx>
+				<posy>140</posy>
+				<width>75</width>
+				<height>75</height>
+				<texture>../../Default/media/dialogs/logo_info.png</texture>
+			</control>
+			<control type="image">
+				<description>Separator</description>
+				<posx>255</posx>
+				<posy>178</posy>
+				<width>771</width>
+				<height>10</height>
+				<texture>../../Default/media/dialogs/separator.png</texture>
+			</control>
+			
+			<control type="label" id="1">
+				<description>Header label</description>
+				<posx>0%</posx>
+				<posy>140</posy>
+				<width>1280</width>
+				<height>45</height>
+				<font>font32_title</font>
+				<label>$ADDON[script.mtvguide 58000]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>fff0efef</textcolor>
+				<shadowcolor>e13c3c3c</shadowcolor>
+				<visible>true</visible>
+			</control>
+			<control type="button" id="1000">
+				<description>Close Window button</description>
+				<posx>1500</posx>
+				<posy>152</posy>
+				<width>48</width>
+				<height>48</height>
+				<onclick>dialog.Close(all,true)</onclick>
+				<onclick>FullScreen</onclick>
+				<texturefocus colordiffuse="EEFFFFFF">../../Default/media/dialogs/close.png</texturefocus>
+				<texturenofocus colordiffuse="EEFFFFFF">../../Default/media/dialogs/logo.png</texturenofocus>
+				<animation effect="fade" time="200">VisibleChange</animation>
+				<visible>true</visible>
+			</control>
+			<control type="label">
+				<description>Channel</description>
+				<left>370</left>
+				<top>198</top>
+				<width min="20" max="430">auto</width>
+				<height>30</height>
+				<align>left</align>
+				<aligny>center</aligny>
+				<font>font13</font>
+				<textcolor>ffe34555</textcolor>
+				<shadowcolor>e1000000</shadowcolor>
+				<label>[UPPERCASE]$INFO[ListItem.Title][/UPPERCASE]</label>
+			</control>
+			<control type="label" id="4920">
+				<description>Program title</description>
+				<left>370</left>
+				<top>198</top>
+				<width min="20" max="330">auto</width>
+				<height>30</height>
+				<align>left</align>
+				<aligny>center</aligny>
+				<font>font32_title</font>
+				<textcolor>ffe34555</textcolor>
+				<shadowcolor>e1000000</shadowcolor>
+			</control>
+			<control type="image" id="4924">
+				<description>Channel logo</description>
+				<posx>948</posx>
+				<posy>130</posy>
+				<width>100</width>
+				<height>100</height>
+				<aspectratio>keep</aspectratio>
+				<fadetime>500</fadetime>
+				<visible>hidden</visible>
+			</control>
+			<control type="image" id="4944">
+				<description>Live</description>
+				<posx>238</posx>
+				<posy>575</posy>
+				<width>80</width>
+				<height>18</height>
+				<aspectratio>keep</aspectratio>
+				<fadetime>500</fadetime>
+				<visible>true</visible>
+			</control>
+			<control type="group">
+				<posx>1017</posx>
+				<posy>149</posy>
+				<width>1280</width>
+				<height>720</height>
+				<itemgap>10</itemgap>
+				
+			<control type="label">
+				<description>Current time</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width min="20" max="430">auto</width>
+				<height>30</height>
+				<label>$INFO[System.Time(hh:mm)]</label>
+				<align>right</align>
+				<aligny>center</aligny>
+				<font>font13</font>
+				<textcolor>ffe34555</textcolor>
+				<shadowcolor>e1000000</shadowcolor>
+			</control>
+			<control type="label">
+				<description>Current time - sec</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width min="20" max="430">auto</width>
+				<height>30</height>
+				<label>:$INFO[System.Time(ss)]</label>
+				<align>left</align>
+				<aligny>center</aligny>
+				<font>font13</font>
+				<textcolor>ffe34555</textcolor>
+				<shadowcolor>e1000000</shadowcolor>
+			</control>
+				</control>	
+			<control type="label" id="4921">
+				<description>Program time</description>
+				<left>482</left>
+				<top>198</top>
+				<width min="20" max="430">auto</width>
+				<height>30</height>
+				<align>right</align>
+				<aligny>center</aligny>
+				<font>font13</font>
+				<textcolor>ffe34555</textcolor>
+				<shadowcolor>e1000000</shadowcolor>
+			</control>
+			<control type="textbox" id="4922">
+				<description>Program description</description>
+				<left>370</left>
+				<top>250</top>
+				<width>542</width>
+				<height>164</height>
+				<align>left</align>
+				<font>font13</font>
+				<label></label>
+				<wrapmultiline>true</wrapmultiline>
+				<autoscroll time="3500" delay="3500" repeat="10000">true</autoscroll>
+			</control>
+			<control type="label" id="4921">
+				<description>Program time</description>
+				<posx>880</posx>
+				<posy>55</posy>
+				<width>140</width>
+				<height>50</height>
+				<textcolor>fff0efef</textcolor>
+				<shadowcolor>e13c3c3c</shadowcolor>
+				<font>font13</font>
+				<align>right</align>
+				<aligny>center</aligny>	
+			</control>
+			<control type="image" id="4923">
+				<description>Program logo</description>
+				<posx>797</posx>
+				<posy>440</posy>
+				<width>240</width>
+				<height>135</height>
+				<aspectratio>keep</aspectratio>
+				<fadetime>500</fadetime>
+				<texture>../../Default/media/tvguide-logo-epg.png</texture>
+			</control>
+			<control type="progress" id="4999">
+				<left>370</left>
+				<posy>500</posy>
+				<width>380</width>
+			    <height>5</height>
+				<texturebg>../../Default/media/osd/white.png</texturebg>
+				<midtexture colordiffuse="ffe34555">../../Default/media/osd/white.png</midtexture>
+			</control>
+		</control>
+	</controls>
+</window>

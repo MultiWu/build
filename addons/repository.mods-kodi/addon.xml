@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mods-kodi" name="mods-kodi Repository" version="0.1.2" provider-name="mods-kodi.pl">
+	<extension point="xbmc.addon.repository" name="mods-kodi Repository">
+		<info compressed="false">http://repo.mods-kodi.pl/addons.xml</info>
+		<checksum>http://repo.mods-kodi.pl/addons.xml.md5</checksum>
+		<datadir zip="true">http://repo.mods-kodi.pl/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Repozytorium mods-kodi.pl</summary>
+		<summary lang="pl">Repository mods-kodi.pl</summary>
+		<description lang="en">For more information visit [COLOR cyan][B]mods-kodi.pl[/B][/COLOR] site.</description>
+		<description lang="pl">Zapraszamy na [COLOR cyan][B]mods-kodi.pl[/B][/COLOR]</description>
+		<platform>all</platform>
+		<language></language>
+		<website>http://mods-kodi.pl</website>
+		<forum>http://mods-kodi.pl/forum</forum>
+		<source>http://sd-xbmc.org/svn/mods-xbmc</source>
+		<email>site@mods-kodi.pl</email>
+	</extension>
+</addon>

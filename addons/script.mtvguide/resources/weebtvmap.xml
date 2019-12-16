@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map id="weebtv" version="1.0" strm="service=weebtv&amp;cid=%s">
+	<channel id="KSW"										title="(?=\s*KSW.*(\s*HD)?$)" strm=""/>
+	<channel id="SpongeBob Kanciastoporty"					title="(?=.*SpongeBob.*)" strm=""/>
+	<channel id="Klub Przyjaciol Myszki Miki"				title="(?=.*Klub)(?=.*Myszki)(?=.*Miki)" strm=""/>
+	<channel id="Scooby-Doo"								title="(?=.*Scooby-Doo)" strm=""/>
+	<channel id="Bajki - Sasiedzi"							title="(?=.*Bajki)(?=.*S*siedzi)" strm=""/>
+	<channel id="Bajki - Smerfy"							title="(?=.*Bajki)(?=.*Smerfy)(?=.*serial)" strm=""/>
+	<channel id="Flinstonowie"								title="(?=.*Flinstonowie)" strm=""/>
+	<channel id="Dragon Ball Z - 16 Sezonow"				title="(?=.*Dragon)(?=.*Ball)(?=.*Z)" strm=""/>
+	<channel id="Pingwiny z Madagaskaru HD"					title="(?=.*Pingwiny)(?=.*z)(?=.*Madagaskaru)" strm=""/>
+	<channel id="Kung Fu Panda: Leg. o niezwyk."			title="(?=.*Kung)(?=.*Fu)(?=.*Panda)" strm=""/>
+	<channel id="Wlatcy Moch (wszystkie sezony)"			title="(?=.*W*atcy)(?=.*M*ch)(?=.*wszystkie)(?=.*sezony)" strm=""/>
+	<channel id="Dlugometrazowe bajki w HD"					title="(?=.*bajki)(?=.*w)(?=.*HD)" strm=""/>
+	<channel id="Epoka Lodowcowa"							title="(?=.*EPOKA)(?=.*LODOWCOWA)" strm=""/>
+	<channel id="Rodzinka.pl"								title="(?=.*Rodzinka.pl)" strm=""/>
+	<channel id="Teoria wielkiego podrywu"					title="(?=.*Teoria)(?=.*wielkiego)(?=.*podrywu)(?!.*NEW)" strm=""/>
+	<channel id="Teoria wielkiego podrywu NEW"				title="(?=.*Teoria)(?=.*wielkiego)(?=.*podrywu)(?=.*NEW)" strm=""/>
+	<channel id="Az po sufit"								title="(?=.*A*)(?=.*po)(?=.*sufit)" strm=""/>
+	<channel id="DR HOUSE - TERAZ W HD!"					title="(?=.*DR)(?=.*HOUSE)" strm=""/>
+	<channel id="Ranczo (sezon 1-9)"						title="(?=.*Ranczo)" strm=""/>
+	<channel id="Gotowe na Wszystko"						title="(?=.*Gotowe)(?=.*na)(?=.*wszystko)" strm=""/>
+	<channel id="Ojciec Mateusz (sezon 1-14)"				title="(?=.*ojciec)(?=.*mateusz)" strm=""/>
+	<channel id="Przyjaciele"								title="(?=.*przyjaciele)" strm=""/>
+	<channel id="Gwiezdne Wrota (SG1,ATL)"					title="(?=.*gwiezdne)(?=.*wrota)" strm=""/>
+	<channel id="NCIS"										title="(?=.*NCIS)" strm=""/>
+	<channel id="Jas Fasola - serial"						title="(?=.*Ja*)(?=.*Fasola)(?=.*serial)" strm=""/>
+	<channel id="CSI: Kryminalne zagadki Miami"				title="(?=.*CSI)(?=.*Kryminalne)(?=.*zagadki)(?=.*Miami)" strm=""/>
+	<channel id="Miodowe Lata"								title="(?=.*Miodowe)(?=.*Lata)" strm=""/>
+	<channel id="Kosci - Bones"								title="(?=.*Bones)" strm=""/>
+	<channel id="DALEKO OD NOSZY"							title="(?=.*daleko)(?=.*od)(?=.*noszy)" strm=""/>
+	<channel id="Detektyw Monk"								title="(?=.*Detektyw)(?=.*Monk)" strm=""/>
+	<channel id="Gra o Tron"								title="(?=.*Gra)(?=.*o)(?=.*Tron)" strm=""/>
+	<channel id="Pitbull - Wszystkie sezony"				title="(?=.*Pitbull)" strm=""/>
+	<channel id="Skazany na Smierc! - Wsyzstkie s"			title="(?=.*Skazany)(?=.*na)" strm=""/>
+	<channel id="13 posterunek HQ (HD)"						title="(?=.*13)(?=.*posterunek)" strm=""/>
+	<channel id="Diabli nadali"								title="(?=.*Diabli)(?=.*nadali)" strm=""/>
+	<channel id="The Walking Dead"							title="(?=.*The)(?=.*Walking)(?=.*Dead)" strm=""/>
+	<channel id="Mentalista - WSZYSTKIE SEZONY"				title="(?=.*Mentalista)" strm=""/>
+	<channel id="On, ona i dzieciaki"						title="(?=.*On)(?=.*Ona)(?=.*dzieciaki)" strm=""/>
+	<channel id="Alternatywy 4 - Wszystkie odcink"			title="(?=.*Alternatywy)(?=.*4)" strm=""/>
+	<channel id="Breaking Bad"								title="(?=.*Breaking)(?=.*Bad)" strm=""/>
+	<channel id="Archiwum X"								title="(?=.*Archiwum)(?=.*X)" strm=""/>
+	<channel id="Lekarze (Serial 24/7)"						title="(?=.*Lekarze)" strm=""/>
+	<channel id="Grimm (wszystkie sezony)"					title="(?=.*Grimm)" strm=""/>
+	<channel id="Doktor Who (PL)"							title="(?=.*Doktor)(?=.*Who)" strm=""/>
+	<channel id="Czas Honoru - Serial"						title="(?=.*Czas)(?=.*Honoru)" strm=""/>
+	<channel id="Ja to mam szczescie"						title="(?=.*ja)(?=.*to)(?=.*mam)" strm=""/>
+	<channel id="Kasia i Tomek"								title="(?=.*Kasia)(?=.*i)(?=.*Tomek)" strm=""/>
+	<channel id="Kryminalni"								title="(?=.*Kryminalni)" strm=""/>
+	<channel id="O mnie sie nie martw"						title="(?=.*O)(?=.*mnie)(?=.*nie)(?=.*martw)" strm=""/>
+	<channel id="Kuchenne Rewolucje"						title="(?=.*Kuchenne)(?=.*Rewolucje)" strm=""/>
+	<channel id="Szymon Majewski Show"						title="(?=.*Szymon)(?=.*Majewski)(?=.*Show)" strm=""/>
+	<channel id="Trudne sprawy vs Dlaczego Ja?"				title="(?=.*Trudne)(?=.*Sprawy)(?=.*vs)(?=.*Dlaczego)(?=.*Ja?)" strm=""/>
+	<channel id="Galileo"									title="(?=.*Galileo)" strm=""/>
+	<channel id="TopGear (Sezon 12 - 22) [HQ]"				title="(?=.*TopGear)" strm=""/>
+	<channel id="Boso przez swiat"							title="(?=.*Boso)(?=.*przez)" strm=""/>
+	<channel id="Malanowski i partnerzy"					title="(?=.*Malanowski)(?=.*i)(?=.*partnerzy)" strm=""/>
+	<channel id="Usterka"									title="(?=.*Usterka)" strm=""/>
+	<channel id="Ukryta Prawda"								title="(?=.*Ukryta)(?=.*Prawda)" strm=""/>
+	<channel id="Ugotowani 1-3 Sezon"						title="(?=.*Ugotowani)" strm=""/>
+	<channel id="Fani czterech kolek"						title="(?=.*Fani)(?=.*czterech)" strm=""/>
+	<channel id="Rozmowy w toku"							title="(?=.*Rozmowy)(?=.*w)(?=.*toku)" strm=""/>
+	<channel id="Kuchnia+ 15 minut Jamiego"					title="(?=.*Kuchnia+)(?=.*15)(?=.*minut)(?=.*Jamiego)" strm=""/>
+	<channel id="Zdrady"									title="(?=.*Zdrady)" strm=""/>
+	<channel id="Warsaw Shore: Ekipa z Warszawy!"			title="(?=.*Warsaw)(?=.*Shore)(?=.*Ekipa)(?=.*z)(?=.*Warszawy)" strm=""/>
+	<channel id="TheVoiceOfPoland[NeV]"						title="(?=.*TheVoiceOfPoland)" strm=""/>
+	<channel id="Co za tydzien - magazyn TVN"				title="(?=.*Co)(?=.*za)(?=.*magazyn)(?=.*TVN)" strm=""/>
+	<channel id="Jason Statham Movie Pack"					title="(?=.*Jason)(?=.*Statham)(?=.*Movie)(?=.*Pack)" strm=""/>
+	<channel id="Louis De Funes - PL PACK"					title="(?=.*Louis)(?=.*De)(?=.*Funes)(?=.*Pack)" strm=""/>
+	<channel id="Polskie kultowe komedie"					title="(?=.*Polskie)(?=.*kultowe)(?=.*komedie)" strm=""/>
+	<channel id="Polskie komedie 1"							title="(?=.*Polskie)(?=.*komedie)(?=.*1)" strm=""/>
+	<channel id="Polskie komedie 2"							title="(?=.*Polskie)(?=.*komedie)(?=.*2)" strm=""/>
+	<channel id="Polskie komedie 3"							title="(?=.*Polskie)(?=.*komedie)(?=.*3)" strm=""/>
+	<channel id="Sami Swoi"									title="(?=.*Polskie)(?=.*komedie)(?=.*SAMI)(?=.*SWOI)" strm=""/>
+	<channel id="Polskie komedie romantyczne"				title="(?=.*Polskie)(?=.*komedie)(?=.*romantyczne)" strm=""/>
+	<channel id="James Bond 007 - PACK PL"					title="(?=.*James)(?=.*Bond)(?=.*007)" strm=""/>
+	<channel id="KABARETY 2015 LatajacyKlub2 cz.1"			title="(?=.*KABARETY)(?=.*2015)(?=.*cz.1)" strm=""/>
+	<channel id="KABARETY 2015 LatajacyKlub2 cz.2"			title="(?=.*KABARETY)(?=.*2015)(?=.*cz.2)" strm=""/>
+	<channel id="Kabaretowy szal"							title="(?=.*kabaretowy)(?=.*sza*)" strm=""/>
+	<channel id="Kabaret Ani Mru Mru 2015"					title="(?=.*Kabaret)(?=.*Ani)(?=.*Mru)(?=.*Mru)" strm=""/>
+	<channel id="Kabaret Moralnego Niepokoju 2015"			title="(?=.*Kabaret)(?=.*Moralnego)(?=.*Niepokoju)" strm=""/>
+	<channel id="Kabaret Paranienormalni Tonight"			title="(?=.*Kabaret)(?=.*Paranienormalni)(?=.*tonight)" strm=""/>
+	<channel id="Swiat wedlug Kiepskich"					title="(?=\s*.*wiat\s*wed.*ug\s*Kiepskich\s*(\s*HD)?$)" strm=""/>
+	<channel id="Simpsonowie" 								title="(?=\s*(The)?\s*Simpsons(\s*HD)?\s*$)" strm=""/>
+	<channel id="Dwoch i pol (Tylko z Charlie)"				title="(?=\s*Dw.*ch\s*i\s*p.*\s*(\s*HD)?$)" strm=""/>
+	<channel id="Super komedie"								title="(?=.*SUPER\s*KOMEDIE.*(\s*HD)?$)" strm=""/>
+	<channel id="Kuba Wojewodzki"							title="(?=\s*Kuba\s*Wojew.*dzki\s*(\s*HD)?$)" strm=""/>
+	<channel id="Atomowki - 24/7"							title="(?=\s*Atom.*wki.*(\s*HD)?$)" strm=""/>
+	<channel id="South Park vs Family Guy"					title="(?=\s*South\s*Park.*(\s*HD)?$)" strm=""/>
+	<channel id="Janosik"									title="(?=\s*Janosik.*(\s*HD)?$)" strm=""/>
+  
+  <!-- aktualizacja 2017-->
+	
+	<channel id="MasterChef"								title="(?=MasterChef.*$)" strm=""/>
+	<channel id="Alf"										title="(?=Alf.*$)" strm=""/>
+	<channel id="Ostry Dyzur"								title="(?=ER - Ostry Dy.*)" strm=""/>
+	<channel id="Wlatcy Moch"								title="(?=W.*atcy\s*M.*ch.*$)" strm=""/>
+	<channel id="MDW FILM"									title="(?=MDW\s*FILM.*$)" strm=""/>
+	<channel id="RMF FM"									title="(?=(RADIO\s*)?RMF\s*FM$)" strm=""/>
+	<channel id="Awantura o Kase"							title="(?=Awantura\s*o\s*Kas.*$)" strm=""/>
+	<channel id="Szpital"									title="(?=Szpital.*$)" strm=""/>
+	<channel id="Louis de Funes"							title="(?=Louis\s*de\s*Funes.*$)" strm=""/>
+	<channel id="Rodzina Soprano"							title="(?=Rodzina\s*Soprano.*$)" strm=""/>
+	<channel id="RADIO ESKA"								title="(?=RADIO\s*ESKA$)" strm=""/>
+	<channel id="Ben 10"									title="(?=Ben\s*10.*$)" strm=""/>
+	<channel id="Bylo Sobie Zycie"							title="(?=By.*o\s*sobie.*$)" strm=""/>
+	<channel id="DUMA I UPRZEDZENIE"						title="(?=DUMA\s*I\s*UPRZEDZENIE.*$)" strm=""/>
+	<channel id="CIENKA NIEBIESKA LINIA"					title="(?=CIE.*KA\s*NIEBIESKA\s*LINIA.*$)" strm=""/>
+	<channel id="Oggy and the Cockroaches"					title="(?=Oggy\s*and\s*the\s*Cockroaches.*$)" strm=""/>
+	<channel id="ULTIMATE CLASSICS"							title="(?=ULTIMATE\s*CLASSICS.*$)" strm=""/>
+	<channel id="KAROL MAY"									title="(?=KAROL\s*MAY.*$)" strm=""/>
+	<channel id="BOLLYWOOD FILMS"							title="(?=BOLLYWOOD\s*FILMS.*$)" strm=""/>
+	<channel id="Filmy Jane Austen"							title="(?=Filmy\s*Jane\s*Austen.*$)" strm=""/>
+	
+  <!-- aktualizacja 2018-->
+	
+	<channel id="Azja Express"								title="(?=\s*Azja\s*Express.*(\s*HD)?$)" strm=""/>
+	<channel id="Rozowa Pantera"							title="(?=\s*R.*owa\s*Pantera.*(\s*HD)?$)" strm=""/>
+	<channel id="FAMILIJNA TV"								title="(?=\s*Familijna\s*TV.*(\s*HD)?$)" strm=""/>
+	<channel id="Filmikodajnia"								title="(?=\s*Filmikodajnia.*(\s*HD)?$)" strm=""/>
+	<channel id="Mam Talent"								title="(?=\s*Mam\s*Talent.*(\s*HD)?$)" strm=""/>
+	<channel id="Jetix"										title="(?=\s*Jetix.*(\s*HD)?$)" strm=""/>
+	<channel id="ENG: Border Wars"							title="(?=\s*ENG.*\s*Border\s*Wars.*(\s*HD)?$)" strm=""/>
+	<channel id="Filmy Swiateczne"							title="(?=\s*Filmy\s*.*wi.*teczne.*(\s*HD)?$)" strm=""/>
+	
+  <!--TV aktualizacja 2019-->
+  
+	<channel id="Stopklatka TV PL"							title="(?=null?$)" strm=""/>
+  <!--  <channel id="TVP 2 PL"									title="(?=null?$)" strm=""/>     -->
+	<channel id="Canal+1 PL" 								title="(?=(Canal|C)\s*.?(\s*HD)?\s*1(\s*TV)?(\s*HD)?$)" strm=""/>
+	<channel id="TVN PL" 									title="(?=TVN(\s*TV)?(\s*HD)?(\s*\(HD/SD\))?$)" strm=""/>
+	<channel id="Filmbox Family PL"							title="(?=FILMBOX\s*FAMILLY?$)" strm=""/>
+
+	<category name="Movie" 									tags="Czarna|Dramat|Film|Filmy|Horror|Impresja|Kino|Komedia|Komediodramat|Komediowy|Melodramat|Musical|Romans|Thriller|Western"/>
+	<category name="Series" 								tags="Odcinek|Programy|Seria|Serial|Seriale|Telenowela"/>
+	<category name="Information" 							tags="Cykl|Debata|Dziennik|Felieton|Główna|Informacja|Informator|Kronika|Kurs|Magazyn|Newsy|Pasmo|Podsumowanie|Poranek|Reportaż|Rozmowy|Rozmowa|Serwis|Studio|Telewizyjny|Transmisja|Wiadomości|Wieczorna|Wieczorny|Wydanie|Wywiad"/>
+	<category name="Entertainment" 							tags="Audycja|Balet|Blok|Ceremonia|Chochliki|Classical|Concert|Codzienny|Dance|Docu-reality|Flesz|Gala|Kabaret|Koncert|Koncerty|Lista|Lifestyle|Opera|Pokaz|Program|Program / Muzyczny|Reality|Relacja|Rozrywka|Talk-show|Taniec|Teledyski|Teleturniej|Widowisko|Wielki|World Music"/>
+	<category name="Document" 								tags="Dokument|Etiuda|Filozofia|Historia|Kultura|Militaria|Motoryzacja|Przyroda|Program dokumentalny|Socjologia|Sztuka|Technika"/>
+	<category name="Kids" 									tags="Baśń|Dla dzieci|Program dla dzieci"/>
+	<category name="Sport" 									tags="Badminton|Biatlon|Biegi|Bilard|Boks|Formuła|Gimnastyka|Golf|Hokej|Jeździectwo|Kajakarstwo|Kolarstwo|Koszykówka|Lekkoatletyka|Łyżwiarstwo|Narciarstwo|Olimpiada|Piłka|Pływanie|Poker|Rajdy|Rugby|Rzutki|Saneczkarstwo|Siatkówka|Skoki|Sport|Sporty|Szermierka|Tenis|Tenis squash|Triatlon|Wyścigi|Zapowiedź|Żeglarstwo|Żużel"/>
+	<category name="Interactive Entertainment" 				tags="Extra|Interaktywne|Interaktywny|Interaktywny Program Rozrywkowy|Kulinaria|Magazy|Magazyn Mody|Medycyna|Opera|Program Familijny|Spektakl|Świętokrzyski|Telezakupy|Turystyka|Usa"/>
+</map>

@@ -1,0 +1,54 @@
+<window>
+	<defaultcontrol>-</defaultcontrol>
+	<controls>
+		<control type="image">
+			<posx>1065</posx>
+			<posy>75</posy>
+			<width>200</width>
+			<height>30</height>
+			<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+			<visible>!String.IsEmpty(Control.GetLabel(4940)) + !IsEmpty(Control.GetLabel(4940))</visible>
+		</control>
+		<control type="image">
+			<posx>1065</posx>
+			<posy>75</posy>
+			<width>15</width>
+			<height>30</height>
+			<texture colordiffuse="ff2c2c2c">../../Default/media/osd/white.png</texture>
+			<visible>!String.IsEmpty(Control.GetLabel(4940)) + !IsEmpty(Control.GetLabel(4940))</visible>
+		</control>
+		<control type="label" id="4940">
+			<description>Serwis</description>
+			<posx>1070</posx>
+			<posy>75</posy>
+			<width>200</width>
+			<height>30</height>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>fff0efef</textcolor>
+			<shadowcolor>-</shadowcolor>
+			<font>font25_narrow</font>
+			<visible>!String.IsEmpty(Control.GetLabel(4940)) + !IsEmpty(Control.GetLabel(4940))</visible>
+		</control>
+		<control type="image">
+			<description>Channel number input bg</description>
+			<posx>0</posx>
+			<posy>15</posy>
+			<width>160</width>
+			<height>90</height>
+			<texture colordiffuse="E5000000">../../Default/media/osd/white.png</texture>
+			<visible>!String.IsEqual(Control.GetLabel(9999),)</visible>
+		</control>
+		<control type="label" id="9999">
+			<description>Channel number input</description>
+			<posx>10</posx>
+			<posy>15</posy>
+			<width>140</width>
+			<height>90</height>
+			<textcolor>fff0efef</textcolor>
+			<font>font60</font>
+			<align>center</align>
+			<aligny>center</aligny>
+		</control>
+	</controls>
+</window>

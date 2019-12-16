@@ -1,0 +1,181 @@
+<settings version="2">
+    <setting id="ask_to_delete_watched">1</setting>
+    <setting id="assign_all_streams_goldvod">true</setting>
+    <setting id="assign_all_streams_weeb">true</setting>
+    <setting id="autostart_channel" default="true">false</setting>
+    <setting id="autostart_channel_last">true</setting>
+    <setting id="autostart_channel_number">1</setting>
+    <setting id="autostart_mtvguide" default="true">false</setting>
+    <setting id="AutoUpdateCid">true</setting>
+    <setting id="benelux_EPG" default="true"></setting>
+    <setting id="categories.remember">true</setting>
+    <setting id="channel.shortcut">true</setting>
+    <setting id="channel.shortcut.behaviour" default="true">0</setting>
+    <setting id="color.default" default="true">[COLOR](9) $ADDON[script.mtvguide 70007][/COLOR]</setting>
+    <setting id="color.defaultfocus" default="true">[COLOR](10) $ADDON[script.mtvguide 70016][/COLOR]</setting>
+    <setting id="color.Dladzieci" default="true">[COLOR ffffff00](6) $ADDON[script.mtvguide 70013][/COLOR]</setting>
+    <setting id="color.Dokument" default="true">[COLOR ff800080](5) $ADDON[script.mtvguide 70012][/COLOR]</setting>
+    <setting id="color.Filmy" default="true">[COLOR ff2f847c](1) $ADDON[script.mtvguide 70008][/COLOR]</setting>
+    <setting id="color.Informacja" default="true">[COLOR ff008000](3) $ADDON[script.mtvguide 70010][/COLOR]</setting>
+    <setting id="color.InteraktywnyProgramRozrywkowy" default="true">[COLOR ffffa500](8) $ADDON[script.mtvguide 70015][/COLOR]</setting>
+    <setting id="color.notification" default="true">[COLOR](11) $ADDON[script.mtvguide 70017][/COLOR]</setting>
+    <setting id="color.recording" default="true">[COLOR](12) $ADDON[script.mtvguide 70018][/COLOR]</setting>
+    <setting id="color.Rozrywka" default="true">[COLOR ffff0000](4) $ADDON[script.mtvguide 70011][/COLOR]</setting>
+    <setting id="color.Seriale" default="true">[COLOR ff0000ff](2) $ADDON[script.mtvguide 70009][/COLOR]</setting>
+    <setting id="color.Sport" default="true">[COLOR ffee82ee](7) $ADDON[script.mtvguide 70014][/COLOR]</setting>
+    <setting id="context_key" default="true"></setting>
+    <setting id="croatian_EPG" default="true"></setting>
+    <setting id="czech_EPG" default="true"></setting>
+    <setting id="danish_EPG" default="true"></setting>
+    <setting id="download_record_app" default="true"></setting>
+    <setting id="english_EPG" default="true"></setting>
+    <setting id="exit">1</setting>
+    <setting id="ffmpeg_dis_cop_un" default="true">false</setting>
+    <setting id="ffmpeg_format" default="true">mpegts</setting>
+    <setting id="ffmpegExe" default="true"></setting>
+    <setting id="french_EPG" default="true"></setting>
+    <setting id="german_EPG" default="true"></setting>
+    <setting id="GoldVOD_enabled" default="true">false</setting>
+    <setting id="GoldVOD_location" default="true">Holandia</setting>
+    <setting id="home_key" default="true"></setting>
+    <setting id="info.osd">true</setting>
+    <setting id="info_key" default="true"></setting>
+    <setting id="ipla_enabled" default="true">false</setting>
+    <setting id="ipla_password" default="true"></setting>
+    <setting id="ipla_username" default="true"></setting>
+    <setting id="key_right_left_show_next" default="true">false</setting>
+    <setting id="kodi_version" default="true">18</setting>
+    <setting id="list_key" default="true"></setting>
+    <setting id="listing.days">3</setting>
+    <setting id="listing.hours">1</setting>
+    <setting id="listing.sort.time">true</setting>
+    <setting id="m-TVGuide">http://mods-kodi.pl/46858699</setting>
+    <setting id="m-TVGuide2" default="true"></setting>
+    <setting id="m-TVGuide3" default="true"></setting>
+    <setting id="max_connection_time">25</setting>
+    <setting id="max_reattempts">5</setting>
+    <setting id="max_reconnect_attempts">5</setting>
+    <setting id="max_wait_for_playback">8</setting>
+    <setting id="miltisession_enabled" default="true">false</setting>
+    <setting id="navi_back_stop_play" default="true">false</setting>
+    <setting id="norwegian_EPG" default="true"></setting>
+    <setting id="notifications.enabled">true</setting>
+    <setting id="nr_of_playlists">1</setting>
+    <setting id="OnlyChannelsWithStream">true</setting>
+    <setting id="osd_on_play_time">3</setting>
+    <setting id="osd_on_stream_change" default="true">false</setting>
+    <setting id="osd_time">25</setting>
+    <setting id="playlist_1_display_name">Franqie</setting>
+    <setting id="playlist_1_enabled">true</setting>
+    <setting id="playlist_1_file" default="true"></setting>
+    <setting id="playlist_1_high_prio_hd">true</setting>
+    <setting id="playlist_1_priority">6</setting>
+    <setting id="playlist_1_source" default="true">Url</setting>
+    <setting id="playlist_1_stop_when_starting" default="true">false</setting>
+    <setting id="playlist_1_url">http://fo.trillada.com:8080/get.php?username=kzwowfmpei&amp;password=lyhdj3sg2&amp;type=m3u_plus&amp;output=ts</setting>
+    <setting id="playlist_2_display_name" default="true">Playlist_2</setting>
+    <setting id="playlist_2_enabled" default="true">false</setting>
+    <setting id="playlist_2_file" default="true"></setting>
+    <setting id="playlist_2_high_prio_hd">true</setting>
+    <setting id="playlist_2_priority">6</setting>
+    <setting id="playlist_2_source" default="true">Url</setting>
+    <setting id="playlist_2_stop_when_starting" default="true">false</setting>
+    <setting id="playlist_2_url" default="true"></setting>
+    <setting id="playlist_3_display_name" default="true">Playlist_3</setting>
+    <setting id="playlist_3_enabled" default="true">false</setting>
+    <setting id="playlist_3_file" default="true"></setting>
+    <setting id="playlist_3_high_prio_hd">true</setting>
+    <setting id="playlist_3_priority">6</setting>
+    <setting id="playlist_3_source" default="true">Url</setting>
+    <setting id="playlist_3_stop_when_starting" default="true">false</setting>
+    <setting id="playlist_3_url" default="true"></setting>
+    <setting id="playlist_4_display_name" default="true">Playlist_4</setting>
+    <setting id="playlist_4_enabled" default="true">false</setting>
+    <setting id="playlist_4_file" default="true"></setting>
+    <setting id="playlist_4_high_prio_hd">true</setting>
+    <setting id="playlist_4_priority">6</setting>
+    <setting id="playlist_4_source" default="true">Url</setting>
+    <setting id="playlist_4_stop_when_starting" default="true">false</setting>
+    <setting id="playlist_4_url" default="true"></setting>
+    <setting id="playlist_5_display_name" default="true">Playlist_5</setting>
+    <setting id="playlist_5_enabled" default="true">false</setting>
+    <setting id="playlist_5_file" default="true"></setting>
+    <setting id="playlist_5_high_prio_hd">true</setting>
+    <setting id="playlist_5_priority">6</setting>
+    <setting id="playlist_5_source" default="true">Url</setting>
+    <setting id="playlist_5_stop_when_starting" default="true">false</setting>
+    <setting id="playlist_5_url" default="true"></setting>
+    <setting id="pm_key" default="true"></setting>
+    <setting id="pokazpanel" default="true">false</setting>
+    <setting id="pp_key" default="true"></setting>
+    <setting id="priority_goldvod">1</setting>
+    <setting id="priority_ipla">6</setting>
+    <setting id="priority_videostar">2</setting>
+    <setting id="priority_weebtv">5</setting>
+    <setting id="priority_wizjatv">2</setting>
+    <setting id="program.search.plot" default="true">false</setting>
+    <setting id="radio_EPG" default="true"></setting>
+    <setting id="reconnect_delay">300</setting>
+    <setting id="reconnect_stream">true</setting>
+    <setting id="record.folder" default="true"></setting>
+    <setting id="record_key" default="true"></setting>
+    <setting id="record_stop_playback" default="true">false</setting>
+    <setting id="refresh_streams">true</setting>
+    <setting id="rtmpdumpExe" default="true"></setting>
+    <setting id="serbian_EPG" default="true"></setting>
+    <setting id="show.logo">true</setting>
+    <setting id="show.time">true</setting>
+    <setting id="show_osd_buttons">true</setting>
+    <setting id="show_osd_on_play">true</setting>
+    <setting id="show_service_name">true</setting>
+    <setting id="showAdultChannels">Wyłączone</setting>
+    <setting id="showBeneluxChannels" default="true">false</setting>
+    <setting id="showCroatianChannels" default="true">false</setting>
+    <setting id="showCzechChannels" default="true">false</setting>
+    <setting id="showDanishChannels" default="true">false</setting>
+    <setting id="showEnglishChannels" default="true">false</setting>
+    <setting id="showForeginChannels" default="true">false</setting>
+    <setting id="showFrenchChannels" default="true">false</setting>
+    <setting id="showGermanChannels" default="true">false</setting>
+    <setting id="showNorwegianChannels" default="true">false</setting>
+    <setting id="showRadioChannels" default="true">false</setting>
+    <setting id="showSerbianChannels" default="true">false</setting>
+    <setting id="showSwedishChannels" default="true">false</setting>
+    <setting id="showUsChannels" default="true">false</setting>
+    <setting id="showVodChannels">Wyłączone</setting>
+    <setting id="Skin" default="true">Default</setting>
+    <setting id="sleep__action" default="true">0</setting>
+    <setting id="sleep__enabled" default="true">false</setting>
+    <setting id="sleep_timer">90</setting>
+    <setting id="source" default="true">m-TVGuide</setting>
+    <setting id="start_video_minimalized">true</setting>
+    <setting id="stop_key" default="true"></setting>
+    <setting id="swedish_EPG" default="true"></setting>
+    <setting id="switch_to_last_key" default="true"></setting>
+    <setting id="Time.Zone" default="true">+01:00</setting>
+    <setting id="UpdateEPGOnModifiedDate">true</setting>
+    <setting id="us_EPG" default="true"></setting>
+    <setting id="use_only_ffmpeg" default="true">false</setting>
+    <setting id="useCustomParser">true</setting>
+    <setting id="username" default="true"></setting>
+    <setting id="usernameGoldVOD" default="true"></setting>
+    <setting id="userpassword" default="true"></setting>
+    <setting id="userpasswordGoldVOD" default="true"></setting>
+    <setting id="video_quality">true</setting>
+    <setting id="video_qualityGoldVOD">true</setting>
+    <setting id="videostar_enabled" default="true">false</setting>
+    <setting id="videostar_password" default="true"></setting>
+    <setting id="videostar_username" default="true"></setting>
+    <setting id="VidOSD_on_select">true</setting>
+    <setting id="VOD_EPG" default="true"></setting>
+    <setting id="volume_down_key" default="true"></setting>
+    <setting id="volume_up_key" default="true"></setting>
+    <setting id="WeebTV_enabled" default="true">false</setting>
+    <setting id="wizjatv_enabled">true</setting>
+    <setting id="wizjatv_password" default="true"></setting>
+    <setting id="wizjatv_use_free_account">true</setting>
+    <setting id="wizjatv_username" default="true"></setting>
+    <setting id="xmltv.file" default="true"></setting>
+    <setting id="xmltv.logo.folder" default="true"></setting>
+    <setting id="XXX_EPG" default="true"></setting>
+</settings>

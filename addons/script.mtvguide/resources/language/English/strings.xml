@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string id="30000">This channel is missing epg data.</string>
+	<string id="30001">[B]Loading...[/B]</string>
+	<string id="30002">Calculating remaning time...</string>
+	<string id="30003">Approximately %d seconds left...</string>
+	<string id="30004">Loading of data already in progress...</string>
+	<string id="30005">Mouse control</string>
+	<string id="30006">Now</string>
+	<string id="30007">[B]Tip![/B] You can also use the scroll wheel</string>
+	<string id="30008">Cancel</string>
+	<string id="30100">General</string>
+	<string id="30101">EPG</string>
+	<string id="30102">Show channels from category</string>
+	<string id="30103">XMLTV file</string>
+	<string id="30104">Clear cache...</string>
+	<string id="30105">Done!</string>
+	<string id="30106">Show notification</string>
+	<string id="30108">Clear all reminders...</string>
+	<string id="30109">Clear all planed recordings...</string>
+	<string id="30110">Update program information on KODI startup</string>
+	<string id="30111">[COLOR]Enter the EPG address or provide a path to your EPG files[/COLOR]</string>
+	<string id="30116">Search for channel logos in</string>
+	<string id="30117">[COLOR]Premium EPG[/COLOR]</string>
+	<string id="30118">Main</string>
+	<string id="30119">Additional</string>
+	<string id="30120">Additional</string>
+	<string id="30149">does not exist. Default will be set!</string>
+	<string id="30150">Sorry, an error has occurred</string>
+	<string id="30151">Error initializing EPG file:</string>
+	<string id="30152">[CR]Please check your internet connection or Premium account</string>
+	<string id="30153">because the settings are invalid!</string>
+	<string id="30154">It looks like your current skin</string>
+	<string id="30155">is not supported by current version of m-TVGuide</string>
+	<string id="30156">Please try with a different skin...</string>
+	<string id="30157">It looks like the TV Guide database is broken.</string>
+	<string id="30158">Please remove database file using option in plugin settings "Database settings"</string>
+	<string id="30159">Channel configuration is unfortunately lost.</string>
+	<string id="30160">Error is not critical and addon will start but please fix the issue!</string>
+	<string id="30161">Error is critical and programs won't be visible, please fix EPG url!</string>
+	<string id="30162">No description</string>
+	<string id="30163">Missing genre</string>
+	<string id="30164">No available information</string>
+	
+	<string id="30200">on [B]%s[/B] in 5 minutes...</string>
+	<string id="30201">on [B]%s[/B] is starting now...</string>
+	<string id="30202">Starting scheduled program</string>
+	<string id="30203">Start scheduled program</string>
+	<string id="30204">Cancel</string>
+	<string id="30300">Watch %s</string>
+	<string id="30301">Remind</string>
+	<string id="30302">Don't remind</string>
+	<string id="30303">Cancel recording</string>
+	<string id="30304">Choose stream</string>
+	<string id="30305">You can choose your own .strm file.</string>
+	<string id="30306">Remove stream</string>
+	<string id="30307">Channels</string>
+	<string id="30308">Exit</string>
+	<string id="30309">Lists</string>
+	<string id="30310">Channel listing</string>
+	<string id="30311">On now</string>
+	<string id="30312">On next</string>
+	<string id="30313">Start</string>
+	<string id="30314">Length</string>
+	<string id="30315">Search</string>
+	<string id="30316">Title</string>
+	<string id="30317">Synopsis</string>
+	<string id="30318">Category</string>
+	<string id="30319">Channel</string>
+	<string id="30320">New search</string>
+	<string id="30321">Remove search</string>
+	<string id="30322">Program search</string>
+	<string id="30323">Synopsis search</string>
+	<string id="30324">Program category search</string>
+	<string id="30325">All channels</string>
+	<string id="30326">Channel search</string>
+	<string id="30327">Program search: [COLOR gold][B]%s[/B][/COLOR]</string>
+	<string id="30328">Synopsis search:</string>
+	<string id="30329">Today</string>
+	<string id="30330">Tomorrow</string>
+	<string id="30331">Yesterday</string>
+	<string id="30332">in %d days</string>
+	<string id="30333">in %d day</string>
+	<string id="30334">in %d hours</string>
+	<string id="30335">in %d min</string>
+	<string id="30336">Reminders</string>
+	<string id="30337">Recordings</string>
+	<string id="30338">List view</string>
+	<string id="30339">List future days</string>
+	<string id="30340">List previous hours</string>
+	<string id="30341">Sort list by time</string>
+	<string id="30342">Include synopsis in title search</string>
+	<string id="30343">Category list</string>
+	<string id="30344">Category search</string>
+	<string id="30345">Category search:</string>
+	<string id="30346">Go to channel</string>
+	<string id="30347">Determining order of channels</string>
+	<string id="30348">Enable channel order by number</string>
+	<string id="30349">Play on select</string>
+	<string id="30350">Don't play</string>
+	<string id="30351">Play only in TV mode</string>
+	<string id="30352">Play</string>
+	<string id="30353">Error</string>
+	<string id="30354">Please enable channel order by number in settings</string>
+	<string id="30355">Show channel logos</string>
+	<string id="30356">Extended information</string>
+	<string id="30357">Search as movie</string>
+	<string id="30358">Search as TV show</string>
+	<string id="30359">Search extended information</string>
+	<string id="30360">Search as all</string>
+	<string id="30361">Search could not be found: %s</string>
+	<string id="30362">No such movie: %s</string>
+	<string id="30363">No such TV program: %s</string>
+	<string id="30500">Edit channel order and visibility</string>
+	<string id="30501">Press left button to display dialog.[CR]Move up and down to change the position of a channel.</string>
+	<string id="30502">Save</string>
+	<string id="30503">Cancel</string>
+	<string id="30504">Notification from mods-kodi.pl</string>
+	<string id="30505">Genre</string>
+	<string id="30506">Episode</string>
+	<string id="30507">Actors</string>
+	<string id="30508">Year</string>
+	<string id="30509">Director</string>
+	<string id="30510">Plot</string>
+	<string id="30511">Duration</string>
+	<string id="30512">Rating</string>
+
+	<string id="30400">CHANNELS LIST</string>
+	<string id="30401">EXIT</string>
+	<string id="30402">ADDON SETTINGS</string>
+	<string id="30403">REMIND</string>
+	<string id="30404">PROGRAM</string>
+	<string id="30405">CHANNEL SETTINGS</string>
+	<string id="30406">DON'T REMIND</string>
+	<string id="30407">CHOOSE STREAM</string>
+	<string id="30408">REMOVE STREAM</string>
+
+	<string id="30600">Setup stream</string>
+	<string id="30601">.strm file</string>
+	<string id="30602">Favourites</string>
+	<string id="30603">Addons</string>
+	<string id="30604">Preview</string>
+	<string id="30605">Save</string>
+	<string id="30606">Cancel</string>
+	<string id="30607">Stop preview</string>
+	<string id="30610">Browse...</string>
+	<string id="30611">Click [B]Browse[/B] below and navigate to your stream file.[CR]When you have chosen your file you can preview the stream to test if it works in KODI.</string>
+	<string id="30620">Choose a favourite. Only [B]PlayMedia[/B] favourites are supported.</string>
+	<string id="30700">Multiple addons provide this channels.[CR]Choose one to watch the stream.</string>
+	<string id="30701">Source: </string>
+	<string id="30702">Appearance</string>
+	<string id="30703">Automaticly set actual streams</string>
+	<string id="30704">Use zipped epg</string>
+	<string id="30705">Show only programs with stream assigned</string>
+	<string id="30706">Auto detect EPG change</string>
+	<string id="30707">Show info notification</string>
+	<string id="30708">Use fast EPG parser</string>
+	<string id="30709">Skin updated</string>
+	<string id="30710">Update</string>
+	<string id="30711">Get more...</string>
+	<string id="30712">All online skins are already installed!</string>
+	<string id="30713">Failed to download skin!</string>
+	<string id="30714">Delete all skins</string>
+	<string id="30715">Enable adult channels</string>
+	<string id="30716">Enable swedish channels</string>
+	<string id="30717">EPG - XXX</string>
+	<string id="30718">EPG - Swedish</string>
+	<string id="30719">Disable</string>
+	<string id="30720">Disabled</string>
+	<string id="30721">Enabled</string>
+	<string id="30722">Enable</string>
+	<string id="30723">Enter password for adult channels taken from mods-kodi</string>
+	<string id="30724">Incorrect password!</string>
+	<string id="30725">Enable english channels</string>
+	<string id="30726">EPG - English</string>
+	<string id="30727">Enable danish channels</string>
+	<string id="30728">EPG - Danish</string>
+	<string id="30729">Enable french channels</string>
+	<string id="30730">EPG - French</string>
+	<string id="30731">Enable german channels</string>
+	<string id="30732">EPG - German</string>
+	<string id="30733">Enable croatian channels</string>
+    <string id="30734">EPG - Croatian</string>
+	<string id="30735">Enable serbian channels</string>
+    <string id="30736">EPG - Serbian</string>
+	<string id="30737">Enable norwegian channels</string>
+    <string id="30738">EPG - Norwegian</string>
+	<string id="30739">Show foreign channels</string>
+	<string id="30740">Foreign channels</string>
+	<string id="30741">Adult channels</string>
+	<string id="30742">Timezone</string>
+	<string id="30743">Enable benelux channels</string>
+	<string id="30744">EPG - Benelux</string>
+	<string id="30745">Enable vod channels</string>
+	<string id="30746">Video on demand channels</string>
+	<string id="30747">adult channels</string>
+	<string id="30748">vod channels</string>
+	<string id="30749">Enable radio channels</string>
+	<string id="30750">EPG - Radio</string>
+	<string id="30751">Radio channels</string>
+	<string id="30752">EPG - Czech</string>
+	<string id="30753">Enable czech channels</string>
+	<string id="30754">EPG - US</string>
+	<string id="30755">Enable american channels</string>
+
+<!-- settings -->
+	<string id="30802">m-TVGuide is configured to stream using</string>
+	<string id="30803">addon which is not installed.</string>
+	<string id="30804">Streaming using that addon is now disabled.</string>
+	<string id="30901">Update</string>
+	<string id="30902">Update now</string>
+	<string id="30910">Show navigation panel for mouse or touch</string>
+	<string id="30911">Timezone UTC (+00:00 GMT)</string>
+	<string id="30912">[COLOR]WeebTV[/COLOR]</string>
+	<string id="59902">[COLOR]GoldVodTV[/COLOR]</string>
+	<string id="59903">[COLOR]Telewizjada[/COLOR]</string>
+	<string id="59904">Enabled</string>
+	<string id="59905">[COLOR]Playlists M3U[/COLOR]</string>
+	<string id="59906">Link</string>
+	<string id="59907">Source</string>
+	<string id="59908">File</string>
+	<string id="59909">Multisession</string>
+	<string id="59910">Use free account</string>
+	<string id="59911">[COLOR]Playlist 1[/COLOR]</string>
+	<string id="59912">[COLOR]Playlist 2[/COLOR]</string>
+	<string id="59913">[COLOR]Playlist 3[/COLOR]</string>
+	<string id="59914">Display name</string>
+	<string id="59915">Loading service</string>
+	<string id="59916">Nr of playlists</string>
+	<string id="59917">[COLOR]Playlist 4[/COLOR]</string>
+	<string id="59918">[COLOR]Playlist 5[/COLOR]</string>
+	<string id="59919"></string>
+	<string id="30913">Settings</string>
+	<string id="30914">Skin</string>
+	<string id="30915">Enable TVGuide autostart</string>
+	<string id="30916">Database</string>
+	<string id="30917">Enable stream window resize animation</string>
+	<string id="30918">OSD on select</string>
+	<string id="30919">Enable automatic channel playback</string>
+	<string id="30920">By channel number</string>
+	<string id="30921">Last seen channel</string>
+	<string id="30930">Colours</string>
+	<string id="30931">[COLOR]Category colours[/COLOR]</string>
+	<string id="30932">Movies</string>
+	<string id="30933">TV series</string>
+	<string id="30934">Informations</string>
+	<string id="30935">Entertainment</string>
+	<string id="30936">Document</string>
+	<string id="30937">For kids</string>
+	<string id="30938">Sport</string>
+	<string id="30939">Interactive Entertainment</string>
+	<string id="30940">[COLOR]Default colors[/COLOR]</string>
+	<string id="30941">Default color</string>
+	<string id="30942">Focus colour</string>
+	<string id="30943">Notification colour</string>
+	<string id="30944">Recording colour</string>
+	<string id="30950">Clear database</string>
+	<string id="30951">Database cleared</string>
+	<string id="30952">Delete custom streams</string>
+	<string id="30953">Export settings</string>
+	<string id="30954">Import settings</string>
+	<string id="30955">Delete database file</string>
+	<string id="30956">[COLOR]MojeFilmy[/COLOR]</string>
+	<string id="30957">Username</string>
+	<string id="30958">Max service startup time (sec)</string>
+	<string id="30959">Playlist URL</string>
+	<string id="30960">Reconnect broken stream</string>
+	<string id="30961">Max number of reattempts</string>
+	<string id="30962">Reattempt delay (ms)</string>
+	<string id="30963">Exit</string>
+	<string id="30964">Press one more time to exit</string>
+	<string id="30965">Currently broadcast service</string>
+	<string id="30966">Movies (Interia)</string>
+	<string id="30967">TV series (Interia)</string>
+	<string id="30968">Magazine</string>
+	<string id="30969">File has been deleted</string>
+	<string id="30970">Assigned streams has been deleted</string>
+	<string id="30971">Reminders has been cleared</string>
+	<string id="30972">Scheduled recording has been cleared</string>
+	<string id="30973">Delete all settings</string>
+	<string id="30974">Stop playback while switching stream</string>
+	<string id="30975">Prefer HD-streams</string>
+	<string id="30976">Refresh services periodically</string>
+	<string id="30977">Max stream startup time (sec)</string>
+	<string id="30978">Database updated</string>
+	<string id="30979">m-TVGuide restart required</string>
+	<string id="30980">[COLOR]**WARNING!** Resetting your database will cause losing all settings![CR]Only reset if database has become corrupt![/COLOR]</string>
+	<string id="30981">Do you really want to exit</string>
+	<string id="30982">Ask on exit</string>
+	<string id="30983">Click twice to exit</string>
+	<string id="30984">Add favorites</string>
+	<string id="30985">Add</string>
+	<string id="30986">Remove</string>
+	<string id="30987">Clear</string>
+	<string id="30988">All channels</string>
+	<string id="30989">Add channels to group [COLOR gold][B]%s[/B][/COLOR]</string>
+	<string id="30990">Remove channels from group [COLOR gold][B]%s[/B][/COLOR]</string>
+	<string id="30991">Channel options</string>
+	<string id="30992">Group</string>
+	<string id="30993">Remember list of favorites</string>
+	<string id="30994">Help - m-TVGuide [COLOR gold]EPG[/COLOR]</string>
+
+	<string id="58000">Programme information</string>
+
+	<string id="58001">Select destination folder</string>
+	<string id="58002">Export settings</string>
+	<string id="58003">Import settings</string>
+	<string id="58004">Failure - no settings to export!</string>
+	<string id="58005">Settings exported successfully</string>
+	<string id="58006">Failure - please check if you have write permissions to that path</string>
+	<string id="58007">Select settings backup file</string>
+	<string id="58008">Settings imported successfully</string>
+	<string id="58009">Failed to import settings</string>
+	<string id="58010">Please check if chosen file is a correct settings backup</string>
+	<string id="58011">locked</string>
+
+	<string id="31001">Enable OSD</string>
+	<string id="31002">Set keys</string>
+	<string id="31003">SET</string>
+	<string id="31004">OK</string>
+	<string id="31005">Home</string>
+	<string id="31006">Prog -</string>
+	<string id="31007">Prog +</string>
+	<string id="31008">Stop</string>
+	<string id="31009">Information</string>
+	<string id="31010">Context</string>
+	<string id="31011">Record</string>
+	<string id="31012">Reset</string>
+	<string id="31013">Default</string>
+	<string id="31014">Change stream</string>
+	<string id="31015">Vol +</string>
+	<string id="31016">Vol -</string>
+	<string id="31017">Switch to last seen channel</string>
+	<string id="31018">Lists</string>
+
+	<string id="310010"></string>
+	<string id="310011">Stop playback using navi back button</string>
+	<string id="310012">Recorded program</string>
+	<string id="310013">Start recorded program</string>
+	<string id="310014">Save plugin settings!</string>
+
+<!-- general settings -->
+	<string id="55002">Username</string>
+	<string id="55003">Password</string>
+	<string id="55005">Prefer high quality</string>
+	<string id="55006">WeebTV</string>
+	<string id="55007">Services</string>
+	<string id="55008">Assign also the streams of low- quality / backup</string>
+	<string id="55010">0 Lowest</string>
+	<string id="55011">1 Very Low</string>
+	<string id="55017">2 Very Low</string>
+	<string id="55012">3 Low</string>
+	<string id="55018">4 Low</string>
+	<string id="55013">5 Mid</string>
+	<string id="55019">6 Mid</string>
+	<string id="55014">7 High</string>
+	<string id="55020">8 High</string>
+	<string id="55021">9 Very High</string>
+	<string id="55022">10 Very High</string>
+	<string id="55023">11 Highest</string>
+	
+	<string id="55015">Working</string>
+	<string id="55016">Now Playing</string>
+	
+	<string id="89001">Enable sleep timer</string>
+	<string id="89002">Timeout action</string>
+	<string id="89003">Timeout value (min)</string>
+	<string id="89004">Stop playback</string>
+	<string id="89005">Exit Kodi</string>
+	<string id="89006">Shutdown</string>
+	<string id="89007">Hibernate</string>
+	<string id="89008"></string>
+	<string id="89009"></string>
+
+	<string id="59901">GoldVodTV</string>
+	<string id="55009">Priority</string>
+
+<!-- errors & messages -->
+	<string id="57001">API error</string>
+	<string id="57002">Could not connect to website.</string>
+	<string id="57003">Check your network connection.</string>
+	<string id="57009">Script error.</string>
+	<string id="57010">Error on method getJsonFromAPI.</string>
+	<string id="57011">API connection didn't get any data.</string>
+	<string id="57012">It could be network connection problem,.</string>
+	<string id="57013">or wrong website API adress.</string>
+	<string id="57014">Error! (API: setPlayer)</string>
+	<string id="57015">Could not get authorization data.</string>
+	<string id="57018">Playing error!</string>
+	<string id="57019">Exceeded the limit of free viewing, or too many users.</string>
+	<string id="57020">Buy premium account now to watch unlimited!</string>
+	<string id="57021">Playing has been stopped.</string>
+	<string id="57022">Wrong video adress. Playing has been stopped.</string>
+	<string id="57027">Server has closed connection for unknown reason! Please try again.</string>
+	<string id="57028">Playing has been stopped.</string>
+	<string id="57034">Information about user account</string>
+	<string id="57036">You do not have a premium account. Starting a sponsored broadcast.</string>
+	<string id="57037">To purchase a premium right now go to:</string>
+	<string id="57038">http://mods-kodi.pl/</string>
+	<string id="57039">No premium for service:</string>
+	<string id="57042">Error connection with website!</string>
+	<string id="57043">Selected channel does not exist!</string>
+	<string id="57044">No channel selected!</string>
+	<string id="57045">No active server! We are sorry.</string>
+	<string id="57046">Rules are not accepted!</string>
+	<string id="57047">Go to http://mods-kodi.pl/ and accept it, to use service.</string>
+	<string id="57048">Login incorrect: </string>
+	<string id="57049">Configured</string>
+	<string id="57050">URL is incorrect!</string>
+	<string id="57051">m-TVGuide</string>
+	<string id="57052">Addon is already running - can't be started again</string>
+
+	<string id="69000">Recording</string>
+	<string id="69001">Import RTMPDUMP</string>
+	<string id="69002">Import FFMPEG</string>
+	<string id="69003">Record destination</string>
+	<string id="69004">Recording:</string>
+	<string id="69005">Finished recording:</string>
+	<string id="69006">Not existing record destination directory - record canceled!</string>
+	<string id="69007">Record error!</string>
+	<string id="69008">Can't record due to not configured record application: </string>
+	<string id="69009">Record already scheduled - cancel?</string>
+	<string id="69010">Schedule program record: </string>
+	<string id="69011">Cancel ongoing recording?</string>
+	<string id="69012">Import record app</string>
+	<string id="69013">successfully imported</string>
+	<string id="69014">FFMPEG record format</string>
+	<string id="69015">Exit despite of scheduled recording?</string>
+	<string id="69016">Use FFMPEG to record RTMP instead of RTMPDUMP</string>
+	<string id="69017">Download record apps</string>
+	<string id="69018">m-TVGuide is downloading files - please press OK and wait</string>
+	<string id="69019">An error has occurred - try again or install manualy</string>
+	<string id="69020">Debug log</string>
+	<string id="69021">Can't find FFMPEG or RTMPDUMP in system - please try to install by packet manager RTMPDUMP, FFMPEG or libav-tools or install manualy</string>
+	<string id="69022">Error during automatic import - try importing files manually</string>
+	<string id="69023">Choose OS</string>
+	<string id="69024">Maximum number of attempts to resume recording</string>
+	<string id="69025">Delete watched recordings</string>
+	<string id="69026">Delete recording</string>
+	<string id="69027">Delete watched recording</string>
+	<string id="69028">Do nothing</string>
+	<string id="69029">Ask</string>
+	<string id="69030">Auto delete</string>
+	<string id="69031">[COLOR]FLV format does not work on OpenELEC/LibreELEC systems[/COLOR]</string>
+	<string id="69032">[COLOR]Record application for common systems[/COLOR]</string>
+	<string id="69033">Log uploaded to: </string>
+	<string id="69034">Failed to upload log</string>
+	<string id="69035">Upload Kodi log</string>
+	<string id="69036">Current EPG url is: </string>
+	<string id="69037">No free stream available in service </string>
+	<string id="69038">Stop player when recording is started</string>
+	<string id="69039">Record</string>
+
+	<string id="69040">Video</string>
+	<string id="69041">Navigating in OSD previous, next program</string>
+	<string id="69042">Show extra buttons on OSD</string>
+	<string id="69043">Display auto OSD on play</string>
+	<string id="69044">Auto OSD display time (sec)</string>
+	<string id="69045">OSD display time (sec)</string>
+	<string id="69046">Show OSD on stream change</string>
+	<string id="69047">Show service name in OSD</string>
+	<string id="69048">Always display time</string>
+	
+<!-- Recording -->
+	<string id="70000">Program title</string>
+	<string id="70001">Channel</string>
+	<string id="70002">Start time</string>
+	<string id="70003">Record length</string>
+	<string id="70004">Start record time-shift (min)</string>
+	<string id="70005">End record time-shift (min)</string>
+	<string id="70006">Task settings</string>
+	<string id="70008">Aqua</string> <!-- Texture 1-->
+	<string id="70009">Blue</string> <!-- Texture 2-->
+	<string id="70010">Green</string> <!-- Texture 3-->
+	<string id="70011">Red</string> <!-- Texture 4-->
+	<string id="70012">Purple</string> <!-- Texture 5-->
+	<string id="70013">Yellow</string> <!-- Texture 6-->
+	<string id="70014">Violet</string> <!-- Texture 7-->
+	<string id="70015">Orange</string> <!-- Texture 8-->
+	<string id="70007">Default</string> <!-- Texture 9-->
+	<string id="70016">Default focus</string> <!-- Texture 10-->
+	<string id="70017">Default remind</string> <!-- Texture 11-->
+	<string id="70018">Default record</string> <!-- Texture 12-->
+	<string id="70019">Full blue</string> <!-- Texture 13-->
+	<string id="70020">Full red</string> <!-- Texture 14-->
+	<string id="70021">Full orange</string> <!-- Texture 15-->
+	<string id="70022">Dark focus</string> <!-- Texture 16-->
+
+	<string id="80000">[COLOR]PierwszaTV[/COLOR]</string>
+	<string id="80001">[COLOR]WizjaTV[/COLOR]</string>
+	<string id="80002">[COLOR]YoyTV[/COLOR]</string>
+	<string id="80003">[COLOR]iTiVi[/COLOR]</string>
+	<string id="80004">[COLOR]Tele-Wizja[/COLOR]</string>
+	<string id="80005">[COLOR]WP Pilot[/COLOR]</string>
+	<string id="80006">[COLOR]Ipla[/COLOR]</string>
+	<string id="80007">[COLOR]Waaatch.tv[/COLOR]</string>
+	<string id="80008">[COLOR]iHolandia[/COLOR]</string>
+	
+	<string id="90000">Server</string>
+	<string id="90001">Getting started</string>
+	<string id="90002">Help</string>
+	<string id="90003">Readme</string>
+	<string id="90004">Credits</string>
+	
+	<string id="99996">[COLOR gold][B]Context menu[/B][/COLOR]
+
+- [B]Go to channel[/B]
+Choose channel number.
+
+- [B]Programme information[/B]
+[I](Assigned key "I" or "INFO")[/I]
+Information from EPG about the selected program.
+
+- [B]Extended information[/B]
+[I](Assigned key "I" or "INFO")[/I]
+Extended information from the ExtendedInfo Script plugin for the selected program. To change the language, enter from the main Kodi menu the ExtendedInfo Script settings and select the language in "Language for TheMovieDB requests" and "Autocompletion language".
+
+- [B]Remind[/B]
+Enable reminder notifications when the program is about to start. Reminders can be set for a single program or any occurence of that program name.
+
+- [B]Record[/B]
+[I](Possibility of assigning a key)[/I]
+Enable recording of the selected program.
+
+- [B]Recordings[/B]
+Go to the recording location.
+
+- [B]Channels[/B]
+Edit the order and visibility of channels.
+
+- [B]Lists[/B]
+[I](Possibility of assigning a key)[/I]
+Listings views can be brought up by channel list, now, next, reminders, recordings and search engine.
+
+- [B]Options[/B]
+Addon settings.
+
+- [B]Remove/Choose stream[/B]
+Ability to choose your own streams.
+
+- [B]Exit[/B]
+Exit the m-TVGuide addon.
+
+- [B]Add favorites[/B]
+[I](Assigned key "ENTER" or "SELECT" and "C" or "CONTEXT")[/I]
+A list of favorite programs can be set. Start by adding your favorite list, select Add favorites with "ENTER" or "SELECT" key, go down and add or remove favorite channels with the "C" or "CONTEXT" key.
+__________________________________________________________________
+
+[COLOR blue][B]Gettings started[/B][/COLOR]
+
+- [B]Information[/B]
+(Options - Gettings started) Here you will find more information about the settings of m-TVGuide.
+</string>
+	
+	<string id="99997">[COLOR gold][B]How to start m-TVGuide[/B][/COLOR]
+
+1. Add playback service.
+
+2. Add electronic program guide (EPG).
+
+3. Start m-TVGuide.
+
+[COLOR gold][B]Services[/B][/COLOR]
+
+- [B]Playback service[/B]
+Before we start we need to provide a playback service for m-TVGuide to use. Usually you only need to enter your login and password to log in to the selected service. It is also possible to add a M3U playback list from a source or from a local file. These credentials should be entered in the Service or Playlists M3U section in m-TVGuide settings.
+__________________________________________________________________
+
+[COLOR gold][B]EPG[/B][/COLOR]
+
+- [B]Electronic program guide[/B]
+When selected a playback service you have to add an electronic program guide for m-TVGuide to display all information regarding programs, without it m-TVGuide will not start. The EPG can be obtained by purchasing a premium account on our website: [I]http://www.mods-kodi.pl/[/I]. 
+
+Link to the EPG should be entered in EPG section in m-TVGuide settings. You are also free to use an external EPG with m-TVGuide.
+__________________________________________________________________
+
+[COLOR gold][B]FAQ[/B][/COLOR]
+
+- [B]EPG url is invalid message[/B]
+This usually means that the link to epg is incorrect, please make sure you provided the right EPG link. You can also try to reset the database in settings.
+
+- [B]Foreign channels won't show[/B]
+Make sure the EPG link to foreign channls is entered correctly, if you are using the World EPG as main source you only need to enable the foreign channels whitout providing a link for each.
+
+- [B]Password for adult channels[/B] 
+The password is provided in the premium links section at [I]http://www.mods-kodi.pl/[/I].
+
+- [B]The channels are visible in m-TVGuide but they won't play[/B]
+Make sure you provided a playback service for m-TVGuide to use, see the services section above. If the playback service is not working, please contact the service provider not mods-kodi team.
+
+- [B]Can't navigate in m-TVGuide with touch screen[/B]
+Enable show navigation panel for mouse or touch in settings tab.
+
+- [B]How can I get help with other issues[/B]
+In the database tab select upload kodi log, the log will be sent to the external server and an individual http link will be given. This link should be forwarded to the mods-kodi administration to get help along with an error in m-TVGuide.
+
+- [B]How to change the language in the extended information[/B]
+In Kodi menu enter the settings of ExtendedInfo Script addon and select a language in "Language for TheMovieDB requests" and "Autocompletion language".
+__________________________________________________________________
+
+[COLOR gold][B]Instruction manual[/B][/COLOR]
+
+For more help read the instruction manual on our website mods-kodi.pl
+[I]http://mods-kodi.pl/articles.php?article_id=64[/I]
+__________________________________________________________________
+
+[COLOR gold][B]Helpdesk[/B][/COLOR]
+
+Mods-kodi help center. Report errors from m-TVGuide to the mods-kodi administration.
+[I]http://mods-kodi.pl/helpdesk/[/I]</string>
+
+	<string id="99998">[COLOR gold][B]m-TVGuide settings[/B][/COLOR]
+
+Information about all settings in m-TVGuide. The code in brackets is either the internal setting name or the action that is performed. The instruction inside parentheses explain the preformed action of the setting.
+
+[COLOR gold][B]Services[/B][/COLOR]
+
+- [B]Max service startup time (sec)[/B] [COLOR dimgrey][max_connection_time][/COLOR]
+Time to power up stream service (seconds).
+
+- [B]Reconnect broken stream[/B] [COLOR dimgrey][reconnect_stream][/COLOR]
+[I](Enable, disable)[/I]
+If stream is not working it will try to reconnect.
+
+- [B]Max numbers of reattempts[/B] [COLOR dimgrey][max_reconnect_attempts][/COLOR]
+Number of tries to reconnect stream.
+
+- [B]Reattempt delay (ms)[/B] [COLOR dimgrey][reconnect_delay][/COLOR]
+Waiting time for stream to reconnect if first stream is broken (milliseconds).
+
+- [B]Refresh services periodically[/B] [COLOR dimgrey][refresh_streams][/COLOR]
+Refreshes the time table periodically to actual program.
+
+- [B]Max stream startup time (sec)[/B] [COLOR dimgrey][max_wait_for_playback][/COLOR]
+Maximum waiting time for stream to connect (seconds).
+
+- [B]Wizja TV[/B] [COLOR dimgrey][wizjatv_enabled][/COLOR]
+[I](Enable, disable)[/I]
+Playback service, enter login credentials from service provider to activate.
+
+- [B]Weeb TV[/B] [COLOR dimgrey][WeebTV_enabled][/COLOR]
+[I](Enable, disable)[/I]
+Playback service, enter login credentials from service provider to activate.
+
+- [B]GoldVod TV[/B] [COLOR dimgrey][GoldVOD_enabled][/COLOR]
+[I](Enable, disable)[/I]
+Playback service, enter login credentials from service provider to activate.
+
+- [B]WP Pilot TV[/B] [COLOR dimgrey][videostar_enabled][/COLOR]
+[I](Enable, disable)[/I]
+Playback service, enter login credentials from service provider to activate.
+
+- [B]Ipla[/B] [COLOR dimgrey][ipla_enabled][/COLOR]
+[I](Enable, disable)[/I]
+Playback service, enter login credentials from service provider to activate.
+__________________________________________________________________
+
+[COLOR gold][B]Playlists M3U[/B][/COLOR]
+
+- [B]Playlist M3U[/B] [COLOR dimgrey][playlist_enabled][/COLOR]
+[I](Enable, disable)[/I]
+A file with the M3U file extension is an video playlist file capable to play video streams.
+__________________________________________________________________
+
+[COLOR blue][B]Playback settings[/B][/COLOR]
+
+- [B]Display name[/B] [COLOR dimgrey][playlist_display_name][/COLOR]
+Display name of selected playlist.
+
+- [B]Source file[/B] [COLOR dimgrey][playlist_source][/COLOR]
+Use playlist from a local file.
+
+- [B]Source url[/B] [COLOR dimgrey][playlist_url][/COLOR]
+Use playlist from network.
+
+- [B]Stop playback while switching stream[/B] [COLOR dimgrey][playlist_stop_when_starting][/COLOR]
+[I](Enable, disable)[/I]
+Stop playback of stream before switching to next channel.
+
+- [B]Prefer HD stream[/B] [COLOR dimgrey][playlist_high_prio_hd][/COLOR]
+[I](Enable, disable)[/I]
+Select the highest available quality.
+
+- [B]Priority[/B] [COLOR dimgrey][playlist_priority][/COLOR]
+Select priority of playback service with 0 being the lowest and 11 the highest (0-11).
+__________________________________________________________________
+
+[COLOR gold][B]EPG[/B][/COLOR]
+
+- [B]Source[/B] [COLOR dimgrey][source][/COLOR]
+(m-TVGuide, XMLTV)
+Choose between m-TVGuide grabbing .xml file from network or a .xml file locally stored.
+__________________________________________________________________
+
+[COLOR blue][B]XMLTV[/B][/COLOR]
+
+- [B]XMLTV file[/B] [COLOR dimgrey][xmltv.file][/COLOR]
+Select locally stored epg file.
+
+- [B]Search for channel logos in[/B] [COLOR dimgrey][xmltv.logo.folder][/COLOR]
+Select locally stored channel logos if missing in epg. 
+__________________________________________________________________
+
+[COLOR blue][B]m-TVGuide[/B][/COLOR]
+
+- [B]Automatically set actual streams[/B] [COLOR dimgrey][AutoUpdateCid][/COLOR]
+[I](Enable, disable)[/I]
+Let m-TVGuide assign streams to epg.
+
+- [B]Show only programs with streams assigned[/B] [COLOR dimgrey][OnlyChannelsWithStream][/COLOR]
+[I](Enable, disable)[/I]
+Only streams that are working will be visible.
+
+- [B]Auto detect EPG change[/B] [COLOR dimgrey][UpdateEPGOnModifiedDate][/COLOR]
+[I](Enable, disable)[/I]
+If there are any changes to epg on the server it will automatically be loaded into m-TVGuide, otherwise epg will be renewed when generated days have been terminated.
+
+- [B]Use fast EPG parser[/B] [COLOR dimgrey][useCustomParser][/COLOR]
+[I](Enable, disable)[/I]
+More extended information is being ruled out for faster loading times.
+
+- [B]Show channel logos[/B] [COLOR dimgrey][show.logo][/COLOR]
+[I](Enable, Disable)[/I]
+Choose between displaying logos or channel names.
+__________________________________________________________________
+
+[COLOR blue][B]Enter EPG adress[/B][/COLOR]
+
+- [B]Main[/B] [COLOR dimgrey][m-TVGuide][/COLOR]
+Provide main epg from your premium account on mods-kodi.pl located in premium links. (It is also possible to use epg from an external source.)
+
+- [B]Additional[/B] [COLOR dimgrey][m-TVGuide2][/COLOR]
+Provide additional epg from your premium account on mods-kodi.pl located in premium links. (It is also possible to use epg from an external source.)
+
+- [B]Additional[/B] [COLOR dimgrey][m-TVGuide3][/COLOR]
+Provide an extra additional epg from your premium account on mods-kodi.pl located in premium links. (It is also possible to use epg from an external source.)
+
+- [B]Show foreign channels[/B] [COLOR dimgrey][showforeignChannels][/COLOR]
+[I](Enable, disable)[/I]
+If enabled this will add possiblity to enter epg for foreign channels from your premium account on mods-kodi.pl located in premium links. (It is also possible to use epg from an external source.)
+
+- [B]Radio channels[/B] [COLOR dimgrey][showRadioChannels][/COLOR]
+[I](Enable, disable)[/I]
+If enabled this will add possiblity to enter epg for radio channels from your premium account on mods-kodi.pl located in premium links. (It is also possible to use epg from an external source.)
+
+- [B]Adult channels[/B] [COLOR dimgrey][showAdultChannels][/COLOR]
+[I](Enable, disable, password)[/I]
+Enable erotic channels.
+
+- [B]Vod channels[/B] [COLOR dimgrey][showVodChannels][/COLOR]
+[I](Enable, disable)[/I]
+Enable video on demand channels.
+
+- [B]Timezone[/B] [COLOR dimgrey][Time.Zone][/COLOR]
+Select local time.
+__________________________________________________________________
+
+[COLOR gold][B]Settings[/B][/COLOR]
+
+- [B]Enable TVGuide autostart[/B] [COLOR dimgrey][autostart_mtvguide][/COLOR]
+[I](Enable, disable)[/I]
+m-TVGuide will automatically start when Kodi is loaded.
+
+- [B]Enable automatic channel playback[/B] [COLOR dimgrey][autostart_channel][/COLOR]
+[I](Enable, disable)[/I]
+Channel will automatically start playing when m-TVGuide is loaded.
+
+- [B]Show notification[/B] [COLOR dimgrey][notifications.enabled][/COLOR]
+[I](Enable, disable)[/I]
+Show important information from the mods-kodi team.
+__________________________________________________________________
+
+[COLOR blue][B]Sleep timer[/B][/COLOR]
+
+- [B]Enable sleep timer[/B] [COLOR dimgrey][sleep__enabled][/COLOR]
+[I](Enable, disable)[/I]
+Activate sleep timer setting.
+
+- [B]Timeout value (min)[/B] [COLOR dimgrey][sleep_timer][/COLOR]
+Put m-TVGuide to sleep after selected time (minutes).
+
+- [B]Timeout action[/B] [COLOR dimgrey][sleep__action][/COLOR]
+[I](Stop playback, Exit Kodi, Hibernate, Shutdown)[/I]
+Decide what action m-TVGuide should preform if timeout is enabled.
+__________________________________________________________________
+
+- [B]Show navigation panel for mouse or touch[/B] [COLOR dimgrey][pokazpanel][/COLOR]
+[I](Enable, disable)[/I]
+Virtual buttons will be shown for mouse or touchpad support.
+
+- [B]Remember list of favorites[/B] [COLOR dimgrey][categories.remember][/COLOR]
+[I](Enable, disable)[/I]
+Remember the last used favorite list.
+
+- [B]Set keys[/B] [COLOR dimgrey][RunScript($CWD/setkey.py)][/COLOR]
+Set key shortcuts for different actions.
+
+- [B]Enable channel order by number[/B] [COLOR dimgrey][channel.shortcut][/COLOR]
+[I](Enable, Disable)[/I]
+Selecting a channel by number and displaying digits in EPG.
+
+- [B]Play on select[/B] [COLOR dimgrey][channel.shortcut.behaviour][/COLOR]
+(Don't play, Play)
+What action to take when entering a number in EPG.
+__________________________________________________________________
+
+[COLOR gold][B]Video[/B][/COLOR]
+
+- [B]Enable stream window resize animation[/B] [COLOR dimgrey][start_video_minimalized][/COLOR]
+[I](Enable, disable)[/I]
+Toggles full-screen playback for video content. For Android systems this setting need to be turned off else subtitles won't be enabled.
+
+- [B]Stop playback using navi back button[/B] [COLOR dimgrey][navi_back_stop_play][/COLOR]
+[I](Enable, disable)[/I]
+When back button is pressed this will stop the playback and return to main screen. If disabled it will work as a picture in picture function.
+__________________________________________________________________
+
+[COLOR blue][B]OSD[/B][/COLOR]
+
+- [B]Enable OSD[/B] [COLOR dimgrey][info.osd][/COLOR]
+[I](Enable, disable)[/I]
+This will show an on screen display when playback is started.
+
+- [B]OSD display time (sec)[/B] [COLOR dimgrey][osd_time][/COLOR]
+[I](Enable, disable)[/I]
+Time that the on screen display is being shown (seconds).
+__________________________________________________________________
+
+[COLOR blue][B]OSD buttons[/B][/COLOR]
+
+- [B]OSD on select[/B] [COLOR dimgrey][VidOSD_on_select][/COLOR]
+[I](Enable, disable)[/I]
+If enabled it will display osd when pressing select button, if disabled the information dialog will show up.
+
+- [B]Shows extra buttons on OSD[/B] [COLOR dimgrey][show_osd_buttons][/COLOR]
+[I](Enable, disable)[/I]
+Activates virtual buttons in on screen display for easier navigation.
+
+- [B]Navigating in OSD previous, next program[/B] [COLOR dimgrey][key_right_left_show_next][/COLOR]
+[I](Enable, disable)[/I]
+Ability to navigate channels through out the on screen display.
+__________________________________________________________________
+
+[COLOR blue][B]Auto OSD[/B][/COLOR]
+
+- [B]Display auto OSD on play[/B] [COLOR dimgrey][show_osd_on_play][/COLOR]
+[I](Enable, disable)[/I]
+On screen display will be shown automatically when playback is started.
+
+- [B]Auto OSD display time (sec)[/B] [COLOR dimgrey][osd_on_play_time][/COLOR]
+Time for the on screen display to be visible (seconds).
+
+- [B]Show OSD on stream change[/B] [COLOR dimgrey][osd_on_stream_change][/COLOR]
+[I](Enable, disable)[/I]
+Display OSD when swapping channels.
+__________________________________________________________________
+
+- [B]Show service name in OSD[/B] [COLOR dimgrey][show_service_name][/COLOR]
+[I](Enable, disable)[/I]
+Display name of the service provider when on screen display is shown.
+__________________________________________________________________
+
+[COLOR gold][B]Database[/B][/COLOR]
+
+- [B]Upload kodi log[/B] [COLOR dimgrey][RunScript($CWD/logUploader.py, primary)][/COLOR]
+Upload a log by providing link displayed in the window to get help from an mods-kodi admin with an error in m-TVGuide.
+
+- [B]Clear all reminders...[/B] [COLOR dimgrey][RunScript($CWD/notification.py)][/COLOR]
+Clears out all reminders in m-TVGuide.
+
+- [B]Clear all planed recordings...[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, clearRecordings)][/COLOR]
+Clears out all planed recordings in m-TVGuide.
+
+- [B]Export setings[/B] [COLOR dimgrey][RunScript($CWD/settingsImportExport.py, Export)][/COLOR]
+Make an backup of m-TVGuide settings.
+
+- [B]Import setings[/B] [COLOR dimgrey][RunScript($CWD/settingsImportExport.py, Import)][/COLOR]
+Import settings that have been backuped.
+
+- [B]Delete custom streams[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, clearCustom)][/COLOR]
+Delete all streams that have been manually assigned.
+
+- [B]Clear database[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, clearAll)][/COLOR]
+Resetting database will cause losing all settings, might be helpful in case of the data have become corrupted.
+
+- [B]Delete database file[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, deleteDbFile)][/COLOR]
+Delete database file.
+
+- [B]Delete all settings[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, deleteAll)][/COLOR]
+Resets m-TVGuide settings.
+__________________________________________________________________
+
+[COLOR gold][B]Recording[/B][/COLOR]
+
+- [B]Download record apps[/B] [COLOR dimgrey][download_record_app][/COLOR]
+In order to be able to record anything download recording software first, then choose your system and confirm the installation.
+
+- [B]Record destination[/B] [COLOR dimgrey][record.folder][/COLOR]
+Provide a location for where the recordings would be saved.
+
+- [B]Import RTMPDUMP[/B] [COLOR dimgrey][rtmpdumpExe][/COLOR]
+[I](Select)[/I]
+Location for RTMPDUMP software. It is possible to change location to RTMPDUMP software manually.
+
+- [B]Import FFMPEG[/B] [COLOR dimgrey][ffmpegExe][/COLOR]
+[I](Select)[/I]
+Location for FFMPEG software. It is possible to change location to FFMPEG software manually.
+
+- [B]Use FFMPEG to record RTMP instead of RTMPDUMP[/B] [COLOR dimgrey][use_only_ffmpeg][/COLOR]
+[I](Enable, disable)[/I]
+Select real time messaging protocol to use for the recordings.
+
+- [B]Stop player when recording is started[/B] [COLOR dimgrey][record_stop_playback][/COLOR]
+[I](Enable, disable)[/I]
+When a recording is started stream will not be available to watch.
+
+- [B]Maximum number of attempts to resume recording[/B] [COLOR dimgrey][max_reattempts][/COLOR]
+Number of times recording should be started if playback stops.
+
+- [B]Delete watched recordings[/B] [COLOR dimgrey][ask_to_delete_watched][/COLOR]
+[I](Ask, Auto delete, Do nothing)[/I]
+Dialog asking to delete watched recordings.
+__________________________________________________________________
+
+[COLOR gold][B]Lists[/B][/COLOR]
+
+- [B]Include synopsis in title search[/B] [COLOR dimgrey][program.search.plot][/COLOR]
+When searching for titles description will also be included. This is what you would expect from most online searches.
+
+- [B]List future days[/B] [COLOR dimgrey][listing.days][/COLOR]
+How many days to show in above lising views.
+
+- [B]List previous hours[/B] [COLOR dimgrey][listing.hours][/COLOR]
+How many previous hours to show in listings views.
+
+- [B]Sort list by time[/B] [COLOR dimgrey][listing.sort.time][/COLOR]
+[I](Enable, disable)[/I]
+Default listings views are sorted by time then channel.
+__________________________________________________________________
+
+[COLOR gold][B]Appearance[/B][/COLOR]
+
+- [B]Skin[/B] [COLOR dimgrey][RunScript($CWD/skins.py, SelectSkin)][/COLOR]
+Select a skin for m-TVGuide.
+
+- [B]Delete all skins[/B] [COLOR dimgrey][RunScript($CWD/skins.py, DeleteSkins)][/COLOR]
+Deletes all skins.
+__________________________________________________________________
+
+[COLOR gold][B]Colours[/B][/COLOR]
+
+- [B]Category colours[/B] [COLOR dimgrey][color.category][/COLOR]
+Select a colour for different category.
+
+- [B]Default colours[/B] [COLOR dimgrey][color.highlight][/COLOR]
+Select a colour for default, focus, notification and recording highlight.
+__________________________________________________________________
+
+[COLOR gold][B]Update[/B][/COLOR]
+
+- [B]Update now[/B] [COLOR dimgrey][UpdateAddonRepos][/COLOR]
+Updates m-TVGuide to the latest version from repository.</string>
+	<string id="99999">[COLOR gold][B]m-TVGuide project[/B][/COLOR]
+
+We created this project in 2013 trying to provide people with an even greater experiance watching TV. The project consisted in the modification of the TV-Guide plugin which was created by Twinther.
+
+m-TVGuide grew among the public being one of the largest television guides for Kodi. We are continuing our work on improving the smallest details of our plugin and we hope that you will enjoy it as much as we do. Thank you for your support.
+__________________________________________________________________
+
+[COLOR blue][B]Mods-kodi members[/B][/COLOR]
+
+- [I]Micnor [COLOR dimgrey]("Lead editor")[/COLOR][/I]
+- [I]Mleczan[/I]
+- [I]Moras86[/I]
+- [I]Mariusz89B[/I]
+- [I]Daniel[/I]
+- [I]JonnyCage[/I]
+- [I]Kemir71[/I]
+__________________________________________________________________
+
+[COLOR blue][B]Thanks to[/B][/COLOR]
+
+- [I]Szakalit[/I]
+- [I]Pgawronski[/I]
+- [I]Maly95[/I]
+- [I]Zaqwa[/I]
+- [I]Kapiszon53[/I]
+
+Visit us on Facebook
+[I]https://www.facebook.com/modskodi/[/I]
+
+[COLOR dimgrey]Copyright mods-kodi.pl © 2013 - 2018[/COLOR]</string>
+</strings>

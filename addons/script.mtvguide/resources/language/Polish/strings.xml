@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string id="30000">Wybrany kanał nie posiada danych epg.</string>
+	<string id="30001">[B]Trwa ładowanie danych...[/B]</string>
+	<string id="30002">Obliczanie pozostałego czasu...</string>
+	<string id="30003">Pozostało ok. %d sekund...</string>
+	<string id="30004">Ładowanie danych już jest w toku...</string>
+	<string id="30005">Kontrola myszą</string>
+	<string id="30006">Teraz</string>
+	<string id="30007">[B]Porada![/B] Możesz także użyć kółka</string>
+	<string id="30008">Anuluj</string>
+	<string id="30100">Ogólne</string>
+	<string id="30101">EPG</string>
+	<string id="30102">Pokaż kanały z kategorii</string>
+	<string id="30103">Plik XMLTV</string>
+	<string id="30104">Wyczyść cache...</string>
+	<string id="30105">Skończone!</string>
+	<string id="30106">Pokaż powiadomienie</string>
+	<string id="30108">Wyczyść wszystkie przypomnienia...</string>
+	<string id="30109">Wyczyść wszystkie zaplanowane nagrywania...</string>
+	<string id="30110">Aktualizuj informacje o programie podczas startu KODI</string>
+	<string id="30111">[COLOR]Wpisz adres EPG lub podaj ścieżkę do swoich plików EPG[/COLOR]</string>
+	<string id="30116">Wyszukaj obrazki kanałów w</string>
+	<string id="30117">[COLOR]Premium EPG[/COLOR]</string>
+	<string id="30118">Podstawowe</string>
+	<string id="30119">Dodatkowe</string>
+	<string id="30120">Dodatkowe</string>
+	<string id="30149">nie istnieje. Domyślna zostanie ustawiona!</string>
+	<string id="30150">Przepraszamy, wystąpił błąd!</string>
+	<string id="30151">Błąd wczytywania pliku EPG:</string>
+	<string id="30152">[CR]Sprawdź swoje połączenie internetowe lub konto Premium</string>
+	<string id="30153">ponieważ ustawienia są błędne!</string>
+	<string id="30154">Wygląda na to, że skórka której używasz</string>
+	<string id="30155">nie jest komatybilna z obecną wersją m-TVGuide.</string>
+	<string id="30156">Spróbuj zmienić skórkę...</string>
+	<string id="30157">Wygląda na to, że baza danych m-TVGuide jest błędna.</string>
+	<string id="30158">Proszę usunąć plik bazy z dysku używając opcji w ustawieniach wtyczki "Ustawienia bazy"</string>
+	<string id="30159">Konfiguracja kanałów została utracona.</string>
+	<string id="30160">Błąd nie jest krytyczny i wtyczka się uruchomi ale proszę usunąć niedziałający link!</string>
+	<string id="30161">Błąd jest krytyczny i lista programów nie będzie dostępna, proszę wpisać poprawny link!</string>
+    <string id="30162">Brak opisu</string>
+    <string id="30163">Brak kategorii</string>
+	<string id="30164">Brak dostępnych informacji</string>
+	
+	<string id="30200">na [B]%s[/B] za 5 minut...</string>
+	<string id="30201">na [B]%s[/B] rozpoczyna się...</string>
+	<string id="30202">Uruchomienie zapisanego programu</string>
+	<string id="30203">Uruchomic zapisany program</string>
+	<string id="30204">Anuluj</string>
+	<string id="30300">Oglądaj %s</string>
+	<string id="30301">Przypomnij</string>
+	<string id="30302">Nie przypominaj</string>
+	<string id="30303">Przerwij nagrywanie</string>
+	<string id="30304">Wybierz strumień</string>
+	<string id="30305">Aby oglądać ten kanał możesz wybrać własny plik .strm</string>
+	<string id="30306">Usuń strumień</string>
+	<string id="30307">Kanały</string>
+	<string id="30308">Zamknij</string>
+	<string id="30309">Lista</string>
+	<string id="30310">Lista kanału</string>
+	<string id="30311">Teraz</string>
+	<string id="30312">Następnie</string>
+	<string id="30313">Start</string>
+	<string id="30314">Trwanie</string>
+	<string id="30315">Szukaj</string>
+	<string id="30316">Tytuł</string>
+	<string id="30317">Opis</string>
+	<string id="30318">Kategoria</string>
+	<string id="30319">Kanał</string>
+	<string id="30320">Nowe wyszukiwanie</string>
+	<string id="30321">Usuń wyszukiwanie</string>
+	<string id="30322">Wyszukiwanie programów</string>
+	<string id="30323">Wyszukiwanie opisów</string>
+	<string id="30324">Wyszukiwanie kategorii programów</string>
+	<string id="30325">Wszystkie kanały</string>
+	<string id="30326">Wyszukiwanie kanału</string>
+	<string id="30327">Wyszukiwanie programow: [COLOR gold][B]%s[/B][/COLOR]</string>
+	<string id="30328">Wyszukiwanie opisów:</string>
+	<string id="30329">Dzisiaj</string>
+	<string id="30330">Jutro</string>
+	<string id="30331">Wczoraj</string>
+	<string id="30332">za %d dni</string>
+	<string id="30333">za %d dzień</string>
+	<string id="30334">za %d godziny</string>
+	<string id="30335">za %d min</string>
+	<string id="30336">Przypomnienia</string>
+	<string id="30337">Nagrania</string>
+	<string id="30338">Widok listy</string>
+	<string id="30339">Lista przyszłych dni</string>
+	<string id="30340">Lista poprzednich godzin</string>
+	<string id="30341">Sortuj listę według czasu</string>
+	<string id="30342">Zawieraj opis w wyszukiwaniu tytułu</string>
+	<string id="30343">Lista kategorii</string>
+	<string id="30344">Wyszukiwanie kategorii</string>
+	<string id="30345">Wyszukiwanie kategorii:</string>
+	<string id="30346">Wybór kanału</string>
+	<string id="30347">Ustalenie kolejności kanałów</string>
+	<string id="30348">Włącz ustalenie kolejności kanałów wg numeru</string>
+	<string id="30349">Odtwarzanie kanału</string>
+	<string id="30350">Nie odtwarzaj</string>
+	<string id="30351">Odtwarzaj jedynie w trybie TV</string>
+	<string id="30352">Odtwarzaj</string>
+	<string id="30353">Błąd</string>
+	<string id="30354">Ustawienie ustalenie kolejności kanałów wg numeru jest wyłączone</string>
+	<string id="30355">Wyświetlaj loga kanałów</string>
+	<string id="30356">Rozszerzone informacje</string>
+	<string id="30357">Wyszukaj jako film</string>
+	<string id="30358">Wyszukaj jako serial</string>
+	<string id="30359">Wyszukaj rozszerzone informacje</string>
+	<string id="30360">Wyszukaj jako wszystko</string>
+	<string id="30361">Nie udane wyszukiwanie: %s</string>
+	<string id="30362">Brak takiego filmu: %s</string>
+	<string id="30363">Brak takiego programu telewizyjnego: %s</string>
+	<string id="30500">Edytuj kolejność i widoczność kanałów</string>
+	<string id="30501">Naciśnij przycisk w lewo aby wyświetlić okienko.[CR]Przesuwaj w górę i w dół, aby zmienić pozycję kanału.</string>
+	<string id="30502">Zapisz</string>
+	<string id="30503">Anuluj</string>
+	<string id="30504">Informacja mods-kodi.pl</string>
+	<string id="30505">Gatunek</string>
+	<string id="30506">Odcinek</string>
+	<string id="30507">Aktorzy</string>
+	<string id="30508">Rok</string>
+	<string id="30509">Reżyser</string>
+	<string id="30510">Fabuła</string>
+	<string id="30511">Czas trwania</string>
+	<string id="30512">Od lat</string>
+
+	<string id="30400">LISTA KANAŁÓW</string>
+	<string id="30401">WYJDŹ</string>
+	<string id="30402">USTAWIENIA WTYCZKI</string>
+	<string id="30403">PRZYPOMNIJ</string>
+	<string id="30404">PROGRAM</string>
+	<string id="30405">USTAWIENIA KANALU</string>
+	<string id="30406">NIE PRZYPOMNINAJ</string>
+	<string id="30407">PRZYPISZ STRUMIEŃ</string>
+	<string id="30408">USUŃ STRUMIEŃ</string>
+
+	<string id="30600">Ustaw strumień</string>
+	<string id="30601">Plik .strm</string>
+	<string id="30602">Ulubione</string>
+	<string id="30603">Wtyczki</string>
+	<string id="30604">Podgląd</string>
+	<string id="30605">Zapisz</string>
+	<string id="30606">Anuluj</string>
+	<string id="30607">Wył. podgląd</string>
+	<string id="30610">Przeglądaj</string>
+	<string id="30611">Wybierz [B]Przeglądaj[/B] i znajdz twój plik .strm.[CR]Gdy już znajdziesz plik, możesz przetestować poprawność działania używając funkcji [B]Podgląd[/B].</string>
+	<string id="30620">Wybierz ulubione. Wspierane są tylko ulubione [B]PlayMedia[/B].</string>
+	<string id="30700">Ten kanał jest udostępniany przez wiele wtyczek.[CR]Wybierz jedną, aby oglądać.</string>
+	<string id="30701">Żródło: </string>
+	<string id="30702">Wygląd</string>
+	<string id="30703">Automatycznie przypisz aktualnie nadawane strumienie</string>
+	<string id="30704">Użyj skompresowanego EPG</string>
+	<string id="30705">Wyświetlaj tylko programy nadające</string>
+	<string id="30706">Automatycznie wykrywaj aktualizacje EPG</string>
+	<string id="30707">Pokaż komunikat informacyjny</string>
+	<string id="30708">Użyj szybkiego parsera EPG</string>
+	<string id="30709">Skórka zaktualizowana</string>
+	<string id="30710">Aktualizacja</string>
+	<string id="30711">Pobierz więcej...</string>
+	<string id="30712">Wszystkie dostępne skórki zostały już zainstalowane!</string>
+	<string id="30713">Pobieranie skórki zakończone niepowodzeniem!</string>
+	<string id="30714">Usuń wszystkie skórki</string>
+	<string id="30715">Włącz kanały dla dorosłych</string>
+	<string id="30716">Włącz kanały szwedzkie</string>
+	<string id="30717">EPG - XXX</string>
+	<string id="30718">EPG - Szwedzkie</string>
+	<string id="30719">Wyłącz</string>
+	<string id="30720">Wyłączone</string>
+	<string id="30721">Włączone</string>
+	<string id="30722">Włącz</string>
+	<string id="30723">Podaj hasło dla kanałów XXX ze strony mods-kodi</string>
+	<string id="30724">Nieprawidłowe hasło!</string>
+	<string id="30725">Włącz kanały angielskie</string>
+	<string id="30726">EPG - Angielskie</string>
+	<string id="30727">Włącz kanały duńskie</string>
+	<string id="30728">EPG - Duńskie</string>
+	<string id="30729">Włącz kanały francuskie</string>
+	<string id="30730">EPG - Francuskie</string>
+	<string id="30731">Włącz kanały niemieckie</string>
+	<string id="30732">EPG - Niemieckie</string>
+	<string id="30733">Włącz kanały chorwackie</string>
+	<string id="30734">EPG - Chorwackie</string>
+	<string id="30735">Włącz kanały serbskie</string>
+	<string id="30736">EPG - Serbskie</string>
+	<string id="30737">Włącz kanały norweskie</string>
+	<string id="30738">EPG - Norweskie</string>
+	<string id="30739">Pokaż kanały zagraniczne</string>
+	<string id="30740">Kanały zagraniczne</string>
+	<string id="30741">Kanały dla dorosłych</string>
+	<string id="30742">Strefa czasowa</string>
+	<string id="30743">Włącz kanały benelux</string>
+	<string id="30744">EPG - Benelux</string>
+	<string id="30745">Włącz kanały vod</string>
+	<string id="30746">Kanały video on demand</string>
+	<string id="30747">kanały dla dorosłych</string>
+	<string id="30748">kanały vod</string>
+	<string id="30749">Włącz kanały radiowe</string>
+	<string id="30750">EPG - Radio</string>
+	<string id="30751">Kanały radiowe</string>
+	<string id="30752">EPG - Czeskie</string>
+	<string id="30753">Włącz kanały czeskie</string>
+	<string id="30754">EPG - US</string>
+	<string id="30755">Włącz kanały amerykańskie</string>
+
+<!-- settings -->
+	<string id="30802">m-TVGuide jest skonfigurowany, aby używać dodatku</string>
+	<string id="30803">który nie jest zainstalowany.</string>
+	<string id="30804">Odtwarzanie za pomocą tego dodatku zostało wyłączone.</string>
+	<string id="30901">Aktualizacja</string>
+	<string id="30902">Sprawdź aktualizację</string>
+	<string id="30910">Pokaż panel nawigacyjny dla myszy lub urządzenia dotykowego</string>
+	<string id="30911">Strefa czasowa UTC (+00:00 GMT)</string>
+	<string id="30912">[COLOR]WeebTV[/COLOR]</string>
+	<string id="59902">[COLOR]GoldVodTV[/COLOR]</string>
+	<string id="59903">[COLOR]Telewizjada[/COLOR]</string>
+	<string id="59904">Włącz</string>
+	<string id="59905">[COLOR]Playlisty M3U[/COLOR]</string>
+	<string id="59906">Link</string>
+	<string id="59907">Źródło</string>
+	<string id="59908">Plik</string>
+	<string id="59909">Multisesja</string>
+	<string id="59910">Użyj darmowego konta</string>
+	<string id="59911">[COLOR]Playlista 1[/COLOR]</string>
+	<string id="59912">[COLOR]Playlista 2[/COLOR]</string>
+	<string id="59913">[COLOR]Playlista 3[/COLOR]</string>
+	<string id="59914">Wyświetlana nazwa</string>
+	<string id="59915">Wczytuje serwis</string>
+	<string id="59916">Liczba playlist</string>
+	<string id="59917">[COLOR]Playlista 4[/COLOR]</string>
+	<string id="59918">[COLOR]Playlista 5[/COLOR]</string>
+	<string id="59919"></string>
+	<string id="30913">Ustawienia</string>
+	<string id="30914">Skórka</string>
+	<string id="30915">Uruchom m-TVGuide po starcie systemu</string>
+	<string id="30916">Baza</string>
+	<string id="30917">Animacja maksymalizacji okna odtwarzania</string>
+	<string id="30918">OSD przy wyborze</string>
+	<string id="30919">Uruchom automatyczne odtwarzanie kanału</string>
+	<string id="30920">Według numeru kanału</string>
+	<string id="30921">Ostatnio oglądany kanał</string>
+	<string id="30930">Kolory</string>
+	<string id="30931">[COLOR]Kolory kategorii[/COLOR]</string>
+	<string id="30932">Filmy</string>
+	<string id="30933">Seriale</string>
+	<string id="30934">Informacja</string>
+	<string id="30935">Rozrywka</string>
+	<string id="30936">Dokument</string>
+	<string id="30937">Dla dzieci</string>
+	<string id="30938">Sport</string>
+	<string id="30939">Interaktywny Program Rozrywkowy</string>
+	<string id="30940">[COLOR]Podstawowe kolory[/COLOR]</string>
+	<string id="30941">Podstawowy kolor</string>
+	<string id="30942">Kolor aktywnego podświetlenia</string>
+	<string id="30943">Kolor dla przypomnienia</string>
+	<string id="30944">Kolor dla nagrywania</string>
+	<string id="30950">Wyczyść bazę</string>
+	<string id="30951">Baza wyczyszczona</string>
+	<string id="30952">Usuń przypisane strumienie</string>
+	<string id="30953">Eksportuj ustawienia</string>
+	<string id="30954">Importuj ustawienia</string>
+	<string id="30955">Usuń plik bazy z dysku</string>
+	<string id="30956">[COLOR]MojeFilmy[/COLOR]</string>
+	<string id="30957">Użytkownik</string>
+	<string id="30958">Maksymalny czas uruchamiania usługi (sek)</string>
+	<string id="30959">Adres playlisty</string>
+	<string id="30960">Połącz ponownie w przypadku rozłączenia</string>
+	<string id="30961">Maksymalna liczba prób połączenia</string>
+	<string id="30962">Opóźnienie próby połączenia (ms)</string>
+	<string id="30963">Zamykanie</string>
+	<string id="30964">Wciśnij ponownie klawisz aby wyjść</string>
+	<string id="30965">Aktualnie nadawany serwis</string>
+	<string id="30966"></string>
+	<string id="30967"></string>
+	<string id="30968">Magazyn</string>
+	<string id="30969">Plik został usunięty</string>
+	<string id="30970">Przypisane strumienie zostały usunięte</string>
+	<string id="30971">Przypomnienia zostały wyczyszczone</string>
+	<string id="30972">Zaplanowane nagrywania zostały wyczyszczone</string>
+	<string id="30973">Usuń wszystkie ustawienia</string>
+	<string id="30974">Zatrzymaj odtwarzania podczas przełączania strumienia</string>
+	<string id="30975">Strumienie HD mają wyższy priorytet</string>
+	<string id="30976">Cyklicznie odświeżaj serwisy</string>
+	<string id="30977">Maksymalny czas na uruchomienie strumienia (sek)</string>
+	<string id="30978">Baza zaktualizowana</string>
+	<string id="30979">Wymagany restart m-TVGuide</string>
+	<string id="30980">[COLOR]**UWAGA!** Resetowanie bazy spowoduje utratę wszystkich ustawień![CR]Resetuj tylko jeśli baza danych została uszkodzona![/COLOR]</string>
+	<string id="30981">Czy na pewno chcesz zamknąć</string>
+	<string id="30982">Zapytaj przy wyjściu</string>
+	<string id="30983">Kliknij dwa razy, aby wyjść</string>
+	<string id="30984">Dodaj ulubione</string>
+	<string id="30985">Dodaj</string>
+	<string id="30986">Usuń</string>
+	<string id="30987">Wyczyść</string>
+	<string id="30988">Wszystkie kanały</string>
+	<string id="30989">Dodaj kanały do grupy [COLOR gold][B]%s[/B][/COLOR]</string>
+	<string id="30990">Usuń kanały z grupy [COLOR gold][B]%s[/B][/COLOR]</string>
+	<string id="30991">Ustawienia kanałów</string>
+	<string id="30992">Grupa</string>
+	<string id="30993">Zapamiętaj listę ulubionych</string>
+	<string id="30994">Pomoc - m-TVGuide [COLOR gold]EPG[/COLOR]</string>
+
+	<string id="58000">O programie</string>
+
+	<string id="58001">Wskaż katalog do zapisania ustawień</string>
+	<string id="58002">Eksport ustawień</string>
+	<string id="58003">Import ustawień</string>
+	<string id="58004">Niepowodzenie - brak ustawień do eksportowania!</string>
+	<string id="58005">Pomyślnie zapisano ustawienia</string>
+	<string id="58006">Niepowodzenie - proszę sprawdzić czy masz prawa zapisu do wybranego folderu</string>
+	<string id="58007">Wskaż plik kopii ustawień</string>
+	<string id="58008">Pomyślnie wczytano ustawienia</string>
+	<string id="58009">Nie udało się wczytać ustawień</string>
+	<string id="58010">Proszę sprawdzić czy wybrany plik zip jest poprawną kopią ustawień</string>
+	<string id="58011">zablokowany</string>
+
+	<string id="31001">Pokaż OSD</string>
+	<string id="31002">Ustaw klawisze</string>
+	<string id="31003">Ustaw</string>
+	<string id="31004">OK</string>
+	<string id="31005">Home</string>
+	<string id="31006">Prog -</string>
+	<string id="31007">Prog +</string>
+	<string id="31008">Stop</string>
+	<string id="31009">Informacja</string>
+	<string id="31010">Context</string>
+	<string id="31011">Nagrywanie</string>
+	<string id="31012">Resetuj</string>
+	<string id="31013">Domyślne</string>
+	<string id="31014">Zmiana strumienia</string>
+	<string id="31015">Vol +</string>
+	<string id="31016">Vol -</string>
+	<string id="31017">Zmień na ostatnio oglądany kanał</string>
+	<string id="31018">Lista</string>
+
+	<string id="310010"></string>
+	<string id="310011">Zatrzymaj odtwarzanie przyciskiem wstecz</string>
+	<string id="310012">Nagrany program</string>
+	<string id="310013">Czy uruchomić nagrany program</string>
+	<string id="310014">Zapisz ustawienia wtyczki!</string>
+
+<!-- general settings -->
+	<string id="55002">Użytkownik</string>
+	<string id="55003">Hasło</string>
+	<string id="55005">Preferuj wysoką jakość</string>
+	<string id="55006">WeebTV</string>
+	<string id="55007">Serwisy</string>
+	<string id="55008">Przypisz również strumienie low-quality / zapasowe</string>
+	<string id="55010">0 Najniższy</string>
+	<string id="55011">1 B.Niski</string>
+	<string id="55017">2 B.Niski</string>
+	<string id="55012">3 Niski</string>
+	<string id="55018">4 Niski</string>
+	<string id="55013">5 Średni</string>
+	<string id="55019">6 Średni</string>
+	<string id="55014">7 Wysoki</string>
+	<string id="55020">8 Wysoki</string>
+	<string id="55021">9 B.Wysoki</string>
+	<string id="55022">10 B.Wysoki</string>
+	<string id="55023">11 Najwyższy</string>
+	
+	<string id="55015">Uruchamianie</string>
+	<string id="55016">Teraz odtwarzane</string>
+
+	<string id="89001">Aktywuj sleep timer</string>
+	<string id="89002">Akcja wykonana po upływie czasu nieaktywności</string>
+	<string id="89003">Czas braku aktywności (min)</string>
+	<string id="89004">Zatrzymaj odtw.</string>
+	<string id="89005">Wyłącz Kodi</string>
+	<string id="89006">Zamknij system</string>
+	<string id="89007">Uśpij system</string>
+	<string id="89008"></string>
+	<string id="89009"></string>
+
+	<string id="59901">GoldVodTV</string>
+	<string id="55009">Priorytet</string>
+	
+	
+
+<!-- errors & messages -->
+	<string id="57001">Błąd API</string>
+	<string id="57002">Brak połączenia z serwisem.</string>
+	<string id="57003">Sprawdź połączenie sieciowe.</string>
+	<string id="57009">Błąd skryptu!</string>
+	<string id="57010">Błąd! (getJsonFromAPI)</string>
+	<string id="57011">Połączenie z serwisem nie zwróciło żadnych danych.</string>
+	<string id="57012">Przyczyną może być brak dostępu do sieci,</string>
+	<string id="57013">lub błędny adres API serwisu.</string>
+	<string id="57014">Błąd! (API: setPlayer)</string>
+	<string id="57015">Nie uzyskano danych do autoryzacji.</string>
+	<string id="57018">Błąd odtwarzania!</string>
+	<string id="57019">Przekroczony limit darmowego oglądania lub zbyt duża ilość użytkowników.</string>
+	<string id="57020">Wykup konto Premium już teraz, aby oglądać bez limitów!</string>
+	<string id="57021">Wewnętrzny problem odtwarzacza!</string>
+	<string id="57022">Niewłaściwa ścieżka wideo! Odtwarzanie wstrzymane.</string>
+	<string id="57027">Serwer zamknął połączenie z nie znanych przyczyn! Spróbuj ponownie.</string>
+	<string id="57028">Odtwarzanie wstrzymane.</string>
+	<string id="57034">Informacje o koncie użytkownika</string>
+	<string id="57036">Nie posiadasz konta premium. Rozpoczynanie transmisji sponsorowanej.</string>
+	<string id="57037">Aby wykupić Premium już teraz wejdź na stronę:</string>
+	<string id="57038">http://mods-kodi.pl/</string>
+	<string id="57039">Brak konta Premium w serwisie:</string>
+	<string id="57042">Błąd połączenia z serwisem!</string>
+	<string id="57043">Wybrany kanał nie istnieje!</string>
+	<string id="57044">Nie wybrano kanału!</string>
+	<string id="57045">Brak aktywnego serwera! Przepraszamy.</string>
+	<string id="57046">Regulamin nie został zaakceptowany!</string>
+	<string id="57047">Wejdź na http://mods-kodi.pl/ i zaakceptuj go, aby korzystać z usługi.</string>
+	<string id="57048">Nieprawidłowe dane logowania: </string>
+	<string id="57049">Podany link w serwisie</string>
+	<string id="57050">jest błędny!</string>
+	
+	<string id="57051">m-TVGuide</string>
+	<string id="57052">Wtyczka jest już raz uruchomiona - nie można uruchomić jej ponownie</string>
+
+	<string id="69000">Nagrywanie</string>
+	<string id="69001">Importuj RTMPDUMP</string>
+	<string id="69002">Importuj FFMPEG</string>
+	<string id="69003">Folder zapisu nagrań</string>
+	<string id="69004">Nagrywanie:</string>
+	<string id="69005">Zakończono nagrywanie:</string>
+	<string id="69006">Nie istnieje katalog do zapisu nagrań - nagrywanie anulowane!</string>
+	<string id="69007">Błąd nagrywania!</string>
+	<string id="69008">Nie można nagrać ponieważ w ustawieniach nie jest wskazana aplikacja do nagrywania: </string>
+	<string id="69009">Nagrywanie już zaplanowane - anulować?</string>
+	<string id="69010">Zaplanować nagrywanie programu: </string>
+	<string id="69011">Przerwać nagrywanie programow?</string>
+	<string id="69012">Importowanie aplikacji do nagrywania</string>
+	<string id="69013">pomyślnie zaimportowany</string>
+	<string id="69014">Format nagrywania FFMPEG</string>
+	<string id="69015">Wyjść pomimo zaplanowanego nagrywania?</string>
+	<string id="69016">Korzystaj z FFMPEG do nagrywania RTMP zamiast RTMPDUMP</string>
+	<string id="69017">Pobierz aplikacje do nagrywania</string>
+	<string id="69018">m-TVGuide pobierze teraz pliki z serwera - proszę nacisnąć OK i zaczekać</string>
+	<string id="69019">Pobieranie aplikacji nie powiodło się - spróbuj ponownie lub zainstaluj ręcznie</string>
+	<string id="69020">Debug log</string>
+	<string id="69021">Nie udało się znaleźć FFMPEG ani RTMPDUMP na systemie - proszę zainstalować korzystając z wbudowanego packet managera RTMPDUMP, FFMPEG lub libav-tools oraz ponownie spróbować zaimportować automatycznie lub wybrać pliki ręcznie</string>
+	<string id="69022">Blad automatycznego importowania aplikacji - proszę zaimportować pliki ręcznie</string>
+	<string id="69023">Wybierz wersję twojego systemu operacyjnego</string>
+	<string id="69024">Maksymalna ilość prób wznowienia nagrywania</string>
+	<string id="69025">Usuwanie obejrzanych nagrań</string>
+	<string id="69026">Usunięcie nagrania</string>
+	<string id="69027">Usunąć obejrzane nagranie</string>
+	<string id="69028">Nic nie rób</string>
+	<string id="69029">Zapytaj</string>
+	<string id="69030">Automatycznie usuwaj</string>
+	<string id="69031">[COLOR]Format flv nie działa na systemie OpenELEC/LibreELEC[/COLOR]</string>
+	<string id="69032">[COLOR]Aplikacja nagrywania dla zwykłych systemów[/COLOR]</string>
+	<string id="69033">Log dostępny pod adresem: </string>
+	<string id="69034">Wysyłanie logów zakończone niepowodzeniem</string>
+	<string id="69035">Wyślij log Kodi</string>
+	<string id="69036">Obecnie wpisany link do EPG to: </string>
+	<string id="69037">Brak darmowych strumieni w serwisie </string>
+	<string id="69038">Zatrzymaj odtwarzanie podczas rozpoczęcia nagrywania</string>
+	<string id="69039">Nagrywaj</string>
+
+	<string id="69040">Wideo</string>
+	<string id="69041">Nawigacja w OSD poprzedni, następny program</string>
+	<string id="69042">Wyświetlaj dodatkowe przyciski w OSD</string>
+	<string id="69043">Automatycznie pokazuj OSD po uruchomieniu programu</string>
+	<string id="69044">Czas wyświetlania automatycznego OSD (sek)</string>
+	<string id="69045">Czas wyświetlania OSD (sek)</string>
+	<string id="69046">Wyświetlanie OSD podczas przełączania strumieni</string>
+	<string id="69047">Wyświetlaj nazwę serwisu w OSD</string>
+	<string id="69048">Zawsze wyświetlaj czas</string>
+	
+<!-- Recording -->
+	<string id="70000">Tytuł programu</string>
+	<string id="70001">Kanał</string>
+	<string id="70002">Godzina rozpoczęcia</string>
+	<string id="70003">Długość nagrania</string>
+	<string id="70004">Przesunięcie rozpoczęcia nagrania (min)</string>
+	<string id="70005">Przesunięcie zakończenia nagrania (min)</string>
+	<string id="70006">Ustawienia zadania</string>
+	<string id="70008">Seledynowy</string> <!-- Texture 1-->
+	<string id="70009">Niebieski</string> <!-- Texture 2-->
+	<string id="70010">Zielony</string> <!-- Texture 3-->
+	<string id="70011">Czerwony</string> <!-- Texture 4-->
+	<string id="70012">Purpurowy</string> <!-- Texture 5-->
+	<string id="70013">Żółty</string> <!-- Texture 6-->
+	<string id="70014">Fioletowy</string> <!-- Texture 7-->
+	<string id="70015">Pomarańczowy</string> <!-- Texture 8-->
+	<string id="70007">Domyślny</string> <!-- Texture 9-->
+	<string id="70016">Domyślny fokus</string> <!-- Texture 10-->
+	<string id="70017">Domyślny przypomnienine</string> <!-- Texture 11-->
+	<string id="70018">Domyślny nagrywanie</string> <!-- Texture 12-->
+	<string id="70019">Pełny niebieski</string> <!-- Texture 13-->
+	<string id="70020">Pełny czerwony</string> <!-- Texture 14-->
+	<string id="70021">Pełny pomarańczowy</string> <!-- Texture 15-->
+	<string id="70022">Ciemny fokus</string> <!-- Texture 16-->
+
+	<string id="80000">[COLOR]PierwszaTV[/COLOR]</string>
+	<string id="80001">[COLOR]WizjaTV[/COLOR]</string>
+	<string id="80002">[COLOR]YoyTV[/COLOR]</string>
+	<string id="80003">[COLOR]iTiVi[/COLOR]</string>
+	<string id="80004">[COLOR]Tele-Wizja[/COLOR]</string>
+	<string id="80005">[COLOR]WP Pilot[/COLOR]</string>
+	<string id="80006">[COLOR]Ipla[/COLOR]</string>
+	<string id="80007">[COLOR]Waaatch.tv[/COLOR]</string>
+	<string id="80008">[COLOR]iHolandia[/COLOR]</string>
+	
+	<string id="90000">Serwer</string>
+	<string id="90001">Dział Pomocy</string>
+	<string id="90002">Pomoc</string>
+	<string id="90003">Przeczytaj</string>
+	<string id="90004">Uznanie</string>
+	
+	<string id="99996">[COLOR gold][B]Menu kontekstowe[/B][/COLOR]
+
+- [B]Wybór kanału[/B]
+Wybierz numer kanału.
+
+- [B]O programie[/B]
+[I](Przypisany klawisz "I" lub "INFO")[/I]
+Informacje z EPG o wybranym programie.
+
+- [B]Rozszerzone informacje[/B]
+[I](Przypisany klawisz "I" lub "INFO")[/I]
+Rozszerzone informacje z wtyczki ExtendedInfo Script o wybranym programie. Aby zmienić język należy wejść z głównego menu Kodi w ustawienia wtyczki ExtendedInfo Script i wybrać język w "Language for TheMovieDB requests" i "Autocompletion language".
+
+- [B]Przypomnij[/B]
+Włącz powiadomienia o przypomnieniach, gdy program ma się rozpocząć. Przypomnienia można ustawić dla pojedynczego programu lub dowolnego wystąpienia tej nazwy programu.
+
+- [B]Nagrywaj[/B]
+[I](Możliwość przypisania klawisza)[/I]
+Włącz nagrywanie wybranego programu.
+
+- [B]Nagrania[/B]
+Przejdź do lokalizacji nagrań.
+
+- [B]Kanały[/B]
+Edytuj kolejność i widoczność kanałów.
+
+- [B]Lista[/B]
+[I](Możliwość przypisania klawisza)[/I]
+Możliwość wyświetlania lista kanału, teraz, następny, przypomnienia, nagrania i wyszukiwarka.
+
+- [B]Opcje[/B]
+Ustawienia wtyczki.
+
+- [B]Usuń/Wybierz strumień[/B]
+Możliwość wybrania własnych strumieni.
+
+- [B]Zamknij[/B]
+Wyjście z wtyczki m-TVGuide.
+
+- [B]Dodaj ulubione[/B]
+[I](Przypisany klawisz "ENTER" lub "SELECT" i "C" lub "CONTEXT")[/I]
+Możliwość ustawienia listę ulubionych programów. Zacznij od dodania ulubionej listy wybierz Dodaj ulubione klawiszem "ENTER" lub "SELECT", przejdź w dól i dodaj lub usuń kanały ulubione klawiszem "C" lub "CONTEXT".
+__________________________________________________________________
+
+[COLOR blue][B]Dział pomocy[/B][/COLOR]
+
+- [B]Informacje[/B]
+(Ustawienia - Dział pomocy) Tutaj znajdziesz wiecej informacji o ustawieniach wtyczki.
+</string>
+	
+	<string id="99997">[COLOR gold][B]Jak uruchomić m-TVGuide[/B][/COLOR]
+
+1. Dodaj serwis odtwarzania telewizji.
+
+2. Dodaj elektroniczny przewodnik po programach (EPG).
+
+3. Uruchom m-TVGuide.
+
+[COLOR gold][B]Serwisy[/B][/COLOR]
+
+- [B]Serwis odtwarzania telewiziji[/B]
+Zanim zaczniemy musimy wprowadzić serwis odtwarzania telewizji do m-TVGuide. Przeważnie wystarczy wprowadzić swoje login i hasło, aby zalogować się do wybranego serwisu. Możliwe jest również dodanie listy odtwarzania M3U ze źródła lub z lokalnego pliku. Te dane należy wprowadzić w sekcji Serwisy lub Playlisty M3U w ustawieniach m-TVGuide.
+__________________________________________________________________
+
+[COLOR gold][B]EPG[/B][/COLOR]
+
+- [B]Elektroniczny przewodnik po programach[/B]
+Po wybraniu serwisu odtwarzania należy dodać elektroniczny przewodnik po programach do m-TVGuide aby wyświetlić wszystkie informacje dotyczące programów, bez tego m-TVGuide się nie uruchomi. EPG można uzyskać wykupując konto premium na naszej stronie internetowej: [I]http://www.mods-kodi.pl/[/I]. 
+
+Link do EPG powinien zostać wpisany w sekcji EPG w ustawieniach m-TVGuide. Jest także możliwość korzystać z zewnętrznego EPG.
+__________________________________________________________________
+
+[COLOR gold][B]FAQ[/B][/COLOR]
+
+- [B]Podany link EPG jest błędny[/B]
+Zwykle to oznacza że link do epg jest nieprawidłowy, upewnij się że podałeś właściwy link do EPG. Można także spróbować zresetować baze w ustawieniach.
+
+- [B]Nie są wyświetlane kanały zagraniczne[/B]
+Upewnij się że link do EPG dla zagranicznych kanałów został wprowadzony poprawnie. 
+Jeśli używasz World EPG jako główne źródło, wystarczy włączyć zagraniczne kanały bez podawania linku dla każdego z nich.
+
+- [B]Hasło do kanałów dla dorosłych[/B]
+Hasło znajduje się w sekcji linków premium na stronie [I]http://www.mods-kodi.pl/[/I].
+
+- [B]Kanały są widoczne w m-TVGuide, ale nie są odtwarzane[/B]
+Upewnij się że dodana została usługa telewizyjna do m-TVGuide, zobacz sekcję serwisy powyżej. Jeśli usługa odtwarzania tv nie działa, prosze się skontaktować z usługodawcą a nie ze zespołem mods-kodi.
+
+- [B]Nie da rady nawigować w m-TVGuide z urządzeniem dotykowym[/B]
+Włącz pokaż panel nawigacyjny dla myszy lub urządzenia dotykowego w zakładce ustawienia.
+
+- [B]Jak uzyskać pomoc z innymi błędami[/B]
+W zakładce baza wybierz wyślij log kodi, log zostanie wysłany na zewnętrzny serwer i zostanie podany indywidualny link http. Link ten należy przekazać administracji mods-kodi by uzyskać pomoc wrazie błedu w m-TVGuide.
+
+- [B]Jak zmienić język w rozszerzonej informacji[/B]
+Należy wejść w głównym menu Kodi w ustawienia wtyczki ExtendedInfo Script i wybrać język w "Language for TheMovieDB requests" i "Autocompletion language".
+__________________________________________________________________
+
+[COLOR gold][B]Instrukcja obsługi[/B][/COLOR]
+
+Aby uzyskać dodatkową pomoc należy przeczytać instrukcję obsługi na stronie mods-kodi.pl
+[I]http://mods-kodi.pl/articles.php?article_id=64[/I]
+__________________________________________________________________
+
+[COLOR gold][B]Helpdesk[/B][/COLOR]
+
+Centrum pomocy mods-kodi. Tu należy zgłosić błędy do administracji mods-kodi.
+[I]http://mods-kodi.pl/helpdesk/[/I]</string>
+
+	<string id="99998">[COLOR gold][B]Ustawienia m-TVGuide[/B][/COLOR]
+
+Informacje o wszystkich ustawieniach w m-TVGuide. Kod w nawiasie kwadratowym to nazwa wewnętrznego ustawienia lub wykonywanej akcji. Instrukcja w nawiasach okrągłych wyjaśnia wstępną akcję ustawienia.
+
+[COLOR gold][B]Serwisy[/B][/COLOR]
+
+- [B]Maksymalny czas uruchamiania usługi (sek)[/B] [COLOR dimgrey][max_connection_time][/COLOR]
+Czas na uruchomienie usługi strumieniowej (w sekundach).
+
+- [B]Połącz ponownie w przypadku rozłączenia[/B] [COLOR dimgrey][reconnect_stream][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Jeśli strumień nie działa spóbuje ponownie się połączyć.
+
+- [B]Maksymalna liczba prób połączenia[/B] [COLOR dimgrey][max_reconnect_attempts][/COLOR]
+Liczba prób ponownego połączenia strumienia.
+
+- [B]Opóźnienie próby połączenia (ms)[/B] [COLOR dimgrey][reconnect_delay][/COLOR]
+Czas oczekiwania na ponowne połączenie strumienia w przypadku zerwania pierwszego strumienia (w milisekundach).
+
+- [B]Cyklicznie odświeżaj serwisy[/B] [COLOR dimgrey][refresh_streams][/COLOR]
+Cyklicznie odświeża tabelę czasową do aktualnego programu.
+
+- [B]Maksymalny czas na uruchomienie strumienia (sek)[/B] [COLOR dimgrey][max_wait_for_playback][/COLOR]
+Maksymalny czas oczekiwania na połączenie do strumienia (w sekundach).
+
+- [B]Wizja TV[/B] [COLOR dimgrey][wizjatv_enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Usługa odtwarzania, podaj dane logowania od usługodawcy aby korzystać z serwisu.
+
+- [B]Weeb TV[/B] [COLOR dimgrey][WeebTV_enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Usługa odtwarzania, podaj dane logowania od usługodawcy aby korzystać z serwisu.
+
+- [B]GoldVod TV[/B] [COLOR dimgrey][GoldVOD_enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Usługa odtwarzania, podaj dane logowania od usługodawcy aby korzystać z serwisu.
+
+- [B]WP Pilot TV[/B] [COLOR dimgrey][videostar_enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Usługa odtwarzania, podaj dane logowania od usługodawcy aby korzystać z serwisu.
+
+- [B]Ipla[/B] [COLOR dimgrey][ipla_enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Usługa odtwarzania, podaj dane logowania od usługodawcy aby korzystać z serwisu.
+__________________________________________________________________
+
+[COLOR gold][B]Playlisty M3U[/B][/COLOR]
+
+- [B]Playlista M3U[/B] [COLOR dimgrey][playlist_enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Plik z końcówką M3U to plik do odtwarzania na przykład strumienie wideo.
+__________________________________________________________________
+
+[COLOR blue][B]Ustawienia odtwarzania[/B][/COLOR]
+
+- [B]Wyświetlana nazwa[/B] [COLOR dimgrey][playlist_display_name][/COLOR]
+Wybierz nazwę wybranej listy odtwarzania.
+
+- [B]Źródło plik[/B] [COLOR dimgrey][playlist_source][/COLOR]
+Użyj listy odtwarzania z lokalnego pliku.
+
+- [B]Źródło url[/B] [COLOR dimgrey][playlist_url][/COLOR]
+Użyj listy odtwarzania z sieci.
+
+- [B]Zatrzymaj odtwarzania podczas przełączania strumienia[/B] [COLOR dimgrey][playlist_stop_when_starting][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Zatrzymuje odtwarzanie strumienia przed przejściem do następnego kanału.
+
+- [B]Strumienie HD mają wyższy priorytet[/B] [COLOR dimgrey][playlist_high_prio_hd][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wybiera najwyższą dostępną jakość obrazu.
+
+- [B]Priorytet[/B] [COLOR dimgrey][playlist_priority][/COLOR]
+Wybierz priorytet usługi odtwarzania, gdzie 0 oznacza najniższą wartość, a 11 najwyższą (0-11).
+__________________________________________________________________
+
+[COLOR gold][B]EPG[/B][/COLOR]
+
+- [B]Źródło[/B] [COLOR dimgrey][source][/COLOR]
+(m-TVGuide, XMLTV)
+Wybierz pomiędzy m-TVGuide pobierając plik .xml z sieci lub plik .xml przechowywany lokalnie.
+__________________________________________________________________
+
+[COLOR blue][B]XMLTV[/B][/COLOR]
+
+- [B]Plik XMLTV[/B] [COLOR dimgrey][xmltv.file][/COLOR]
+Wybierz lokalnie zapisany plik epg.
+
+- [B]Wyszukaj obrazki kanałów w[/B] [COLOR dimgrey][xmltv.logo.folder][/COLOR]
+Wybierz lokalnie przechowywane loga kanałów jeśli ich brakuje w epg.
+__________________________________________________________________
+
+[COLOR blue][B]m-TVGuide[/B][/COLOR]
+
+- [B]Automatycznie przypisz aktualnie nadawane strumienie[/B] [COLOR dimgrey][AutoUpdateCid][/COLOR]
+[I](Włącz, wyłącz)[/I]
+m-TVGuide przypisuje automatycznie strumienie do epg według nazw pobierane z map.
+
+- [B]Wyświetlaj tylko programy nadające[/B] [COLOR dimgrey][OnlyChannelsWithStream][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wyświetlane są tylko strumienie które działają.
+
+- [B]Automatycznie wykrywaj aktualizacje EPG[/B] [COLOR dimgrey][UpdateEPGOnModifiedDate][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Jeśli są jakieś zmiany w pliku epg na serwerze zostaną automatycznie załadowane do m-TVGuide, gdy wyłączone epg zostanie zaktualizowane gdy wygenerowane dni się zakończoną.
+
+- [B]Użyj szybkiego parsera EPG[/B] [COLOR dimgrey][useCustomParser][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Bardziej rozszerzone informacje są wykluczone, aby przyspieszyć ładowanie.
+
+- [B]Wyświetlaj loga kanałów[/B] [COLOR dimgrey][show.logo][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wybór pomiędzy wyświetlanie loga lub nazw kanałów.
+__________________________________________________________________
+
+[COLOR blue][B]Wpisz adres EPG[/B][/COLOR]
+
+- [B]Podstawowe[/B] [COLOR dimgrey][m-TVGuide][/COLOR]
+Podaj główne epg ze swojego konta premium na mods-kodi.pl znajdującego się w linkach premium. (Możliwe jest również użycie epg z zewnętrznego źródła.)
+
+- [B]Dodatkowe[/B] [COLOR dimgrey][m-TVGuide2][/COLOR]
+Podaj dodatkowe epg ze swojego konta premium na mods-kodi.pl znajdującego się w linkach premium. (Możliwe jest również użycie epg z zewnętrznego źródła.)
+
+- [B]Dodatkowe[/B] [COLOR dimgrey][m-TVGuide3][/COLOR]
+Podaj dodatkowe epg ze swojego konta premium na mods-kodi.pl znajdującego się w linkach premium. (Możliwe jest również użycie epg z zewnętrznego źródła.)
+
+- [B]Pokaż kanały zagraniczne[/B] [COLOR dimgrey][showForeignChannels][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Jeśli ta opcja jest włączona spowoduje to możliwość wpisania epg dla kanałów zagranicznych z twojego konta premium na mods-kodi.pl znajdującego się w linkach premium. (Możliwe jest również użycie epg z zewnętrznego źródła.)
+
+- [B]Kanały radiowe[/B] [COLOR dimgrey][showRadioChannels][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Jeśli ta opcja jest włączona spowoduje to możliwość wpisania epg dla kanałów radiowych z twojego konta premium na mods-kodi.pl znajdującego się w linkach premium. (Możliwe jest również użycie epg z zewnętrznego źródła.)
+
+- [B]Kanały dla dorosłych[/B] [COLOR dimgrey][showAdultChannels][/COLOR]
+[I](Włącz, wyłącz, hasło)[/I]
+Włącz kanały erotyczne.
+
+- [B]Kanały video on demand[/B] [COLOR dimgrey][showVodChannels][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Włącz kanały video on demand.
+
+- [B]Strefa czasowa[/B] [COLOR dimgrey][Time.Zone][/COLOR]
+Wybierz czas lokalny.
+__________________________________________________________________
+
+[COLOR gold][B]Ustawienia[/B][/COLOR]
+
+- [B]Uruchom m-TVGuide po starcie systemu[/B] [COLOR dimgrey][autostart_mtvguide][/COLOR]
+[I](Włącz, wyłącz)[/I]
+m-TVGuide uruchomi się automatycznie po załadowaniu Kodi.
+
+- [B]Uruchom automatyczne odtwarzanie kanału[/B] [COLOR dimgrey][autostart_channel][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Po załadowaniu m-TVGuide automatycznie się rozpocznie odtwarzanie kanału.
+
+- [B]Pokaż powiadomienie[/B] [COLOR dimgrey][notifications.enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Pokaż ważne informacje od zespołu mods-kodi.
+__________________________________________________________________
+
+[COLOR blue][B]Sleep timer[/B][/COLOR]
+
+- [B]Aktywuj sleep timer[/B] [COLOR dimgrey][sleep__enabled][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Aktywuj ustawienie wyłącznika czasowego.
+
+- [B]Czas braku aktywności (min)[/B] [COLOR dimgrey][sleep_timer][/COLOR]
+Ustaw m-TVGuide w tryb uśpienia po wybranym czasie (w minutach).
+
+- [B]Akcja wykonana po upływie czasu nieaktywności[/B] [COLOR dimgrey][sleep__action][/COLOR]
+[I](Zatrzymaj odtwarzanie, Wyłącz Kodi, Uśpij system, Zamknij system)[/I]
+Zdecyduj którą czynność powinien wykonać m-TVGuide jeśli włączony jest limit czasu.
+__________________________________________________________________
+
+- [B]Pokaż panel nawigacyjny dla myszy lub urządzenia dotykowego[/B] [COLOR dimgrey][pokazpanel][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wirtualne przyciski będą wyświetlane dla myszy lub touchpada.
+
+- [B]Zapamiętaj listę ulubionych[/B] [COLOR dimgrey][categories.remember][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Zapamiętaj ostatnio używaną listę ulubionych.
+
+- [B]Ustaw klawisze[/B] [COLOR dimgrey][RunScript($CWD/setkey.py)][/COLOR]
+Ustaw skróty klawiszowe dla różnych akcji.
+
+- [B]Włącz ustalenie kolejności kanałów wg numeru[/B] [COLOR dimgrey][channel.shortcut][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wybór kanału wg numeru i wyświetlanie cyfr w EPG.
+
+- [B]Odtwarzanie kanału[/B] [COLOR dimgrey][channel.shortcut.behaviour][/COLOR]
+(Nie odtwarzaj, Odtwarzaj)
+Jakie działanie podjąć przy wprowadzeniu numeru w EPG.
+__________________________________________________________________
+
+[COLOR gold][B]Wideo[/B][/COLOR]
+
+- [B]Animacja maksymalizacji okna odtwarzania[/B] [COLOR dimgrey][start_video_minimalized][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Włącza odtwarzanie pełnoekranowego dla materiału wideo. Na systemach Android należy wyłączyć te ustawienie aby wyświetlane były napisy.
+
+- [B]Zatrzymaj odtwarzanie przyciskiem wstecz[/B] [COLOR dimgrey][navi_back_stop_play][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Po naciśnięciu przycisku wstecz zatrzyma odtwarzanie i powróci do ekranu głównego. Przy wyłączonej opcji będzie działać jako funkcja obraz w obrazie.
+__________________________________________________________________
+
+[COLOR blue][B]OSD[/B][/COLOR]
+
+- [B]Pokaż OSD[/B] [COLOR dimgrey][info.OSD][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Spowoduje to wyświetlenie on screen display po rozpoczęciu odtwarzania.
+
+- [B]Czas wyświetlania OSD (sek)[/B] [COLOR dimgrey][OSD_time][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Czas wyświetlania on screen display (w sekundach).
+__________________________________________________________________
+
+[COLOR blue][B]Przyciski OSD[/B][/COLOR]
+
+- [B]OSD przy wyborze[/B] [COLOR dimgrey][VidOSD_on_select][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Jeśli opcja jest włączona wyświetli przewodnik w OSD po naciśnięciu przycisku wyboru, jeśli wyłączone pojawi się okno informacyjne.
+
+- [B]Wyświetlaj dodatkowe przyciski w OSD[/B] [COLOR dimgrey][show_OSD_buttons][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Aktywuje wirtualne przyciski na OSD aby ułatwić nawigację.
+
+- [B]Nawigacja w OSD poprzedni, następny program[/B] [COLOR dimgrey][key_right_left_show_next][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Możliwość nawigacji po kanałach w OSD.
+__________________________________________________________________
+
+[COLOR blue][B]Auto OSD[/B][/COLOR]
+
+- [B]Automatycznie pokazuj OSD po uruchomieniu programu[/B] [COLOR dimgrey][show_OSD_on_play][/COLOR]
+[I](Włącz, wyłącz)[/I]
+OSD pokaże się automatycznie po rozpoczęciu odtwarzania.
+
+- [B]Czas wyświetlania automatycznego OSD (sek)[/B] [COLOR dimgrey][OSD_on_play_time][/COLOR]
+Czas wyświetlenia automatycznego OSD (w sekundach).
+
+- [B]Wyświetlanie OSD podczas przełączania strumieni[/B] [COLOR dimgrey][OSD_on_stream_change][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wyświetl OSD podczas zamiany kanału.
+__________________________________________________________________
+
+- [B]Wyświetlaj nazwę serwisu na OSD[/B] [COLOR dimgrey][show_service_name][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wyświetlaj nazwę usługodawcy gdy wyświetlane jest OSD.
+__________________________________________________________________
+
+[COLOR gold][B]Baza[/B][/COLOR]
+
+- [B]Wyślij log Kodi[/B] [COLOR dimgrey][RunScript($CWD/logUploader.py, primary)][/COLOR]
+Prześlij log podając link wyświetlany w oknie aby uzyskać pomoc od administratora mods-kodi z błędem w m-TVGuide.
+
+- [B]Wyczyść wszystkie przypomnienia...[/B] [COLOR dimgrey][RunScript($CWD/notification.py)][/COLOR]
+Usuwa wszystkie przypomnienia w m-TVGuide.
+
+- [B]Wyczyść wszystkie zaplanowane nagrywania...[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, clearRecordings)][/COLOR]
+Usuwa wszystkie zaplanowane nagrania w m-TVGuide.
+
+- [B]Eksportuj ustawienia[/B] [COLOR dimgrey][RunScript($CWD/settingsImportExport.py, Export)][/COLOR]
+Wykonaj kopię zapasową ustawień m-TVGuide.
+
+- [B]Importuj ustawienia[/B] [COLOR dimgrey][RunScript($CWD/settingsImportExport.py, Import)][/COLOR]
+Importuj ustawienia które zostały zarchiwizowane.
+
+- [B]Usuń przypisane strumienie[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, clearCustom)][/COLOR]
+Usuń wszystkie strumienie które zostały ręcznie przypisane.
+
+- [B]Wyczyść bazę[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, clearAll)][/COLOR]
+Zresetowanie bazy danych spowoduje utratę wszystkich ustawień, może być pomocne w przypadku uszkodzonego pliku danych.
+
+- [B]Usuń plik bazy z dysku[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, deleteDbFile)][/COLOR]
+Usuń plik bazy danych.
+
+- [B]Usuń wszystkie ustawienia[/B] [COLOR dimgrey][RunScript($CWD/cleardb.py, deleteAll)][/COLOR]
+Resetuje ustawienia m-TVGuide.
+__________________________________________________________________
+
+[COLOR gold][B]Nagrywanie[/B][/COLOR]
+
+- [B]Pobierz aplikacje do nagrywania[/B] [COLOR dimgrey][download_record_app][/COLOR]
+Aby móc nagrać co kolwiek, należy najpierw pobrać oprogramowanie nagrywające a następnie wybrać system i potwierdzić instalację.
+
+- [B]Folder zapisu nagrań[/B] [COLOR dimgrey][record.folder][/COLOR]
+Podaj lokalizację w której będą zapisywane nagrania.
+
+- [B]Importuj RTMPDUMP[/B] [COLOR dimgrey][rtmpdumpExe][/COLOR]
+[I](Wybierz)[/I]
+Lokalizacja oprogramowania RTMPDUMP. Można ręcznie zmienić lokalizację dla oprogramowania RTMPDUMP.
+
+- [B]Importuj FFMPEG[/B] [COLOR dimgrey][ffmpegExe][/COLOR]
+[I](Wybierz)[/I]
+Lokalizacja oprogramowania FFMPEG. Można ręcznie zmienić lokalizację dla oprogramowania FFMPEG.
+
+- [B]Korzystaj z FFMPEG do nagrywania RTMP zamiast RTMPDUMP[/B] [COLOR dimgrey][use_only_ffmpeg][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Wybierz protokół real time messaging, który będzie używany do nagrań.
+
+- [B]Zatrzymaj odtwarzanie podczas rozpoczęcia nagrywania[/B] [COLOR dimgrey][record_stop_playback][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Po uruchomieniu nagrania, strumień już nie będzie dostępny do oglądania.
+
+- [B]Maksymalna ilość prób wznowienia nagrywania[/B] [COLOR dimgrey][max_reattempts][/COLOR]
+Liczba uruchomień nagrywania, gdy odtwarzanie zostanie zatrzymane.
+
+- [B]Usuwanie obejrzanych nagrań[/B] [COLOR dimgrey][ask_to_delete_watched][/COLOR]
+[I](Zapytaj, Automatycznie usuwaj, Nic nie rób)[/I]
+Okno z prośbą o usunięcie oglądanych nagrań.
+__________________________________________________________________
+
+[COLOR gold][B]Lista[/B][/COLOR]
+
+- [B]Zawieraj opis w wyszukiwaniu tytułu[/B] [COLOR dimgrey][program.search.plot][/COLOR]
+Podczas wyszukiwania tytułów zostanie również wyszukiwany opis, tak jak można się spodziewać po większości wyszukiwań w internecie.
+
+- [B]Lista przyszłych dni[/B] [COLOR dimgrey][listing.days][/COLOR]
+Ile dni ma być wyświetlanych w liscie.
+
+- [B]Lista poprzednich godzin[/B] [COLOR dimgrey][listing.hours][/COLOR]
+Ile poprzednich godzin ma być wyświetlanych w liscie.
+
+- [B]Sortuj listę według czasu[/B] [COLOR dimgrey][listing.sort.time][/COLOR]
+[I](Włącz, wyłącz)[/I]
+Programy są sortowane według czasu, a następnie według kanału.
+__________________________________________________________________
+
+[COLOR gold][B]Wygląd[/B][/COLOR]
+
+- [B]Skórka[/B] [COLOR dimgrey][RunScript($CWD/skins.py, SelectSkin)][/COLOR]
+Wybierz skórkę dla m-TVGuide.
+
+- [B]Usuń wszystkie skórki[/B] [COLOR dimgrey][RunScript($CWD/skins.py, DeleteSkins)][/COLOR]
+Usuwa wszystkie skórki zapisane lokalnie.
+__________________________________________________________________
+
+[COLOR gold][B]Kolory[/B][/COLOR]
+
+- [B]Kolory kategorii[/B] [COLOR dimgrey][color.category][/COLOR]
+Wybierz kolor dla różnych kategorii.
+
+- [B]Podstawowe kolory[/B] [COLOR dimgrey][color.highlight][/COLOR]
+Wybierz kolor dla aktywnego podświetlenia.
+__________________________________________________________________
+
+[COLOR gold][B]Aktualizacja[/B][/COLOR]
+
+- [B]Sprawdź aktualizacje[/B] [COLOR dimgrey][UpdateAddonRepos][/COLOR]
+Aktualizuje m-TVGuide do najnowszej wersji z repozytorium.</string>
+
+	<string id="99999">[COLOR gold][B]Projekt m-TVGuide[/B][/COLOR]
+
+Stworzyliśmy ten projekt w 2013 r. starając się zapewnić ludziom jeszcze lepsze wrażenie podczas oglądania telewizji. Projekt polegał na modyfikacji wtyczki TV-Guide która została stworzona przez Twinthera.
+
+m-TVGuide urosło wśród publiczności będąc jednym z największych przewodników telewizyjnych dla Kodi. Kontynuujemy naszą pracę nad doskonaleniem najmniejszych szczegółów tej wtyczki i mamy nadzieję że spodoba wam się to tak samo jak i nam. Dziękujemy za wasze wsparcie.
+__________________________________________________________________
+
+[COLOR blue][B]Członkowie mods-kodi[/B][/COLOR]
+
+- [I]Micnor [COLOR dimgrey]("Główny redaktor")[/COLOR][/I]
+- [I]Mleczan[/I]
+- [I]Moras86[/I]
+- [I]Mariusz89B[/I]
+- [I]Daniel[/I]
+- [I]JonnyCage[/I]
+- [I]Kemir71[/I]
+__________________________________________________________________
+
+[COLOR blue][B]Dziękujemy za pomoc[/B][/COLOR]
+
+- [I]Szakalit[/I]
+- [I]Pgawronski[/I]
+- [I]Maly95[/I]
+- [I]Zaqwa[/I]
+- [I]Kapiszon53[/I]
+
+Odwiedź nas na Facebooku
+[I]https://www.facebook.com/modskodi/[/I]
+
+[COLOR dimgrey]Copyright mods-kodi.pl © 2013 - 2018[/COLOR]</string>
+</strings>

@@ -1,0 +1,5 @@
+[COLOR gold]wersja 0.1.2[/COLOR]
+- aktualizacja grafik
+
+[COLOR gold]wersja 0.1.1[/COLOR]
+- uruchomienie repozytorium
