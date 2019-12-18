@@ -1,18 +1,18 @@
 <settings version="2">
     <setting id="addon_debug">true</setting>
-    <setting id="adult" default="true">false</setting>
+    <setting id="adult">true</setting>
     <setting id="auto-view">true</setting>
     <setting id="autoclean" default="true">false</setting>
     <setting id="autocleanfreq">3</setting>
     <setting id="autocleanwiz">true</setting>
     <setting id="buildname">MWUBuild Alpha</setting>
     <setting id="buildtheme" default="true"></setting>
-    <setting id="buildversion">0.0.2</setting>
+    <setting id="buildversion">0.0.3</setting>
     <setting id="clearcache" default="true">false</setting>
     <setting id="clearpackages" default="true">false</setting>
     <setting id="clearthumbs" default="true">false</setting>
     <setting id="crashlog" default="true">false</setting>
-    <setting id="debridlastsave">2019-12-19</setting>
+    <setting id="debridlastsave">2019-12-21</setting>
     <setting id="debuglevel">2</setting>
     <setting id="default.addonupdate">0</setting>
     <setting id="default.enablerssfeeds">false</setting>
@@ -77,8 +77,8 @@
     <setting id="keeptrakt">true</setting>
     <setting id="keepwhitelist" default="true">false</setting>
     <setting id="kitsu-wonderfulsubs" default="true"></setting>
-    <setting id="lastbuildcheck">2019-12-18 18:35:21.931000</setting>
-    <setting id="latestversion">0.0.2</setting>
+    <setting id="lastbuildcheck">2019-12-18 21:10:12.646000</setting>
+    <setting id="latestversion">0.0.3</setting>
     <setting id="location-yahoo" default="true"></setting>
     <setting id="login-eis" default="true"></setting>
     <setting id="login-iagl" default="true"></setting>
@@ -86,7 +86,7 @@
     <setting id="login-opensubsbyopensubs" default="true"></setting>
     <setting id="login-opensubtitles" default="true"></setting>
     <setting id="login-orion" default="true"></setting>
-    <setting id="loginlastsave">2019-12-19</setting>
+    <setting id="loginlastsave">2019-12-21</setting>
     <setting id="mal-wonderfulsubs" default="true"></setting>
     <setting id="nextautocleanup" default="true"></setting>
     <setting id="nextcleandate">2019-12-19</setting>
@@ -107,7 +107,7 @@
     <setting id="rurlpm" default="true"></setting>
     <setting id="rurlrd" default="true"></setting>
     <setting id="scrubs" default="true"></setting>
-    <setting id="separate" default="true">false</setting>
+    <setting id="separate">true</setting>
     <setting id="seren" default="true"></setting>
     <setting id="serenad" default="true"></setting>
     <setting id="serenpm" default="true"></setting>
@@ -136,7 +136,7 @@
     <setting id="trakt" default="true"></setting>
     <setting id="trakt-openmeta" default="true"></setting>
     <setting id="trakt-seren" default="true"></setting>
-    <setting id="traktlastsave">2019-12-19</setting>
+    <setting id="traktlastsave">2019-12-21</setting>
     <setting id="tvdb-metahandler">2B8557E0CBF7D720</setting>
     <setting id="tvdb-openmeta" default="true"></setting>
     <setting id="tvdb-premiumizer" default="true"></setting>

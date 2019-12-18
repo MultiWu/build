@@ -91,7 +91,7 @@
     <setting id="locale.timezone" default="true">default</setting>
     <setting id="locale.timezonecountry" default="true">default</setting>
     <setting id="locale.use24hourclock" default="true">regional</setting>
-    <setting id="lookandfeel.enablerssfeeds" default="true">false</setting>
+    <setting id="lookandfeel.enablerssfeeds">true</setting>
     <setting id="lookandfeel.font" default="true">Default</setting>
     <setting id="lookandfeel.rssedit" default="true"></setting>
     <setting id="lookandfeel.skin">skin.xonfluence</setting>
@@ -325,7 +325,7 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>46</systemtotaluptime>
+        <systemtotaluptime>58</systemtotaluptime>
         <settinglevel>1</settinglevel>
         <eventlog>
             <level>0</level>
