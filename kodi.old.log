@@ -1,1080 +1,524 @@
-﻿2019-12-16 20:26:19.927 T:2976  NOTICE: -----------------------------------------------------------------------
-2019-12-16 20:26:19.928 T:2976  NOTICE: Starting Kodi (18.5 Git:20191116-37f51f6e63). Platform: Windows NT x86 64-bit
-2019-12-16 20:26:19.928 T:2976  NOTICE: Using Release Kodi x64 build
-2019-12-16 20:26:19.928 T:2976  NOTICE: Kodi compiled 2019-11-16 by MSVC 191627034 for Windows NT x86 64-bit version 10.0 (0x0A000006)
-2019-12-16 20:26:19.928 T:2976  NOTICE: Running on Windows 10, kernel: Windows NT x86 64-bit version 10.0.18362
-2019-12-16 20:26:19.928 T:2976  NOTICE: FFmpeg version/source: 4.0.4-Kodi
-2019-12-16 20:26:19.928 T:2976  NOTICE: Host CPU: Intel(R) Xeon(R) CPU E5450 @ 3.00GHz, 4 cores available
-2019-12-16 20:26:19.933 T:2976  NOTICE: Desktop Resolution: 1440x900 32Bit at 60Hz
-2019-12-16 20:26:19.933 T:2976  NOTICE: Running with restricted rights
-2019-12-16 20:26:19.933 T:2976  NOTICE: Aero is enabled
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://xbmc/ is mapped to: C:\Program Files\Kodi
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files\Kodi
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files\Kodi/addons
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://masterprofile/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://home/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://temp/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\cache
-2019-12-16 20:26:19.933 T:2976  NOTICE: special://logpath/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\
-2019-12-16 20:26:19.933 T:2976  NOTICE: The executable running is: C:\Program Files\Kodi\kodi.exe
-2019-12-16 20:26:19.937 T:2976  NOTICE: Local hostname: DESKTOP-PAD9FNL
-2019-12-16 20:26:19.937 T:2976  NOTICE: Log File is located: C:\Users\Oliwier\AppData\Roaming\Kodi\kodi.log
-2019-12-16 20:26:19.937 T:2976  NOTICE: -----------------------------------------------------------------------
-2019-12-16 20:26:19.939 T:2976    INFO: loading settings
-2019-12-16 20:26:19.941 T:2976  NOTICE: special://profile/ is mapped to: special://masterprofile/
-2019-12-16 20:26:19.959 T:2976   DEBUG: CSkinSettings: no <skinsettings> tag found
-2019-12-16 20:26:19.959 T:2976  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
-2019-12-16 20:26:19.959 T:2976  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
-2019-12-16 20:26:19.959 T:2976  NOTICE: Default Video Player: VideoPlayer
-2019-12-16 20:26:19.959 T:2976  NOTICE: Default Audio Player: paplayer
-2019-12-16 20:26:19.959 T:2976  NOTICE: Disabled debug logging due to GUI setting. Level 0.
-2019-12-16 20:26:19.959 T:2976  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
-2019-12-16 20:26:19.959 T:2976  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
-2019-12-16 20:26:20.027 T:2976  NOTICE: Running database version Addons27
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: game.controller.default v1.0.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: game.controller.snes v1.0.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: hellyrepo.kodi v0.2.6 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.global.main v1.0.14 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.game v1.1.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.pvr v5.10.3 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: kodi.resource v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.album.universal v3.1.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.artists.universal v4.3.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.common.allmusic.com v3.2.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.common.fanart.tv v3.6.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.common.imdb.com v3.1.4 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.common.musicbrainz.org v2.2.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.common.theaudiodb.com v2.0.3 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.common.themoviedb.org v3.1.10 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.local v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.themoviedb.org v5.1.10 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: metadata.tvshows.themoviedb.org v3.4.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: peripheral.joystick v1.4.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: plugin.program.multiwuwizard v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: plugin.video.exodusredux v2.0.3a installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: plugin.video.usbwizard v1.2.9 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: repository.exodusredux v0.0.9 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: repository.host505 v2.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: repository.mods-kodi v0.1.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: repository.xbmc.org v3.1.6 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: repository.xbmchub v3.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: resource.images.studios.white v0.0.24 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: resource.language.pl_pl v9.0.16 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.33 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.58 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.exodusredux.artwork v1.0.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.exodusredux.metadata v1.0.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.extendedinfo v5.6.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.favourites v7.1.3 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.addon.common v2.0.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.addon.signals v0.0.5 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.autocompletion v1.1.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.beautifulsoup4 v4.6.2 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.certifi v2019.9.11 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.chardet v3.0.4 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.dateutil v2.8.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.elementtree v1.2.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.exodusredux v2.0.5 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.idna v2.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.kodi65 v1.2.1 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.metahandler v3.99.02 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.myconnpy v1.1.7 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.oathscrapers v0.5.8 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.openscrapers v0.0.1.99a installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.pil v1.1.7 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.requests v2.22.0 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.resolveurl v5.0.36 installed
-2019-12-16 20:26:20.816 T:2976  NOTICE: ADDON: script.module.routing v0.2.3 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.module.simplejson v3.16.1 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.module.six v1.13.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.module.urllib3 v1.25.6 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.module.youtube.dl v19.912.1 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.mtvguide v8.1.4 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.randomandlastitems v2.2.2 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.theoath.artwork v1.0.7 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: script.theoath.metadata v1.0.2 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: service.library.data.provider v0.3.2 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: service.skin.widgets v0.0.33 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: service.xbmc.versioncheck v0.4.7 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: skin.estouchy v2.0.27 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: skin.estuary v2.0.26 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: skin.xonfluence v4.0.10 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: webinterface.default v18.x-2.4.6 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.addon v18.5.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.core v0.1.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.gui v5.14.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.json v10.3.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.python v2.26.0 installed
-2019-12-16 20:26:20.817 T:2976  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
-2019-12-16 20:26:20.890 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.891 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD_MA" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.891 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_TRUEHD" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.891 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_EAC3" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.892 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTS" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.892 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_AC3" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.895 T:10440  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: sample rate 192khz on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
-2019-12-16 20:26:20.920 T:10440  NOTICE: Found 2 Lists of Devices
-2019-12-16 20:26:20.920 T:10440  NOTICE: Enumerated DIRECTSOUND devices:
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 1
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {2260B3D5-F7D5-495D-A2F0-77BCC75B5580}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Microphone)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Steam Streaming Microphone)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 48000
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : No passthrough capabilities
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 2
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {3030490C-1641-48AD-B29B-6F65C54BE3CE}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : Speakers - Głośniki (High Definition Audio Device)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (High Definition Audio Device)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 48000
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : No passthrough capabilities
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 3
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : default
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : default
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra:
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 48000
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : No passthrough capabilities
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 4
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {802D3C7E-E6F9-490E-B637-5BFFF187A323}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : HDMI - 916W (NVIDIA High Definition Audio)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra: DIRECTSOUND: 916W (NVIDIA High Definition Audio)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 48000
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 5
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {87E1AAD6-1084-4AFE-B4AF-1552229F30BF}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Speakers)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Steam Streaming Speakers)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 48000
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 6
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {AA1454AA-71F9-46C7-95DE-7FC3DE280747}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (High Definition Audio Device)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra: DIRECTSOUND: Digital Audio (S/PDIF) (High Definition Audio Device)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 48000
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
-2019-12-16 20:26:20.920 T:10440  NOTICE: Enumerated WASAPI devices:
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 1
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {2260B3D5-F7D5-495D-A2F0-77BCC75B5580}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Microphone)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Steam Streaming Microphone)
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_streamTypes     : No passthrough capabilities
-2019-12-16 20:26:20.920 T:10440  NOTICE:     Device 2
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_deviceName      : {3030490C-1641-48AD-B29B-6F65C54BE3CE}
-2019-12-16 20:26:20.920 T:10440  NOTICE:         m_displayName     : Speakers - Głośniki (High Definition Audio Device)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (High Definition Audio Device)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : No passthrough capabilities
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 3
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra:
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : No passthrough capabilities
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 4
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : {802D3C7E-E6F9-490E-B637-5BFFF187A323}
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : HDMI - 916W (NVIDIA High Definition Audio)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra: WASAPI: 916W (NVIDIA High Definition Audio)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,48000,44100,32000
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 5
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra:
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,48000,44100,32000
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 6
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : {87E1AAD6-1084-4AFE-B4AF-1552229F30BF}
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Speakers)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Steam Streaming Speakers)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8,AE_FMT_RAW
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 7
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra:
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8,AE_FMT_RAW
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 8
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : {AA1454AA-71F9-46C7-95DE-7FC3DE280747}
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (High Definition Audio Device)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra: WASAPI: Digital Audio (S/PDIF) (High Definition Audio Device)
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
-2019-12-16 20:26:20.921 T:10440  NOTICE:     Device 9
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceName      : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayName     : default
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_displayNameExtra:
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_channels        : FL, FR
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
-2019-12-16 20:26:20.921 T:10440  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
-2019-12-16 20:26:21.212 T:2976  NOTICE: Primary mode: Generic PnP Monitor #1: 1440x900 @ 60.00Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 60.00Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 72.00Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 75.00Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 720x480 @ 60.00Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 720x480 @ 59.94Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 56.00Hz
-2019-12-16 20:26:21.213 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 60.00Hz
-2019-12-16 20:26:21.214 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 72.00Hz
-2019-12-16 20:26:21.214 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 75.00Hz
-2019-12-16 20:26:21.214 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 56.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 60.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 72.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 75.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 60.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 70.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 75.00Hz
-2019-12-16 20:26:21.215 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1152x864 @ 75.00Hz
-2019-12-16 20:26:21.216 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1176x664 @ 60.00Hz
-2019-12-16 20:26:21.216 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1176x664 @ 59.94Hz
-2019-12-16 20:26:21.216 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x720 @ 60.00Hz
-2019-12-16 20:26:21.216 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x720 @ 59.94Hz
-2019-12-16 20:26:21.216 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x768 @ 60.00Hz
-2019-12-16 20:26:21.217 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x768 @ 75.00Hz
-2019-12-16 20:26:21.217 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x800 @ 60.00Hz
-2019-12-16 20:26:21.217 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x800 @ 75.00Hz
-2019-12-16 20:26:21.218 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x960 @ 60.00Hz
-2019-12-16 20:26:21.218 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 60.00Hz
-2019-12-16 20:26:21.218 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 75.00Hz
-2019-12-16 20:26:21.218 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1360x768 @ 60.00Hz
-2019-12-16 20:26:21.219 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1360x768 @ 75.00Hz
-2019-12-16 20:26:21.219 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1366x768 @ 60.00Hz
-2019-12-16 20:26:21.220 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1366x768 @ 75.00Hz
-2019-12-16 20:26:21.220 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x900 @ 60.00Hz
-2019-12-16 20:26:21.220 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x900 @ 59.94Hz
-2019-12-16 20:26:21.220 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x1024 @ 60.00Hz
-2019-12-16 20:26:21.221 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x1024 @ 59.94Hz
-2019-12-16 20:26:21.221 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 60.00Hz
-2019-12-16 20:26:21.221 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 59.94Hz
-2019-12-16 20:26:21.222 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1768x992 @ 60.00Hz
-2019-12-16 20:26:21.222 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1768x992 @ 59.94Hz
-2019-12-16 20:26:21.222 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 60.00Hz
-2019-12-16 20:26:21.222 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 59.94Hz
-2019-12-16 20:26:21.222 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1440x900 @ 60.00Hz
-2019-12-16 20:26:21.223 T:2976  NOTICE: Additional mode: Generic PnP Monitor #1: 1440x900 @ 75.00Hz
-2019-12-16 20:26:21.223 T:2976  NOTICE: Checking resolution 16
-2019-12-16 20:26:21.743 T:2976 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:26:21.945 T:2976   ERROR: POParser: missing msgstr line in entry. Failed entry: 
+﻿2019-12-18 13:57:26.712 T:11828  NOTICE: -----------------------------------------------------------------------
+2019-12-18 13:57:26.712 T:11828  NOTICE: Starting Kodi (18.5 Git:20191116-37f51f6e63). Platform: Windows NT x86 64-bit
+2019-12-18 13:57:26.712 T:11828  NOTICE: Using Release Kodi x64 build
+2019-12-18 13:57:26.712 T:11828  NOTICE: Kodi compiled 2019-11-16 by MSVC 191627034 for Windows NT x86 64-bit version 10.0 (0x0A000006)
+2019-12-18 13:57:26.712 T:11828  NOTICE: Running on Windows 10, kernel: Windows NT x86 64-bit version 10.0.18362
+2019-12-18 13:57:26.712 T:11828  NOTICE: FFmpeg version/source: 4.0.4-Kodi
+2019-12-18 13:57:26.712 T:11828  NOTICE: Host CPU: Intel(R) Xeon(R) CPU E5450 @ 3.00GHz, 4 cores available
+2019-12-18 13:57:26.713 T:11828  NOTICE: Desktop Resolution: 1440x900 32Bit at 60Hz
+2019-12-18 13:57:26.713 T:11828  NOTICE: Running with restricted rights
+2019-12-18 13:57:26.713 T:11828  NOTICE: Aero is enabled
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://xbmc/ is mapped to: C:\Program Files\Kodi
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files\Kodi
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files\Kodi/addons
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://masterprofile/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://home/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://temp/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\cache
+2019-12-18 13:57:26.713 T:11828  NOTICE: special://logpath/ is mapped to: C:\Users\Oliwier\AppData\Roaming\Kodi\
+2019-12-18 13:57:26.713 T:11828  NOTICE: The executable running is: C:\Program Files\Kodi\kodi.exe
+2019-12-18 13:57:26.717 T:11828  NOTICE: Local hostname: DESKTOP-PAD9FNL
+2019-12-18 13:57:26.717 T:11828  NOTICE: Log File is located: C:\Users\Oliwier\AppData\Roaming\Kodi\kodi.log
+2019-12-18 13:57:26.717 T:11828  NOTICE: -----------------------------------------------------------------------
+2019-12-18 13:57:26.719 T:11828    INFO: loading settings
+2019-12-18 13:57:26.726 T:11828  NOTICE: special://profile/ is mapped to: special://masterprofile/
+2019-12-18 13:57:26.743 T:11828   DEBUG: CSkinSettings: no <skinsettings> tag found
+2019-12-18 13:57:26.744 T:11828  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2019-12-18 13:57:26.744 T:11828  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+2019-12-18 13:57:26.744 T:11828  NOTICE: Default Video Player: VideoPlayer
+2019-12-18 13:57:26.744 T:11828  NOTICE: Default Audio Player: paplayer
+2019-12-18 13:57:26.744 T:11828  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+2019-12-18 13:57:26.744 T:11828  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+2019-12-18 13:57:26.744 T:11828  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+2019-12-18 13:57:26.830 T:11828  NOTICE: Running database version Addons27
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: game.controller.default v1.0.8 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: game.controller.snes v1.0.8 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: hellyrepo.kodi v0.2.6 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.global.main v1.0.14 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.game v1.1.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.8 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.pvr v5.10.3 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: kodi.resource v1.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.album.universal v3.1.2 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.artists.universal v4.3.2 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.common.allmusic.com v3.2.1 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.common.fanart.tv v3.6.2 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.common.imdb.com v3.1.4 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.common.musicbrainz.org v2.2.1 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.common.theaudiodb.com v2.0.3 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.common.themoviedb.org v3.1.10 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.local v1.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.themoviedb.org v5.1.10 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: metadata.tvshows.themoviedb.org v3.4.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: peripheral.joystick v1.4.8 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: plugin.program.multiwuwizard v1.0.0 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: plugin.video.exodusredux v2.0.3a installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: plugin.video.usbwizard v1.2.9 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: plugin.video.youtube v6.5.2 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: repository.exodusredux v0.0.9 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: repository.host505 v2.2 installed
+2019-12-18 13:57:27.706 T:11828  NOTICE: ADDON: repository.mods-kodi v0.1.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: repository.multiwu v1.0.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: repository.xbmc.org v3.1.6 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: repository.xbmchub v3.0.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: resource.images.skinbackgrounds.xonfluence v0.0.1 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: resource.images.studios.white v0.0.24 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: resource.language.pl_pl v9.0.16 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.33 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.58 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.exodusredux.artwork v1.0.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.exodusredux.metadata v1.0.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.extendedinfo v5.6.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.favourites v7.1.3 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.addon.common v2.0.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.addon.signals v0.0.5 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.autocompletion v1.1.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.beautifulsoup4 v4.6.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.certifi v2019.9.11 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.chardet v3.0.4 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.dateutil v2.8.1 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.elementtree v1.2.8 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.exodusredux v2.0.5 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.idna v2.8 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.kodi65 v1.2.1 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.metahandler v3.99.02 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.myconnpy v1.1.7 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.oathscrapers v0.5.8 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.openscrapers v0.0.1.99a installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.pil v1.1.7 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.requests v2.22.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.resolveurl v5.0.36 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.routing v0.2.3 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.simplejson v3.16.1 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.six v1.13.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.urllib3 v1.25.6 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.module.youtube.dl v19.912.1 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.mtvguide v8.1.4 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.randomandlastitems v2.2.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.theoath.artwork v1.0.7 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: script.theoath.metadata v1.0.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: service.library.data.provider v0.3.2 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: service.skin.widgets v0.0.33 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: service.xbmc.versioncheck v0.4.7 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: skin.estouchy v2.0.27 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: skin.estuary v2.0.26 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: skin.xonfluence v4.0.10 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: webinterface.default v18.x-2.4.6 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.addon v18.5.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.core v0.1.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.gui v5.14.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.json v10.3.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.python v2.26.0 installed
+2019-12-18 13:57:27.707 T:11828  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
+2019-12-18 13:57:27.786 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.787 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTSHD_MA" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.787 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_TRUEHD" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.788 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_EAC3" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.788 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_DTS" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.789 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: stream type "STREAM_TYPE_AC3" on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.792 T:11804  NOTICE: CAESinkWASAPI::EnumerateDevicesEx: sample rate 192khz on device "916W (NVIDIA High Definition Audio)" seems to be not supported.
+2019-12-18 13:57:27.819 T:11804  NOTICE: Found 2 Lists of Devices
+2019-12-18 13:57:27.819 T:11804  NOTICE: Enumerated DIRECTSOUND devices:
+2019-12-18 13:57:27.819 T:11804  NOTICE:     Device 1
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceName      : {2260B3D5-F7D5-495D-A2F0-77BCC75B5580}
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Microphone)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Steam Streaming Microphone)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_sampleRates     : 48000
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-18 13:57:27.819 T:11804  NOTICE:     Device 2
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceName      : {3030490C-1641-48AD-B29B-6F65C54BE3CE}
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayName     : Speakers - Głośniki (High Definition Audio Device)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (High Definition Audio Device)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_sampleRates     : 48000
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-18 13:57:27.819 T:11804  NOTICE:     Device 3
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceName      : default
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayName     : default
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayNameExtra:
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_sampleRates     : 48000
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-18 13:57:27.819 T:11804  NOTICE:     Device 4
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceName      : {802D3C7E-E6F9-490E-B637-5BFFF187A323}
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayName     : HDMI - 916W (NVIDIA High Definition Audio)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayNameExtra: DIRECTSOUND: 916W (NVIDIA High Definition Audio)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_sampleRates     : 48000
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+2019-12-18 13:57:27.819 T:11804  NOTICE:     Device 5
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceName      : {87E1AAD6-1084-4AFE-B4AF-1552229F30BF}
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Speakers)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Steam Streaming Speakers)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_sampleRates     : 48000
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+2019-12-18 13:57:27.819 T:11804  NOTICE:     Device 6
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceName      : {AA1454AA-71F9-46C7-95DE-7FC3DE280747}
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_displayNameExtra: DIRECTSOUND: Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_sampleRates     : 48000
+2019-12-18 13:57:27.819 T:11804  NOTICE:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_RAW
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512
+2019-12-18 13:57:27.820 T:11804  NOTICE: Enumerated WASAPI devices:
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 1
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : {2260B3D5-F7D5-495D-A2F0-77BCC75B5580}
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Microphone)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Steam Streaming Microphone)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 2
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : {3030490C-1641-48AD-B29B-6F65C54BE3CE}
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : Speakers - Głośniki (High Definition Audio Device)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (High Definition Audio Device)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 3
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : default
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : default
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra:
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : No passthrough capabilities
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 4
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : {802D3C7E-E6F9-490E-B637-5BFFF187A323}
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : HDMI - 916W (NVIDIA High Definition Audio)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra: WASAPI: 916W (NVIDIA High Definition Audio)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,48000,44100,32000
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 5
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : default
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : default
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra:
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,48000,44100,32000
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 6
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : {87E1AAD6-1084-4AFE-B4AF-1552229F30BF}
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : Speakers - Głośniki (Steam Streaming Speakers)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Steam Streaming Speakers)
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8,AE_FMT_RAW
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 7
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceName      : default
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayName     : default
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_displayNameExtra:
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_sampleRates     : 192000,176400,96000,88200,48000,44100,32000,22050,11025
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE3,AE_FMT_S24LE3,AE_FMT_S24BE3,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8,AE_FMT_RAW
+2019-12-18 13:57:27.820 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-18 13:57:27.820 T:11804  NOTICE:     Device 8
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_deviceName      : {AA1454AA-71F9-46C7-95DE-7FC3DE280747}
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_displayName     : SPDIF - Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_displayNameExtra: WASAPI: Digital Audio (S/PDIF) (High Definition Audio Device)
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-18 13:57:27.821 T:11804  NOTICE:     Device 9
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_deviceName      : default
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_displayName     : default
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_displayNameExtra:
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_deviceType      : AE_DEVTYPE_IEC958
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_channels        : FL, FR
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S32NE,AE_FMT_S32LE,AE_FMT_S32BE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_RAW
+2019-12-18 13:57:27.821 T:11804  NOTICE:         m_streamTypes     : STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_TRUEHD,STREAM_TYPE_EAC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_512,STREAM_TYPE_AC3
+2019-12-18 13:57:28.098 T:11828  NOTICE: Primary mode: Generic PnP Monitor #1: 1440x900 @ 60.00Hz
+2019-12-18 13:57:28.098 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 60.00Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 72.00Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 640x480 @ 75.00Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 720x480 @ 60.00Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 720x480 @ 59.94Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 56.00Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 60.00Hz
+2019-12-18 13:57:28.099 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 72.00Hz
+2019-12-18 13:57:28.100 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 720x576 @ 75.00Hz
+2019-12-18 13:57:28.100 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 56.00Hz
+2019-12-18 13:57:28.100 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 60.00Hz
+2019-12-18 13:57:28.100 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 72.00Hz
+2019-12-18 13:57:28.100 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 800x600 @ 75.00Hz
+2019-12-18 13:57:28.100 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 60.00Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 70.00Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1024x768 @ 75.00Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1152x864 @ 75.00Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1176x664 @ 60.00Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1176x664 @ 59.94Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x720 @ 60.00Hz
+2019-12-18 13:57:28.101 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x720 @ 59.94Hz
+2019-12-18 13:57:28.102 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x768 @ 60.00Hz
+2019-12-18 13:57:28.102 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x768 @ 75.00Hz
+2019-12-18 13:57:28.102 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x800 @ 60.00Hz
+2019-12-18 13:57:28.102 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x800 @ 75.00Hz
+2019-12-18 13:57:28.103 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x960 @ 60.00Hz
+2019-12-18 13:57:28.103 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 60.00Hz
+2019-12-18 13:57:28.103 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1280x1024 @ 75.00Hz
+2019-12-18 13:57:28.103 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1360x768 @ 60.00Hz
+2019-12-18 13:57:28.103 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1360x768 @ 75.00Hz
+2019-12-18 13:57:28.103 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1366x768 @ 60.00Hz
+2019-12-18 13:57:28.104 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1366x768 @ 75.00Hz
+2019-12-18 13:57:28.104 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x900 @ 60.00Hz
+2019-12-18 13:57:28.105 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x900 @ 59.94Hz
+2019-12-18 13:57:28.105 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x1024 @ 60.00Hz
+2019-12-18 13:57:28.105 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1600x1024 @ 59.94Hz
+2019-12-18 13:57:28.105 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 60.00Hz
+2019-12-18 13:57:28.106 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1680x1050 @ 59.94Hz
+2019-12-18 13:57:28.106 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1768x992 @ 60.00Hz
+2019-12-18 13:57:28.106 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1768x992 @ 59.94Hz
+2019-12-18 13:57:28.107 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 60.00Hz
+2019-12-18 13:57:28.107 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1920x1080 @ 59.94Hz
+2019-12-18 13:57:28.107 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1440x900 @ 60.00Hz
+2019-12-18 13:57:28.107 T:11828  NOTICE: Additional mode: Generic PnP Monitor #1: 1440x900 @ 75.00Hz
+2019-12-18 13:57:28.107 T:11828  NOTICE: Checking resolution 16
+2019-12-18 13:57:28.542 T:11828 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-18 13:57:28.817 T:11828   ERROR: POParser: missing msgstr line in entry. Failed entry: 
                                             msgctxt "#32613"
                                             msgid "[B]EXODUS REDUX[/B] : Clear All Cache..."
                                             msgid "[B]EXODUS REDUX[/B] : Wyczyść całą pamięć podręczną..."
-2019-12-16 20:26:22.013 T:6480  NOTICE: Running database version Addons27
-2019-12-16 20:26:22.023 T:6480  NOTICE: Running database version ViewModes6
-2019-12-16 20:26:22.047 T:6480  NOTICE: Running database version Textures13
-2019-12-16 20:26:22.131 T:6480  NOTICE: Running database version MyMusic72
-2019-12-16 20:26:22.144 T:6480  NOTICE: Running database version MyVideos116
-2019-12-16 20:26:22.153 T:6480  NOTICE: Running database version TV32
-2019-12-16 20:26:22.161 T:6480  NOTICE: Running database version Epg12
-2019-12-16 20:26:22.188 T:6480 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:26:22.213 T:2976  NOTICE:   load skin from: C:\Users\Oliwier\AppData\Roaming\Kodi\addons\skin.xonfluence (version: 4.0.10)
-2019-12-16 20:26:23.328 T:2976 WARNING: CApplication::Initialize - startup.xml taints init process
-2019-12-16 20:26:23.337 T:2976 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
-2019-12-16 20:26:23.437 T:2976  NOTICE: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Klawiatura (0000:0000)
-2019-12-16 20:26:23.437 T:2976  NOTICE: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mysz (0000:0000)
-2019-12-16 20:26:23.439 T:2976  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
-2019-12-16 20:26:23.450 T:2976  NOTICE: Loaded playercorefactory configuration
-2019-12-16 20:26:23.450 T:2976  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
-2019-12-16 20:26:23.450 T:2976  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
-2019-12-16 20:26:23.453 T:2976 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:26:23.464 T:2976 WARNING: Previous line repeats 1 times.
-2019-12-16 20:26:23.464 T:2976  NOTICE: initialize done
-2019-12-16 20:26:23.464 T:2976  NOTICE: Running the application...
-2019-12-16 20:26:23.492 T:2976  NOTICE: VideoPlayer::OpenFile: special://skin/extras/Intro/KODI-Intro-Video.mp4
-2019-12-16 20:26:23.493 T:4880  NOTICE: Creating InputStream
-2019-12-16 20:26:23.509 T:4880  NOTICE: Creating Demuxer
-2019-12-16 20:26:23.540 T:4880  NOTICE: Opening stream: 0 source: 256
-2019-12-16 20:26:23.540 T:4880  NOTICE: Creating video codec with codec id: 27
-2019-12-16 20:26:23.540 T:4880  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
-2019-12-16 20:26:23.540 T:4880  NOTICE: Creating video thread
-2019-12-16 20:26:23.541 T:4880  NOTICE: Opening stream: 1 source: 256
-2019-12-16 20:26:23.541 T:4880  NOTICE: Finding audio codec for: 86018
-2019-12-16 20:26:23.541 T:9632  NOTICE: running thread: video_thread
-2019-12-16 20:26:23.541 T:4880  NOTICE: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder aac
-2019-12-16 20:26:23.541 T:4880  NOTICE: Creating audio thread
-2019-12-16 20:26:23.541 T:15264  NOTICE: running thread: CVideoPlayerAudio::Process()
-2019-12-16 20:26:23.555 T:15264  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
-2019-12-16 20:26:24.380 T:2976  NOTICE: DXVA::CProcessorHD::InitProcessor: supported deinterlace methods: blend:yes, bob:yes, adaptive:yes, mocomp:no.
-2019-12-16 20:26:24.382 T:2976 WARNING: CWinRenderer::UpdateVideoFilter: chosen scaling method 1 is not supported by renderer
-2019-12-16 20:26:24.597 T:9472  NOTICE: ES: Starting UDP Event server on port 9777
-2019-12-16 20:26:24.597 T:9472  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
-2019-12-16 20:26:24.636 T:9632  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 33333
-2019-12-16 20:26:28.822 T:2976 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
-2019-12-16 20:26:30.399 T:2032 WARNING: Previous line repeats 12 times.
-2019-12-16 20:26:30.399 T:2032 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:26:30.559 T:9632 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
-2019-12-16 20:26:31.878 T:2976 WARNING: Previous line repeats 2 times.
-2019-12-16 20:26:31.878 T:2976 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
-2019-12-16 20:26:32.095 T:9632 WARNING: Previous line repeats 6 times.
-2019-12-16 20:26:32.095 T:9632 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
-2019-12-16 20:26:38.550 T:15264  NOTICE: CVideoPlayerAudio::Process - stream stalled
-2019-12-16 20:26:38.683 T:4880  NOTICE: CVideoPlayer::OnExit()
-2019-12-16 20:26:38.683 T:4880  NOTICE: VideoPlayer: eof, waiting for queues to empty
-2019-12-16 20:26:38.683 T:4880  NOTICE: Closing stream player 1
-2019-12-16 20:26:38.683 T:4880  NOTICE: CDVDMessageQueue(audio)::WaitUntilEmpty
-2019-12-16 20:26:38.683 T:4880  NOTICE: Waiting for audio thread to exit
-2019-12-16 20:26:38.683 T:15264   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
-2019-12-16 20:26:38.683 T:15264  NOTICE: thread end: CVideoPlayerAudio::OnExit()
-2019-12-16 20:26:38.683 T:4880  NOTICE: Closing audio device
-2019-12-16 20:26:38.683 T:4880  NOTICE: Deleting audio codec
-2019-12-16 20:26:38.683 T:4880  NOTICE: Closing stream player 2
-2019-12-16 20:26:38.683 T:4880  NOTICE: CDVDMessageQueue(video)::WaitUntilEmpty
-2019-12-16 20:26:38.683 T:4880  NOTICE: waiting for video thread to exit
-2019-12-16 20:26:38.683 T:9632   ERROR: Got MSGQ_ABORT or MSGO_IS_ERROR return true
-2019-12-16 20:26:38.683 T:9632  NOTICE: thread end: video_thread
-2019-12-16 20:26:38.683 T:4880  NOTICE: deleting video codec
-2019-12-16 20:26:38.727 T:2976  NOTICE: CVideoPlayer::CloseFile()
-2019-12-16 20:26:38.727 T:2976  NOTICE: DXVA::CDecoder::Close: closing decoder.
-2019-12-16 20:26:38.727 T:2976  NOTICE: DXVA: closing decoder context.
-2019-12-16 20:26:38.727 T:2976  NOTICE: VideoPlayer: waiting for threads to exit
-2019-12-16 20:26:38.727 T:2976  NOTICE: VideoPlayer: finished waiting
-2019-12-16 20:26:38.727 T:2976  NOTICE: CVideoPlayer::CloseFile()
-2019-12-16 20:26:38.727 T:2976  NOTICE: VideoPlayer: waiting for threads to exit
-2019-12-16 20:26:38.727 T:2976  NOTICE: VideoPlayer: finished waiting
-2019-12-16 20:26:39.488 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Started
-2019-12-16 20:26:39.490 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Good!
-2019-12-16 20:26:39.497 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [First Run] Skipping Save Data Settings
-2019-12-16 20:26:39.738 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:26:39.747 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Current Build Check] Build Installed: MWUBuild Alpha
-2019-12-16 20:26:39.761 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Update Check] Started
-2019-12-16 20:26:39.789 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:26:39.790 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Check] Build Installed: Checking Updates
-2019-12-16 20:26:39.818 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:26:39.882 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Check Updates] [Installed Version: 1.0.0] [Current Version: 0.0.1]
-2019-12-16 20:26:39.903 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Install Repo] Not Enabled
-2019-12-16 20:26:39.904 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Binary Detection] Eligible Binary Addons to Reinstall
-2019-12-16 20:26:39.905 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] Started
-2019-12-16 20:26:39.935 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:26:39.994 T:11376  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:26:39.994 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] No New Version v1.0.0
-2019-12-16 20:26:39.995 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] Started
-2019-12-16 20:26:40.032 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-2019-12-16 20:26:40.782 T:13448   ERROR: XFILE::CDirectory::GetDirectory - Error getting None
-2019-12-16 20:26:41.176 T:11376   ERROR: Previous line repeats 3 times.
-2019-12-16 20:26:41.176 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-2019-12-16 20:26:41.248 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] id[1] Dismissed
-2019-12-16 20:26:41.256 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Started
-2019-12-16 20:26:41.257 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Install seems to be completed correctly
-2019-12-16 20:26:41.701 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Trakt Data Not Found for Exodus Redux
-2019-12-16 20:26:41.703 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Gaia(plugin.video.gaia) is not installed
-2019-12-16 20:26:41.704 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
-2019-12-16 20:26:41.705 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
-2019-12-16 20:26:41.705 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
-2019-12-16 20:26:41.706 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Realizer(plugin.video.realizer) is not installed
-2019-12-16 20:26:41.707 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
-2019-12-16 20:26:41.708 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Seren(plugin.video.seren) is not installed
-2019-12-16 20:26:41.708 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
-2019-12-16 20:26:41.709 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Trakt(script.trakt) is not installed
-2019-12-16 20:26:41.710 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Venom(plugin.video.venom) is not installed
-2019-12-16 20:26:41.711 T:11376   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
-2019-12-16 20:26:41.712 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Trakt Data
-2019-12-16 20:26:41.739 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
-2019-12-16 20:26:41.740 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
-2019-12-16 20:26:41.741 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
-2019-12-16 20:26:41.742 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
-2019-12-16 20:26:41.743 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren AD(plugin.video.seren) is not installed
-2019-12-16 20:26:41.744 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren RD(plugin.video.seren) is not installed
-2019-12-16 20:26:41.745 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
-2019-12-16 20:26:41.745 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
-2019-12-16 20:26:41.787 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL AD
-2019-12-16 20:26:41.821 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL RD
-2019-12-16 20:26:41.855 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL PM
-2019-12-16 20:26:41.858 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
-2019-12-16 20:26:41.859 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
-2019-12-16 20:26:41.860 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
-2019-12-16 20:26:41.861 T:11376   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
-2019-12-16 20:26:41.862 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Real Debrid Data
-2019-12-16 20:26:41.907 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for Fanart.tv - Exodus Redux
-2019-12-16 20:26:41.909 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
-2019-12-16 20:26:41.910 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-2019-12-16 20:26:41.911 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
-2019-12-16 20:26:41.912 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
-2019-12-16 20:26:41.913 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
-2019-12-16 20:26:41.914 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
-2019-12-16 20:26:41.915 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
-2019-12-16 20:26:41.916 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
-2019-12-16 20:26:41.930 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for IMDb - Exodus Redux
-2019-12-16 20:26:41.931 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
-2019-12-16 20:26:41.932 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-2019-12-16 20:26:41.933 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
-2019-12-16 20:26:41.934 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
-2019-12-16 20:26:41.935 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-2019-12-16 20:26:41.935 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
-2019-12-16 20:26:41.936 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Venom(plugin.video.venom) is not installed
-2019-12-16 20:26:41.937 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-2019-12-16 20:26:41.938 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
-2019-12-16 20:26:41.938 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Netflix(plugin.video.netflix) is not installed
-2019-12-16 20:26:41.939 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-2019-12-16 20:26:41.940 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-2019-12-16 20:26:41.949 T:11376 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:26:42.033 T:11376 WARNING: Previous line repeats 2 times.
-2019-12-16 20:26:42.033 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for OMDb - metahandler
-2019-12-16 20:26:42.034 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-2019-12-16 20:26:42.035 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
-2019-12-16 20:26:42.036 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
-2019-12-16 20:26:42.037 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Orion(script.module.orion) is not installed
-2019-12-16 20:26:42.094 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for TMDb - Exodus Redux
-2019-12-16 20:26:42.110 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for TMDb Login - ExtendedInfo Script
-2019-12-16 20:26:42.111 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
-2019-12-16 20:26:42.113 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-2019-12-16 20:26:42.114 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-2019-12-16 20:26:42.122 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for TMDb - OpenInfo
-2019-12-16 20:26:42.123 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
-2019-12-16 20:26:42.123 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
-2019-12-16 20:26:42.124 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
-2019-12-16 20:26:42.125 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-2019-12-16 20:26:42.126 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Seren(plugin.video.seren) is not installed
-2019-12-16 20:26:42.126 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
-2019-12-16 20:26:42.127 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-2019-12-16 20:26:42.128 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Venom(plugin.video.venom) is not installed
-2019-12-16 20:26:42.129 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
-2019-12-16 20:26:42.129 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Trakt - Seren(plugin.video.seren) is not installed
-2019-12-16 20:26:42.131 T:11376 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:26:42.169 T:11376 WARNING: Previous line repeats 2 times.
-2019-12-16 20:26:42.169 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for TVDB - metahandler
-2019-12-16 20:26:42.170 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
-2019-12-16 20:26:42.171 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
-2019-12-16 20:26:42.172 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
-2019-12-16 20:26:42.173 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Seren(plugin.video.seren) is not installed
-2019-12-16 20:26:42.173 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Yahoo! Weather(weather.yahoo) is not installed
-2019-12-16 20:26:42.174 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-2019-12-16 20:26:42.175 T:11376   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
-2019-12-16 20:26:42.176 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Login Data
-2019-12-16 20:26:42.222 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Started
-2019-12-16 20:26:42.228 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-2019-12-16 20:26:42.234 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Started
-2019-12-16 20:26:42.240 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-2019-12-16 20:26:42.245 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Started
-2019-12-16 20:26:42.251 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-2019-12-16 20:26:42.257 T:11376  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Clean Up] Not Enabled
-2019-12-16 20:27:02.480 T:2976   ERROR: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
-2019-12-16 20:27:02.480 T:2976   ERROR: CSettingString: unknown options filler "timezones" of "locale.timezone"
-2019-12-16 20:27:02.480 T:2976   ERROR: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
-2019-12-16 20:27:02.480 T:2976   ERROR: CSettingString: unknown options filler "timezones" of "locale.timezone"
-2019-12-16 20:27:08.502 T:2976   ERROR: Window Translator: Can't find window gameviewmode
-2019-12-16 20:27:22.234 T:2976   ERROR: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
-2019-12-16 20:27:22.235 T:2976   ERROR: CSettingString: unknown options filler "timezones" of "locale.timezone"
-2019-12-16 20:27:22.235 T:2976   ERROR: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
-2019-12-16 20:27:22.235 T:2976   ERROR: CSettingString: unknown options filler "timezones" of "locale.timezone"
-2019-12-16 20:27:34.698 T:10652  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/:
-2019-12-16 20:27:34.936 T:10652  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:27:35.141 T:10652  NOTICE: Previous line repeats 3 times.
-2019-12-16 20:27:35.141 T:10652  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:27:35.150 T:10652  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
-2019-12-16 20:27:46.321 T:2976  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:27:46.321 T:2976 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:28:21.620 T:2976 WARNING: Previous line repeats 17 times.
-2019-12-16 20:28:21.620 T:2976   ERROR: RunAddon: unknown add-on id 'plugin.program.multiwuwizard', or unexpected add-on type (not a script or plugin).
-2019-12-16 20:28:28.068 T:2976 WARNING: Skin has invalid include: NormalButton1
-2019-12-16 20:28:31.839 T:2976 WARNING: Previous line repeats 2 times.
-2019-12-16 20:28:31.839 T:2976 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
-2019-12-16 20:29:02.516 T:2976 WARNING: Previous line repeats 64 times.
-2019-12-16 20:29:02.516 T:2976 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:29:07.039 T:2976 WARNING: Previous line repeats 3 times.
-2019-12-16 20:29:07.039 T:2976 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 107, because topmost modal dialog closing animation is running
-2019-12-16 20:29:11.147 T:2976 WARNING: Previous line repeats 12 times.
-2019-12-16 20:29:11.147 T:2976 WARNING: CGUIWindowManager - CGUIWindowManager::HandleAction - ignoring action 103, because topmost modal dialog closing animation is running
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: game.controller.default v1.0.8 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: game.controller.snes v1.0.8 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: hellyrepo.kodi v0.2.6 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.global.main v1.0.14 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.game v1.1.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.8 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.pvr v5.10.3 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: kodi.resource v1.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.album.universal v3.1.2 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.artists.universal v4.3.2 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.common.allmusic.com v3.2.1 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.common.fanart.tv v3.6.2 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.common.imdb.com v3.1.4 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.common.musicbrainz.org v2.2.1 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.common.theaudiodb.com v2.0.3 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.common.themoviedb.org v3.1.10 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.local v1.0.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.themoviedb.org v5.1.10 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: metadata.tvshows.themoviedb.org v3.4.0 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: peripheral.joystick v1.4.8 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: plugin.video.exodusredux v2.0.3a installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: plugin.video.usbwizard v1.2.9 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: repository.exodusredux v0.0.9 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: repository.host505 v2.2 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: repository.mods-kodi v0.1.2 installed
-2019-12-16 20:29:13.383 T:10984  NOTICE: ADDON: repository.multiwu v1.0.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: repository.xbmc.org v3.1.6 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: repository.xbmchub v3.0.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: resource.images.studios.white v0.0.24 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: resource.language.pl_pl v9.0.16 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.33 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.58 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.exodusredux.artwork v1.0.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.exodusredux.metadata v1.0.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.extendedinfo v5.6.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.favourites v7.1.3 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.addon.common v2.0.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.addon.signals v0.0.5 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.autocompletion v1.1.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.beautifulsoup4 v4.6.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.certifi v2019.9.11 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.chardet v3.0.4 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.dateutil v2.8.1 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.elementtree v1.2.8 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.exodusredux v2.0.5 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.idna v2.8 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.kodi65 v1.2.1 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.metahandler v3.99.02 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.myconnpy v1.1.7 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.oathscrapers v0.5.8 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.openscrapers v0.0.1.99a installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.pil v1.1.7 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.requests v2.22.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.resolveurl v5.0.36 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.routing v0.2.3 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.simplejson v3.16.1 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.six v1.13.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.urllib3 v1.25.6 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.module.youtube.dl v19.912.1 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.mtvguide v8.1.4 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.randomandlastitems v2.2.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.theoath.artwork v1.0.7 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: script.theoath.metadata v1.0.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: service.library.data.provider v0.3.2 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: service.skin.widgets v0.0.33 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: service.xbmc.versioncheck v0.4.7 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: skin.estouchy v2.0.27 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: skin.estuary v2.0.26 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: skin.xonfluence v4.0.10 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: webinterface.default v18.x-2.4.6 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.addon v18.5.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.core v0.1.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.gui v5.14.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.json v10.3.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.python v2.26.0 installed
-2019-12-16 20:29:13.384 T:10984  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
-2019-12-16 20:29:13.417 T:11520 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:29:30.648 T:10984 WARNING: Previous line repeats 20 times.
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: game.controller.default v1.0.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: game.controller.snes v1.0.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: hellyrepo.kodi v0.2.6 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.global.main v1.0.14 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.game v1.1.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.pvr v5.10.3 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: kodi.resource v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.album.universal v3.1.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.artists.universal v4.3.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.common.allmusic.com v3.2.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.common.fanart.tv v3.6.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.common.imdb.com v3.1.4 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.common.musicbrainz.org v2.2.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.common.theaudiodb.com v2.0.3 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.common.themoviedb.org v3.1.10 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.local v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.themoviedb.org v5.1.10 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: metadata.tvshows.themoviedb.org v3.4.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: peripheral.joystick v1.4.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: plugin.program.multiwuwizard v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: plugin.video.exodusredux v2.0.3a installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: plugin.video.usbwizard v1.2.9 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: repository.exodusredux v0.0.9 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: repository.host505 v2.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: repository.mods-kodi v0.1.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: repository.multiwu v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: repository.xbmc.org v3.1.6 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: repository.xbmchub v3.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: resource.images.studios.white v0.0.24 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: resource.language.pl_pl v9.0.16 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.33 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.58 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.exodusredux.artwork v1.0.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.exodusredux.metadata v1.0.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.extendedinfo v5.6.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.favourites v7.1.3 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.addon.common v2.0.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.addon.signals v0.0.5 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.autocompletion v1.1.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.beautifulsoup4 v4.6.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.certifi v2019.9.11 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.chardet v3.0.4 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.dateutil v2.8.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.elementtree v1.2.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.exodusredux v2.0.5 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.idna v2.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.kodi65 v1.2.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.metahandler v3.99.02 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.myconnpy v1.1.7 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.oathscrapers v0.5.8 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.openscrapers v0.0.1.99a installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.pil v1.1.7 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.requests v2.22.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.resolveurl v5.0.36 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.routing v0.2.3 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.simplejson v3.16.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.six v1.13.0 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.urllib3 v1.25.6 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.module.youtube.dl v19.912.1 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.mtvguide v8.1.4 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.randomandlastitems v2.2.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.theoath.artwork v1.0.7 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: script.theoath.metadata v1.0.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: service.library.data.provider v0.3.2 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: service.skin.widgets v0.0.33 installed
-2019-12-16 20:29:30.648 T:10984  NOTICE: ADDON: service.xbmc.versioncheck v0.4.7 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: skin.estouchy v2.0.27 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: skin.estuary v2.0.26 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: skin.xonfluence v4.0.10 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: webinterface.default v18.x-2.4.6 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.addon v18.5.0 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.core v0.1.0 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.gui v5.14.0 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.json v10.3.0 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.python v2.26.0 installed
-2019-12-16 20:29:30.649 T:10984  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
-2019-12-16 20:29:30.718 T:2976 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:29:31.225 T:2932 WARNING: Previous line repeats 3 times.
-2019-12-16 20:29:31.225 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Started
-2019-12-16 20:29:31.244 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Good!
-2019-12-16 20:29:31.271 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [First Run] Showing Save Data Settings
-2019-12-16 20:29:35.706 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:29:35.732 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Current Build Check] Build Not Installed
-2019-12-16 20:29:40.333 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Current Build Check] [User Selected: Open Build Menu] [Next Check: ]
-2019-12-16 20:29:40.426 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Update Check] Next Check:
-2019-12-16 20:29:40.447 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Install Repo] Not Enabled
-2019-12-16 20:29:40.467 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Binary Detection] Eligible Binary Addons to Reinstall
-2019-12-16 20:29:40.491 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] Started
-2019-12-16 20:29:40.551 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:29:40.656 T:2932  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:29:40.656 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] No New Version v1.0.0
-2019-12-16 20:29:40.691 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] Started
-2019-12-16 20:29:40.780 T:2976   ERROR: Control 50 in window 10001 has been asked to focus, but it can't
-2019-12-16 20:29:41.261 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: builds ]
-2019-12-16 20:29:41.483 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-2019-12-16 20:29:41.518 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:29:41.570 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-2019-12-16 20:29:41.575 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:29:41.619 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] id: 1
-2019-12-16 20:29:41.635 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:29:41.720 T:10984   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
-2019-12-16 20:29:41.728 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:29:41.761 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
-2019-12-16 20:29:41.762 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.guisettings
-2019-12-16 20:29:41.763 T:5856  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:29:41.806 T:6956   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
-2019-12-16 20:30:36.050 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notification] NotifyID 1 Dismissed
-2019-12-16 20:30:36.077 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] Complete
-2019-12-16 20:30:36.104 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Not Enabled
-2019-12-16 20:30:36.130 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Started
-2019-12-16 20:30:36.177 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Saving all Data
-2019-12-16 20:30:36.234 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Started
-2019-12-16 20:30:36.271 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Saving all Data
-2019-12-16 20:30:36.370 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Started
-2019-12-16 20:30:36.416 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Saving all Data
-2019-12-16 20:30:36.448 T:2932 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:30:36.487 T:2932 WARNING: Previous line repeats 1 times.
-2019-12-16 20:30:36.487 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TMDb - metahandler
-2019-12-16 20:30:36.582 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TMDb - Exodus Redux
-2019-12-16 20:30:36.988 T:2932 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:30:36.995 T:2976 WARNING: Previous line repeats 1 times.
-2019-12-16 20:30:36.995 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:30:37.007 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: builds ]
-2019-12-16 20:30:37.042 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TVDB - metahandler
-2019-12-16 20:30:37.244 T:2932 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:30:37.246 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:30:37.250 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:30:37.250 T:2932 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:30:37.282 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for OMDb - metahandler
-2019-12-16 20:30:37.313 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:30:37.330 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:30:37.354 T:2932  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Clean Up] Not Enabled
-2019-12-16 20:30:37.372 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:30:37.492 T:11004  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:30:37.492 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
-2019-12-16 20:30:37.493 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.guisettings
-2019-12-16 20:30:37.495 T:11004  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:30:37.535 T:11760   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
-2019-12-16 20:30:53.613 T:348   ERROR: Previous line repeats 5 times.
-2019-12-16 20:30:53.613 T:348  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: buildinfo ] [ name: MWUBuild Alpha ]
-2019-12-16 20:30:53.827 T:348  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:30:53.953 T:348  NOTICE: Previous line repeats 2 times.
-2019-12-16 20:30:53.953 T:348  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.info
-2019-12-16 20:30:53.985 T:348  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:30:54.015 T:348  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:30:55.445 T:348 WARNING: Attempt to use invalid handle -1
-2019-12-16 20:30:56.815 T:11760 WARNING: Previous line repeats 1 times.
-2019-12-16 20:30:56.815 T:11760   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
-2019-12-16 20:30:59.626 T:2308  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ action: fresh ] [ mode: install ] [ name: MWUBuild Alpha ]
-2019-12-16 20:30:59.886 T:2308  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:02.836 T:2308  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:31:02.836 T:2308 WARNING: Attempt to use invalid handle -1
-2019-12-16 20:31:03.866 T:2220 WARNING: Previous line repeats 1 times.
-2019-12-16 20:31:03.866 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ action: normal ] [ mode: install ] [ name: MWUBuild Alpha ]
-2019-12-16 20:31:04.077 T:2220   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
-2019-12-16 20:31:04.142 T:2220   ERROR: Previous line repeats 1 times.
-2019-12-16 20:31:04.142 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:04.175 T:2220 WARNING: Previous line repeats 1 times.
-2019-12-16 20:31:04.175 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TMDb - metahandler
-2019-12-16 20:31:04.614 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TMDb - Exodus Redux
-2019-12-16 20:31:04.629 T:13668  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: builds ]
-2019-12-16 20:31:04.642 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:04.649 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:31:04.651 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:04.832 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TVDB - metahandler
-2019-12-16 20:31:04.846 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:04.848 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:31:04.853 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:04.886 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for OMDb - metahandler
-2019-12-16 20:31:04.895 T:2220   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
-2019-12-16 20:31:04.898 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:31:04.902 T:13668  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:05.123 T:13668  NOTICE: Previous line repeats 5 times.
-2019-12-16 20:31:05.123 T:13668  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
-2019-12-16 20:31:05.124 T:13668  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.guisettings
-2019-12-16 20:31:05.125 T:13668  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:31:06.273 T:11760   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
-2019-12-16 20:31:06.637 T:2220   ERROR: Previous line repeats 2 times.
-2019-12-16 20:31:06.637 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:06.755 T:2220  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:31:06.755 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/build.zip: Status code [200]
-2019-12-16 20:31:28.298 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:28.331 T:2220 WARNING: Previous line repeats 1 times.
-2019-12-16 20:31:28.331 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TMDb - metahandler
-2019-12-16 20:31:28.780 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TMDb - Exodus Redux
-2019-12-16 20:31:28.794 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: builds ]
-2019-12-16 20:31:28.809 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:28.810 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:31:28.817 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:28.999 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for TVDB - metahandler
-2019-12-16 20:31:29.011 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:31:29.014 T:2220 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
-2019-12-16 20:31:29.057 T:11696 WARNING: Previous line repeats 1 times.
-2019-12-16 20:31:29.057 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:29.064 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Saved for OMDb - metahandler
-2019-12-16 20:31:29.078 T:2976 WARNING: CGUIMediaWindow::OnMessage - updating in progress
-2019-12-16 20:31:29.119 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:29.156 T:2976 WARNING: CGUITextureManager::Cleanup: Having to cleanup texture MenuItemNF.png
-2019-12-16 20:31:29.156 T:2976 WARNING: CGUITextureManager::Cleanup: Having to cleanup texture lf_classic/button/button-focus2.png
-2019-12-16 20:31:29.180 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:29.184 T:2976  NOTICE:   load skin from: C:\Program Files\Kodi\addons\skin.estuary (version: 2.0.26)
-2019-12-16 20:31:29.238 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:29.272 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
-2019-12-16 20:31:29.273 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.guisettings
-2019-12-16 20:31:29.274 T:11696  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:31:30.083 T:10812  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: plugin://plugin.program.multiwuwizard/: [ mode: builds ]
-2019-12-16 20:31:30.150 T:11760   ERROR: CCurlFile::Stat - Failed: URL using bad/illegal format or missing URL(3) for http://
-2019-12-16 20:31:30.525 T:10812   ERROR: Previous line repeats 3 times.
-2019-12-16 20:31:30.525 T:10812  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:30.834 T:10812  NOTICE: Previous line repeats 3 times.
-2019-12-16 20:31:30.834 T:10812  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: http://
-2019-12-16 20:31:30.836 T:10812  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.guisettings
-2019-12-16 20:31:30.838 T:10812  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:31:30.876 T:10812 WARNING: Attempt to use invalid handle 6
-2019-12-16 20:31:31.288 T:2220 WARNING: Previous line repeats 9 times.
-2019-12-16 20:31:31.288 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Keep Log File: kodi.log
-2019-12-16 20:31:31.289 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Keep Log File: kodi.old.log
-2019-12-16 20:31:32.656 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Keep sources.xml: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata\sources.xml
-2019-12-16 20:31:32.721 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Ignoring Addons27.db on Kodi Leia
-2019-12-16 20:31:33.463 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.enablerssfeeds saved to false
-2019-12-16 20:31:33.483 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.font saved to "Default"
-2019-12-16 20:31:33.504 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.rssedit saved to ""
-2019-12-16 20:31:33.525 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.skincolors saved to "SKINDEFAULT"
-2019-12-16 20:31:33.546 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.skintheme saved to "SKINDEFAULT"
-2019-12-16 20:31:33.567 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.skinzoom saved to 0
-2019-12-16 20:31:33.587 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.soundskin saved to "resource.uisounds.kodi"
-2019-12-16 20:31:33.607 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.startupwindow saved to 10000
-2019-12-16 20:31:33.627 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: lookandfeel.stereostrength saved to 5
-2019-12-16 20:31:33.658 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:31:33.788 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: kodi.log
-2019-12-16 20:31:33.789 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: kodi.old.log
-2019-12-16 20:31:36.173 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/.gitignore
-2019-12-16 20:31:36.174 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/addon.xml
-2019-12-16 20:31:36.175 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/default.py
-2019-12-16 20:31:36.176 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/fanart.jpg
-2019-12-16 20:31:36.177 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/fanart.png
-2019-12-16 20:31:36.177 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/icon.png
-2019-12-16 20:31:36.178 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/LICENSE
-2019-12-16 20:31:36.179 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/README.md
-2019-12-16 20:31:36.180 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/startup.py
-2019-12-16 20:31:36.181 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/uservar.py
-2019-12-16 20:31:36.182 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/uservar.pyo
-2019-12-16 20:31:36.182 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/.github/ISSUE_TEMPLATE/add-on-support-request.md
-2019-12-16 20:31:36.183 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/.github/ISSUE_TEMPLATE/bug_report.md
-2019-12-16 20:31:36.184 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/.github/ISSUE_TEMPLATE/feature-request.md
-2019-12-16 20:31:36.185 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/settings.xml
-2019-12-16 20:31:36.186 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/tempaddon.xml
-2019-12-16 20:31:36.186 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/__init__.py
-2019-12-16 20:31:36.187 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/__init__.pyo
-2019-12-16 20:31:36.188 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/advanced.py
-2019-12-16 20:31:36.189 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/backup.py
-2019-12-16 20:31:36.190 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.py
-2019-12-16 20:31:36.190 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.pyo
-2019-12-16 20:31:36.191 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.py
-2019-12-16 20:31:36.192 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.pyo
-2019-12-16 20:31:36.193 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.py
-2019-12-16 20:31:36.194 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.pyo
-2019-12-16 20:31:36.194 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.py
-2019-12-16 20:31:36.195 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.pyo
-2019-12-16 20:31:36.196 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.py
-2019-12-16 20:31:36.197 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.pyo
-2019-12-16 20:31:36.198 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.py
-2019-12-16 20:31:36.198 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.pyo
-2019-12-16 20:31:36.199 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.py
-2019-12-16 20:31:36.200 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.pyo
-2019-12-16 20:31:36.201 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.py
-2019-12-16 20:31:36.201 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.pyo
-2019-12-16 20:31:36.202 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/qr.py
-2019-12-16 20:31:36.203 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/restore.py
-2019-12-16 20:31:36.204 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/save.py
-2019-12-16 20:31:36.204 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.py
-2019-12-16 20:31:36.205 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.pyo
-2019-12-16 20:31:36.206 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/speedtest.py
-2019-12-16 20:31:36.207 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.py
-2019-12-16 20:31:36.208 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.pyo
-2019-12-16 20:31:36.209 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.py
-2019-12-16 20:31:36.209 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.pyo
-2019-12-16 20:31:36.210 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.py
-2019-12-16 20:31:36.211 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.pyo
-2019-12-16 20:31:36.211 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.py
-2019-12-16 20:31:36.212 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.pyo
-2019-12-16 20:31:36.213 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.py
-2019-12-16 20:31:36.214 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.pyo
-2019-12-16 20:31:36.214 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/yt.py
-2019-12-16 20:31:36.215 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.py
-2019-12-16 20:31:36.216 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.pyo
-2019-12-16 20:31:36.216 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.py
-2019-12-16 20:31:36.217 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.pyo
-2019-12-16 20:31:36.218 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.py
-2019-12-16 20:31:36.219 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.pyo
-2019-12-16 20:31:36.219 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.py
-2019-12-16 20:31:36.220 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.pyo
-2019-12-16 20:31:36.221 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.py
-2019-12-16 20:31:36.221 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.pyo
-2019-12-16 20:31:36.222 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.py
-2019-12-16 20:31:36.223 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.pyo
-2019-12-16 20:31:36.224 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.py
-2019-12-16 20:31:36.225 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.pyo
-2019-12-16 20:31:36.226 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.py
-2019-12-16 20:31:36.227 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.pyo
-2019-12-16 20:31:36.227 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/addon_menu.py
-2019-12-16 20:31:36.228 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.py
-2019-12-16 20:31:36.229 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.pyo
-2019-12-16 20:31:36.230 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/maintenance_menu.py
-2019-12-16 20:31:36.230 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.py
-2019-12-16 20:31:36.231 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.pyo
-2019-12-16 20:31:36.232 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.py
-2019-12-16 20:31:36.232 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.pyo
-2019-12-16 20:31:36.233 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.py
-2019-12-16 20:31:36.234 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.pyo
-2019-12-16 20:31:36.235 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.py
-2019-12-16 20:31:36.235 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.pyo
-2019-12-16 20:31:36.236 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/addoninstaller.png
-2019-12-16 20:31:36.237 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/apkinstaller.png
-2019-12-16 20:31:36.238 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/builds.png
-2019-12-16 20:31:36.238 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/ContentPanel.png
-2019-12-16 20:31:36.239 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/IconTemplate.psd
-2019-12-16 20:31:36.240 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/information.png
-2019-12-16 20:31:36.241 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/keepdebrid.png
-2019-12-16 20:31:36.242 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/keeplogin.png
-2019-12-16 20:31:36.242 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/keeptrakt.png
-2019-12-16 20:31:36.243 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/maintenance.png
-2019-12-16 20:31:36.244 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/qricon.png
-2019-12-16 20:31:36.245 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/savedata.png
-2019-12-16 20:31:36.246 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/settings.png
-2019-12-16 20:31:36.246 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/speed.png
-2019-12-16 20:31:36.247 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/wizard.png
-2019-12-16 20:31:36.248 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Bold.otf
-2019-12-16 20:31:36.249 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-BoldItalic.otf
-2019-12-16 20:31:36.249 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Italic.otf
-2019-12-16 20:31:36.250 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Light.otf
-2019-12-16 20:31:36.251 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-LightItalic.otf
-2019-12-16 20:31:36.251 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Regular.otf
-2019-12-16 20:31:36.252 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/advanced_configurator.xml
-2019-12-16 20:31:36.253 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/APK.xml
-2019-12-16 20:31:36.254 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/build_update_prompt.xml
-2019-12-16 20:31:36.255 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Contact.xml
-2019-12-16 20:31:36.255 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunBuild.xml
-2019-12-16 20:31:36.256 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunSaveData.xml
-2019-12-16 20:31:36.257 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/loguploader.xml
-2019-12-16 20:31:36.258 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/log_viewer.xml
-2019-12-16 20:31:36.259 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/main.xml
-2019-12-16 20:31:36.259 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Notifications.xml
-2019-12-16 20:31:36.260 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/SpeedTest.xml
-2019-12-16 20:31:36.261 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/text_box.xml
-2019-12-16 20:31:36.261 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ajax-loader-bar.gif
-2019-12-16 20:31:36.262 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/bg_screen.jpg
-2019-12-16 20:31:36.263 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_bg.png
-2019-12-16 20:31:36.264 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_glow_active.png
-2019-12-16 20:31:36.264 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_bg.png
-2019-12-16 20:31:36.265 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_ic_arrow.png
-2019-12-16 20:31:36.266 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_bg.png
-2019-12-16 20:31:36.267 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_glow.png
-2019-12-16 20:31:36.267 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/recspeed.png
-2019-12-16 20:31:36.268 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/speedtest_results_wtext.png
-2019-12-16 20:31:36.269 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/testing_ping.png
-2019-12-16 20:31:36.269 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/bgg2.png
-2019-12-16 20:31:36.270 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/ContentPanel.png
-2019-12-16 20:31:36.271 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/dialogheader.png
-2019-12-16 20:31:36.272 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-black.png
-2019-12-16 20:31:36.272 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-dialog-bg.png
-2019-12-16 20:31:36.273 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-white.png
-2019-12-16 20:31:36.274 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/spmc.png
-2019-12-16 20:31:36.275 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/white.png
-2019-12-16 20:31:36.276 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_grey.png
-2019-12-16 20:31:36.276 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_lightblue.png
-2019-12-16 20:31:36.277 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton-focus.png
-2019-12-16 20:31:36.278 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton.png
-2019-12-16 20:31:36.279 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKey.png
-2019-12-16 20:31:36.280 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKeyNF.png
-2019-12-16 20:31:36.280 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-fo.png
-2019-12-16 20:31:36.281 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-nofo.png
-2019-12-16 20:31:36.282 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-background.png
-2019-12-16 20:31:36.283 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-focus.png
-2019-12-16 20:31:36.283 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V.png
-2019-12-16 20:31:36.284 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonfo.png
-2019-12-16 20:31:36.285 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonnf.png
-2019-12-16 20:31:36.285 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemFO.png
-2019-12-16 20:31:36.286 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemNF.png
-2019-12-16 20:31:36.287 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-focus.png
-2019-12-16 20:31:36.288 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-nofocus.png
-2019-12-16 20:31:36.288 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nib.png
-2019-12-16 20:31:36.289 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nibNF.png
-2019-12-16 20:31:36.290 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/slider1.png
-2019-12-16 20:31:36.291 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/bg_screen.jpg
-2019-12-16 20:31:36.291 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/btn_start_bg.png
-2019-12-16 20:31:36.292 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/advanced.json
-2019-12-16 20:31:36.293 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/apks.txt
-2019-12-16 20:31:36.294 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/builds.txt
-2019-12-16 20:31:36.295 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/notify.txt
-2019-12-16 20:31:36.295 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/themes.txt
-2019-12-16 20:31:36.296 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/youtube.txt
-2019-12-16 20:31:36.297 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/resources/text/data/advanced_settings.json
-2019-12-16 20:31:36.298 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/cli.py
-2019-12-16 20:31:36.298 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/colors.py
-2019-12-16 20:31:36.299 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/consts.py
-2019-12-16 20:31:36.300 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/encoder.py
-2019-12-16 20:31:36.300 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/helpers.py
-2019-12-16 20:31:36.301 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/utils.py
-2019-12-16 20:31:36.302 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/writers.py
-2019-12-16 20:31:36.303 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/plugin.program.multiwuwizard/segno/__init__.py
-2019-12-16 20:31:40.059 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/script.module.chardet/.gitignore
-2019-12-16 20:31:41.931 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: addons/script.module.idna/.gitignore
-2019-12-16 20:32:06.106 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/sources.xml
-2019-12-16 20:32:06.107 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/addon_data/plugin.program.multiwuwizard/settings.xml
-2019-12-16 20:32:06.107 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/addon_data/plugin.program.multiwuwizard/wizard.log
-2019-12-16 20:32:06.108 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/exodusredux_tmdb
-2019-12-16 20:32:06.109 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_omdb
-2019-12-16 20:32:06.110 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tmdb
-2019-12-16 20:32:06.110 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tvdb
-2019-12-16 20:32:06.802 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Skipping: userdata/Database/Textures13.db
-2019-12-16 20:32:07.608 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:32:07.792 T:2220  NOTICE: Previous line repeats 1 times.
-2019-12-16 20:32:07.792 T:2220   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
-2019-12-16 20:32:07.792 T:2220   ERROR: Previous line repeats 1 times.
-2019-12-16 20:32:07.792 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: INSTALLED 100: [ERRORS:0]
-2019-12-16 20:32:07.848 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-2019-12-16 20:32:07.880 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL is not of a valid schema: url.to.themes
-2019-12-16 20:32:07.920 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Force Checking for Updates: (2, u'hellyrepo.kodi', u'78346a6f94fa096609b1c2ceb0ac085ffebc63da7a839a9bded2be999331d2dd0fada3c3601c9e873f82059165948179c3501687e4785d8d87e36940c26e6955', u'2019-12-16 17:14:37', u'0.2.6')
-2019-12-16 20:32:07.935 T:2976 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
-2019-12-16 20:32:43.802 T:2220 WARNING: Previous line repeats 1 times.
-2019-12-16 20:32:43.802 T:2220  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Force Closing Kodi: Platform[windows]
+2019-12-18 13:57:28.925 T:10768  NOTICE: Running database version Addons27
+2019-12-18 13:57:28.938 T:10768  NOTICE: Running database version ViewModes6
+2019-12-18 13:57:28.951 T:10768  NOTICE: Running database version Textures13
+2019-12-18 13:57:28.981 T:10768  NOTICE: Running database version MyMusic72
+2019-12-18 13:57:29.073 T:10768  NOTICE: Running database version MyVideos116
+2019-12-18 13:57:29.091 T:10768  NOTICE: Running database version TV32
+2019-12-18 13:57:29.107 T:10768  NOTICE: Running database version Epg12
+2019-12-18 13:57:29.172 T:10768 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-18 13:57:29.195 T:11828  NOTICE:   load skin from: C:\Users\Oliwier\AppData\Roaming\Kodi\addons\skin.xonfluence (version: 4.0.10)
+2019-12-18 13:57:30.544 T:11828 WARNING: CApplication::Initialize - startup.xml taints init process
+2019-12-18 13:57:30.556 T:11828 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2019-12-18 13:57:30.669 T:11828  NOTICE: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Klawiatura (0000:0000)
+2019-12-18 13:57:30.671 T:11828  NOTICE: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mysz (0000:0000)
+2019-12-18 13:57:30.677 T:11828  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2019-12-18 13:57:30.685 T:11828  NOTICE: Loaded playercorefactory configuration
+2019-12-18 13:57:30.685 T:11828  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2019-12-18 13:57:30.685 T:11828  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2019-12-18 13:57:30.689 T:11828 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-18 13:57:30.707 T:11828 WARNING: Previous line repeats 2 times.
+2019-12-18 13:57:30.707 T:11828  NOTICE: initialize done
+2019-12-18 13:57:30.708 T:11828  NOTICE: Running the application...
+2019-12-18 13:57:30.746 T:11828  NOTICE: VideoPlayer::OpenFile: special://skin/extras/Intro/KODI-Intro-Video.mp4
+2019-12-18 13:57:30.750 T:10312  NOTICE: Creating InputStream
+2019-12-18 13:57:30.763 T:10312  NOTICE: Creating Demuxer
+2019-12-18 13:57:30.818 T:10312  NOTICE: Opening stream: 0 source: 256
+2019-12-18 13:57:30.818 T:10312  NOTICE: Creating video codec with codec id: 27
+2019-12-18 13:57:30.818 T:10312  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+2019-12-18 13:57:30.819 T:10312  NOTICE: Creating video thread
+2019-12-18 13:57:30.819 T:2036  NOTICE: running thread: video_thread
+2019-12-18 13:57:30.820 T:10312  NOTICE: Opening stream: 1 source: 256
+2019-12-18 13:57:30.820 T:10312  NOTICE: Finding audio codec for: 86018
+2019-12-18 13:57:30.820 T:10312  NOTICE: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder aac
+2019-12-18 13:57:30.820 T:10312  NOTICE: Creating audio thread
+2019-12-18 13:57:30.821 T:2692  NOTICE: running thread: CVideoPlayerAudio::Process()
+2019-12-18 13:57:30.832 T:2692  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+2019-12-18 13:57:31.934 T:2036 WARNING: CRenderManager::Configure - timeout waiting for configure
+2019-12-18 13:57:31.934 T:2036   ERROR: CVideoPlayerVideo::OutputPicture - failed to configure renderer
+2019-12-18 13:57:32.682 T:10464  NOTICE: ES: Starting UDP Event server on port 9777
+2019-12-18 13:57:32.682 T:10464  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+2019-12-18 13:57:32.797 T:11828  NOTICE: DXVA::CProcessorHD::InitProcessor: supported deinterlace methods: blend:yes, bob:yes, adaptive:yes, mocomp:no.
+2019-12-18 13:57:32.834 T:11828  NOTICE: Previous line repeats 1 times.
+2019-12-18 13:57:32.834 T:11828 WARNING: CWinRenderer::UpdateVideoFilter: chosen scaling method 1 is not supported by renderer
+2019-12-18 13:57:33.201 T:2036  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 33333
+2019-12-18 13:57:37.280 T:10768 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-18 13:57:38.579 T:10768 WARNING: Previous line repeats 3 times.
+2019-12-18 13:57:38.579 T:10768   ERROR: XFILE::CDirectory::GetDirectory - Error getting None
+2019-12-18 13:57:40.644 T:11828   ERROR: Previous line repeats 3 times.
+2019-12-18 13:57:40.644 T:11828  NOTICE: CVideoPlayer::CloseFile()
+2019-12-18 13:57:40.644 T:11828  NOTICE: VideoPlayer: waiting for threads to exit
+2019-12-18 13:57:40.644 T:10312  NOTICE: CVideoPlayer::OnExit()
+2019-12-18 13:57:40.644 T:10312  NOTICE: Closing stream player 1
+2019-12-18 13:57:40.644 T:10312  NOTICE: Waiting for audio thread to exit
+2019-12-18 13:57:40.656 T:2692  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+2019-12-18 13:57:40.656 T:10312  NOTICE: Closing audio device
+2019-12-18 13:57:40.672 T:10312  NOTICE: Deleting audio codec
+2019-12-18 13:57:40.672 T:10312  NOTICE: Closing stream player 2
+2019-12-18 13:57:40.672 T:10312  NOTICE: waiting for video thread to exit
+2019-12-18 13:57:40.679 T:2036  NOTICE: thread end: video_thread
+2019-12-18 13:57:40.679 T:10312  NOTICE: deleting video codec
+2019-12-18 13:57:40.681 T:10312  NOTICE: DXVA::CDecoder::Close: closing decoder.
+2019-12-18 13:57:40.681 T:10312  NOTICE: DXVA: closing decoder context.
+2019-12-18 13:57:40.682 T:11828  NOTICE: VideoPlayer: finished waiting
+2019-12-18 13:57:40.682 T:11828  NOTICE: CVideoPlayer::CloseFile()
+2019-12-18 13:57:40.682 T:11828  NOTICE: VideoPlayer: waiting for threads to exit
+2019-12-18 13:57:40.682 T:11828  NOTICE: VideoPlayer: finished waiting
+2019-12-18 13:57:42.165 T:14832 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-18 13:57:42.476 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Started
+2019-12-18 13:57:42.593 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Path Check] Good!
+2019-12-18 13:57:42.628 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [First Run] Skipping Save Data Settings
+2019-12-18 13:57:42.923 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-18 13:57:42.956 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Current Build Check] Build Installed: MWUBuild Alpha
+2019-12-18 13:57:42.997 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Update Check] Started
+2019-12-18 13:57:43.062 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-18 13:57:43.089 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Check] Build Installed: Checking Updates
+2019-12-18 13:57:43.151 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-18 13:57:43.684 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Check Updates] [Installed Version: 0.0.2] [Current Version: 0.0.2]
+2019-12-18 13:57:43.785 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Install Repo] Not Enabled
+2019-12-18 13:57:43.809 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Binary Detection] Eligible Binary Addons to Reinstall
+2019-12-18 13:57:43.835 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] Started
+2019-12-18 13:57:43.885 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+2019-12-18 13:57:43.996 T:4532  NOTICE: Previous line repeats 1 times.
+2019-12-18 13:57:43.996 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Update Wizard] No New Version v1.0.0
+2019-12-18 13:57:44.024 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] Started
+2019-12-18 13:57:44.085 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+2019-12-18 13:57:44.372 T:4532  NOTICE: Previous line repeats 1 times.
+2019-12-18 13:57:44.373 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Notifications] id[1] Dismissed
+2019-12-18 13:57:44.408 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Started
+2019-12-18 13:57:44.433 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Install seems to be completed correctly
+2019-12-18 13:57:44.511 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Trakt Data Not Found for Exodus Redux
+2019-12-18 13:57:44.534 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Gaia(plugin.video.gaia) is not installed
+2019-12-18 13:57:44.557 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-18 13:57:44.581 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
+2019-12-18 13:57:44.605 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-18 13:57:44.627 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Realizer(plugin.video.realizer) is not installed
+2019-12-18 13:57:44.649 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-18 13:57:44.673 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Seren(plugin.video.seren) is not installed
+2019-12-18 13:57:44.696 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
+2019-12-18 13:57:44.720 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Trakt(script.trakt) is not installed
+2019-12-18 13:57:44.742 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Venom(plugin.video.venom) is not installed
+2019-12-18 13:57:44.770 T:4532   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
+2019-12-18 13:57:44.771 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Trakt Data
+2019-12-18 13:57:44.828 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
+2019-12-18 13:57:44.852 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
+2019-12-18 13:57:44.875 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
+2019-12-18 13:57:44.899 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-18 13:57:44.924 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren AD(plugin.video.seren) is not installed
+2019-12-18 13:57:44.948 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren RD(plugin.video.seren) is not installed
+2019-12-18 13:57:44.974 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
+2019-12-18 13:57:44.999 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
+2019-12-18 13:57:45.068 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL AD
+2019-12-18 13:57:45.125 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL RD
+2019-12-18 13:57:45.186 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Debrid Info Not Found for ResolveURL PM
+2019-12-18 13:57:45.215 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
+2019-12-18 13:57:45.241 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
+2019-12-18 13:57:45.266 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
+2019-12-18 13:57:45.293 T:4532   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
+2019-12-18 13:57:45.294 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Real Debrid Data
+2019-12-18 13:57:45.371 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for Fanart.tv - Exodus Redux
+2019-12-18 13:57:45.397 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
+2019-12-18 13:57:45.423 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-18 13:57:45.449 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
+2019-12-18 13:57:45.475 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-18 13:57:45.502 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
+2019-12-18 13:57:45.528 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-18 13:57:45.555 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
+2019-12-18 13:57:45.581 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
+2019-12-18 13:57:45.625 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for IMDb - Exodus Redux
+2019-12-18 13:57:45.654 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
+2019-12-18 13:57:45.678 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-18 13:57:45.706 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-18 13:57:45.731 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
+2019-12-18 13:57:45.757 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-18 13:57:45.783 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
+2019-12-18 13:57:45.809 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] IMDb - Venom(plugin.video.venom) is not installed
+2019-12-18 13:57:45.833 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+2019-12-18 13:57:45.859 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
+2019-12-18 13:57:45.882 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Netflix(plugin.video.netflix) is not installed
+2019-12-18 13:57:45.907 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+2019-12-18 13:57:45.931 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+2019-12-18 13:57:45.964 T:4532 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
+2019-12-18 13:57:46.062 T:4532 WARNING: Previous line repeats 2 times.
+2019-12-18 13:57:46.062 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for OMDb - metahandler
+2019-12-18 13:57:46.085 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+2019-12-18 13:57:46.109 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
+2019-12-18 13:57:46.134 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
+2019-12-18 13:57:46.158 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Orion(script.module.orion) is not installed
+2019-12-18 13:57:46.232 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for TMDb - Exodus Redux
+2019-12-18 13:57:46.270 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for TMDb Login - ExtendedInfo Script
+2019-12-18 13:57:46.293 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
+2019-12-18 13:57:46.317 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+2019-12-18 13:57:46.343 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+2019-12-18 13:57:46.378 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Not Found for TMDb - OpenInfo
+2019-12-18 13:57:46.402 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
+2019-12-18 13:57:46.426 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-18 13:57:46.451 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
+2019-12-18 13:57:46.474 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+2019-12-18 13:57:46.499 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Seren(plugin.video.seren) is not installed
+2019-12-18 13:57:46.525 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
+2019-12-18 13:57:46.550 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+2019-12-18 13:57:46.575 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TMDb - Venom(plugin.video.venom) is not installed
+2019-12-18 13:57:46.599 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
+2019-12-18 13:57:46.622 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Trakt - Seren(plugin.video.seren) is not installed
+2019-12-18 13:57:46.649 T:4532 WARNING: CAddonSettings[script.module.metahandler]: failed to parse old setting definition for "db_port" of type "integer"
+2019-12-18 13:57:46.690 T:4532 WARNING: Previous line repeats 2 times.
+2019-12-18 13:57:46.690 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: Login Data Restored for TVDB - metahandler
+2019-12-18 13:57:46.715 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
+2019-12-18 13:57:46.739 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
+2019-12-18 13:57:46.763 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
+2019-12-18 13:57:46.791 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] TVDB - Seren(plugin.video.seren) is not installed
+2019-12-18 13:57:46.815 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Yahoo! Weather(weather.yahoo) is not installed
+2019-12-18 13:57:46.841 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+2019-12-18 13:57:46.865 T:4532   ERROR: EXCEPTION: argument "value" for method "setSetting" must be unicode or str
+2019-12-18 13:57:46.866 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Build Installed Check] Restoring Login Data
+2019-12-18 13:57:46.938 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Started
+2019-12-18 13:57:46.968 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
+2019-12-18 13:57:46.998 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Started
+2019-12-18 13:57:47.027 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
+2019-12-18 13:57:47.060 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Started
+2019-12-18 13:57:47.089 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
+2019-12-18 13:57:47.119 T:4532  NOTICE: [COLOR red][B]MultiWu [/B][/COLOR]Wizard: [Auto Clean Up] Not Enabled
+2019-12-18 13:59:40.405 T:10176   ERROR: XFILE::CDirectory::GetDirectory - Error getting None
+2019-12-18 14:00:50.992 T:11828   ERROR: Previous line repeats 3 times.
+2019-12-18 14:00:50.992 T:11828 WARNING: Repository add-on repository.mods-kodi uses plain HTTP for add-on downloads in path http://repo.mods-kodi.pl/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2019-12-18 14:21:53.663 T:11828 WARNING: Previous line repeats 8 times.
+2019-12-18 14:21:53.663 T:11828  NOTICE: Stopping player
+2019-12-18 14:21:53.663 T:11828  NOTICE: Storing total System Uptime
+2019-12-18 14:21:53.664 T:11828  NOTICE: Saving settings
+2019-12-18 14:21:53.686 T:11828  NOTICE: Saving skin settings
+2019-12-18 14:21:53.698 T:11828  NOTICE: Stopping all
+2019-12-18 14:21:53.699 T:11828  NOTICE: ES: Stopping event server
+2019-12-18 14:21:54.456 T:10464  NOTICE: ES: UDP Event server stopped
+2019-12-18 14:21:59.459 T:11828   ERROR: CPythonInvoker(3, C:\Users\Oliwier\AppData\Roaming\Kodi\addons\plugin.video.exodusredux\service.py): script didn't stop in 5 seconds - let's kill it
+2019-12-18 14:21:59.790 T:11828  NOTICE: Application stopped
+2019-12-18 14:21:59.992 T:11828  NOTICE: XBApplicationEx: destroying...
+2019-12-18 14:22:00.444 T:11828  NOTICE: unload skin
+2019-12-18 14:22:00.641 T:11828  NOTICE: unload sections
+2019-12-18 14:22:00.660 T:11828  NOTICE: XBApplicationEx: application stopped!

@@ -7,7 +7,7 @@
     <setting id="autocleanwiz">true</setting>
     <setting id="buildname">MWUBuild Alpha</setting>
     <setting id="buildtheme" default="true"></setting>
-    <setting id="buildversion">0.0.1</setting>
+    <setting id="buildversion">0.0.2</setting>
     <setting id="clearcache" default="true">false</setting>
     <setting id="clearpackages" default="true">false</setting>
     <setting id="clearthumbs" default="true">false</setting>
@@ -77,8 +77,8 @@
     <setting id="keeptrakt">true</setting>
     <setting id="keepwhitelist" default="true">false</setting>
     <setting id="kitsu-wonderfulsubs" default="true"></setting>
-    <setting id="lastbuildcheck">2019-12-16 20:33:07.788000</setting>
-    <setting id="latestversion">0.0.1</setting>
+    <setting id="lastbuildcheck">2019-12-18 18:35:21.931000</setting>
+    <setting id="latestversion">0.0.2</setting>
     <setting id="location-yahoo" default="true"></setting>
     <setting id="login-eis" default="true"></setting>
     <setting id="login-iagl" default="true"></setting>
@@ -89,7 +89,7 @@
     <setting id="loginlastsave">2019-12-19</setting>
     <setting id="mal-wonderfulsubs" default="true"></setting>
     <setting id="nextautocleanup" default="true"></setting>
-    <setting id="nextcleandate">2019-12-17</setting>
+    <setting id="nextcleandate">2019-12-19</setting>
     <setting id="notedismiss">true</setting>
     <setting id="noteid">1</setting>
     <setting id="notify" default="true">false</setting>

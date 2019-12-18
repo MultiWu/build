@@ -106,7 +106,7 @@
     <setting id="playlist_5_stop_when_starting" default="true">false</setting>
     <setting id="playlist_5_url" default="true"></setting>
     <setting id="pm_key" default="true"></setting>
-    <setting id="pokazpanel" default="true">false</setting>
+    <setting id="pokazpanel">true</setting>
     <setting id="pp_key" default="true"></setting>
     <setting id="priority_goldvod">1</setting>
     <setting id="priority_ipla">6</setting>
