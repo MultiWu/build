@@ -1,0 +1,148 @@
+<settings version="2">
+    <setting id="alluc.api" default="true"></setting>
+    <setting id="alluc.download" default="true">false</setting>
+    <setting id="alluc.limit" default="true">100</setting>
+    <setting id="api.language" default="true">AUTO</setting>
+    <setting id="appearance.1" default="true">Incursion</setting>
+    <setting id="appearance.alt" default="true">-</setting>
+    <setting id="autoplay" default="true">false</setting>
+    <setting id="autoplay.sd" default="true">false</setting>
+    <setting id="autotb7" default="true">false</setting>
+    <setting id="autoTraktOnStart" default="true">false</setting>
+    <setting id="autoxt7" default="true">false</setting>
+    <setting id="bookmarks">true</setting>
+    <setting id="chillax.password" default="true"></setting>
+    <setting id="chillax.username" default="true"></setting>
+    <setting id="crefresh" default="true">false</setting>
+    <setting id="debrid.only" default="true">false</setting>
+    <setting id="downloads" default="true">false</setting>
+    <setting id="fanart">true</setting>
+    <setting id="fanart.tv.devF" default="true">9d5002e9449ce8ffb81a7cf258a2ad91</setting>
+    <setting id="fanart.tv.userF" default="true">973400e4e8b1fcbae5aa417ed932efc5</setting>
+    <setting id="flatten.tvshows" default="true">false</setting>
+    <setting id="furk.api" default="true"></setting>
+    <setting id="furk.limit">25</setting>
+    <setting id="furk.mod.level" default="true">Yes</setting>
+    <setting id="furk.user_name" default="true"></setting>
+    <setting id="furk.user_pass" default="true"></setting>
+    <setting id="HEVC">true</setting>
+    <setting id="hidecinema" default="true">false</setting>
+    <setting id="hidecinema.rollback">6</setting>
+    <setting id="hosts.captcha">true</setting>
+    <setting id="hosts.mode">1</setting>
+    <setting id="hosts.quality" default="true">0</setting>
+    <setting id="hosts.sort" default="true">0</setting>
+    <setting id="imdb.user" default="true"></setting>
+    <setting id="indicators" default="true">0</setting>
+    <setting id="indicators.alt">1</setting>
+    <setting id="label0" default="true"></setting>
+    <setting id="label1" default="true"></setting>
+    <setting id="label2" default="true"></setting>
+    <setting id="label3" default="true"></setting>
+    <setting id="ladowanie">true</setting>
+    <setting id="library.check">true</setting>
+    <setting id="library.check_episode" default="true">false</setting>
+    <setting id="library.check_movie" default="true">false</setting>
+    <setting id="library.include_unknown">true</setting>
+    <setting id="library.movie" default="true">special://userdata/addon_data/plugin.video.fanfilm/Movies</setting>
+    <setting id="library.service.notification">true</setting>
+    <setting id="library.service.update">true</setting>
+    <setting id="library.tv" default="true">special://userdata/addon_data/plugin.video.fanfilm/TVShows</setting>
+    <setting id="library.update">true</setting>
+    <setting id="lists.count">40</setting>
+    <setting id="lists.widget">1</setting>
+    <setting id="movie.download.path" default="true"></setting>
+    <setting id="movie.widget">1</setting>
+    <setting id="movies.sort" default="true">0</setting>
+    <setting id="moviesplanet.pass" default="true"></setting>
+    <setting id="moviesplanet.user" default="true"></setting>
+    <setting id="open_smu_settings" default="true"></setting>
+    <setting id="ororo.pass" default="true"></setting>
+    <setting id="ororo.user" default="true"></setting>
+    <setting id="own_keys" default="true">false</setting>
+    <setting id="preemptive.limit">10</setting>
+    <setting id="preemptive.termination" default="true">false</setting>
+    <setting id="prem.identify" default="true">0</setting>
+    <setting id="prgr.sortorder">1</setting>
+    <setting id="progress.dialog" default="true">0</setting>
+    <setting id="provider.123123movies">true</setting>
+    <setting id="provider.123moviesfree">true</setting>
+    <setting id="provider.123movieshubz">true</setting>
+    <setting id="provider.3filmy">true</setting>
+    <setting id="provider.alltube">true</setting>
+    <setting id="provider.alltube3d">true</setting>
+    <setting id="provider.animezone">true</setting>
+    <setting id="provider.azmovie">true</setting>
+    <setting id="provider.cdahd">true</setting>
+    <setting id="provider.cdapl">true</setting>
+    <setting id="provider.cdatv">true</setting>
+    <setting id="provider.cmovieshd">true</setting>
+    <setting id="provider.ekinomaniak">true</setting>
+    <setting id="provider.ekinotv">true</setting>
+    <setting id="provider.extramovies">true</setting>
+    <setting id="provider.filman">true</setting>
+    <setting id="provider.filmdom">true</setting>
+    <setting id="provider.filmwebbooster">true</setting>
+    <setting id="provider.fmovies">true</setting>
+    <setting id="provider.fmoviesio">true</setting>
+    <setting id="provider.freefmovies">true</setting>
+    <setting id="provider.freeputlockers">true</setting>
+    <setting id="provider.gowatchseries">true</setting>
+    <setting id="provider.hdkino">true</setting>
+    <setting id="provider.hdmto">true</setting>
+    <setting id="provider.hdpopcorns">true</setting>
+    <setting id="provider.horrortube">true</setting>
+    <setting id="provider.iitvx">true</setting>
+    <setting id="provider.iwatch">true</setting>
+    <setting id="provider.movies123">true</setting>
+    <setting id="provider.myhdpopcorn">true</setting>
+    <setting id="provider.otube">true</setting>
+    <setting id="provider.putlocker">true</setting>
+    <setting id="provider.putlockers">true</setting>
+    <setting id="provider.rodzinnekino">true</setting>
+    <setting id="provider.segos">true</setting>
+    <setting id="provider.serialeco">true</setting>
+    <setting id="provider.seriesonline">true</setting>
+    <setting id="provider.shinden">true</setting>
+    <setting id="provider.solarmoviefree">true</setting>
+    <setting id="provider.szukajkatv">true</setting>
+    <setting id="provider.tb7" default="true">false</setting>
+    <setting id="provider.timewatch">true</setting>
+    <setting id="provider.vdonip">true</setting>
+    <setting id="provider.xt7" default="true">false</setting>
+    <setting id="provider.zalukaj">true</setting>
+    <setting id="providers.lang" default="true">Polish</setting>
+    <setting id="schedTraktTime" default="true">0</setting>
+    <setting id="scrapers.timeout.1">45</setting>
+    <setting id="segos.password" default="true">cherrytv</setting>
+    <setting id="segos.username" default="true">cherrytv</setting>
+    <setting id="serienstream.pass" default="true"></setting>
+    <setting id="serienstream.user" default="true"></setting>
+    <setting id="seriesever.pass" default="true"></setting>
+    <setting id="seriesever.user" default="true"></setting>
+    <setting id="shinden.password" default="true"></setting>
+    <setting id="shinden.username" default="true"></setting>
+    <setting id="showunaired">true</setting>
+    <setting id="sources.extrainfo">true</setting>
+    <setting id="streamlord.pass" default="true"></setting>
+    <setting id="streamlord.user" default="true"></setting>
+    <setting id="subtitles" default="true">false</setting>
+    <setting id="subtitles.lang.1" default="true">English</setting>
+    <setting id="subtitles.lang.2" default="true">English</setting>
+    <setting id="subtitles.utf" default="true">false</setting>
+    <setting id="tb7.password" default="true"></setting>
+    <setting id="tb7.username" default="true"></setting>
+    <setting id="tm.userF" default="true">448c1bb435906c402c3c1e03f9231992</setting>
+    <setting id="trakt.refresh" default="true"></setting>
+    <setting id="trakt.token" default="true"></setting>
+    <setting id="trakt.user" default="true"></setting>
+    <setting id="tv.download.path" default="true"></setting>
+    <setting id="tv.widget">1</setting>
+    <setting id="tv.widget.alt">2</setting>
+    <setting id="TVDb_ApiKeyF" default="true">T4YHUDZ8TGRG6OBN</setting>
+    <setting id="TVDb_UserKeyF" default="true">6BU0I63NR83DN82X</setting>
+    <setting id="TVDb_UsernameF" default="true">fanfilm9le</setting>
+    <setting id="tvshows.sort" default="true">0</setting>
+    <setting id="xt7.password" default="true"></setting>
+    <setting id="xt7.username" default="true"></setting>
+</settings>

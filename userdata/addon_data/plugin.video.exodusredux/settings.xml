@@ -43,7 +43,7 @@
     <setting id="module.provider" default="true">Openscrapers Scrapers</setting>
     <setting id="movie.download.path" default="true"></setting>
     <setting id="movie.widget">4</setting>
-    <setting id="moviesearch" default="true">Kraina Lodu&#x0A;</setting>
+    <setting id="moviesearch" default="true">taxi&#x0A;Wasabi&#x0A;Kraina Lodu&#x0A;</setting>
     <setting id="moviesplanet.pass" default="true"></setting>
     <setting id="moviesplanet.user" default="true"></setting>
     <setting id="navi.channels" default="true">false</setting>

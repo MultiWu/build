@@ -18,6 +18,11 @@
             <path pathversion="1">http://multiwu.github.io/repo/</path>
             <allowsharing>true</allowsharing>
         </source>
+        <source>
+            <name>FanFilm</name>
+            <path pathversion="1">http://fanfilm.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
     </files>
     <games>
         <default pathversion="1"></default>

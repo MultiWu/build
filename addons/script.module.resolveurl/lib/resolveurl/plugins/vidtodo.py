@@ -17,6 +17,7 @@
 # Old  vidtodo.me  vidotodo.com
 
 from urlparse import urlparse
+
 from lib import helpers
 from resolveurl.common import Net, RAND_UA
 from resolveurl.resolver import ResolveUrl, ResolverError
@@ -24,9 +25,9 @@ from resolveurl.resolver import ResolveUrl, ResolverError
 
 class VidToDoResolver(ResolveUrl):
     name = 'Vidtodo'
-    domains = ['playvidto.com', 'vidtodu.com', 'vidtodo.com', 'vidtodoo.com']
-    pattern = '(?://|\.)((?:playvidto|vidtodu|vidtodo|vidtodoo)\.(?:com))/(?:embed-)?([0-9a-zA-Z]+)'
- 
+    domains = ['vidtodu.com', 'vidtodo.com', 'vidtodoo.com']
+    pattern = '(?://|\.)((?:vidtodu|vidtodo|vidtodoo)\.(?:com))/(?:embed-)?([0-9a-zA-Z]+)'
+
     def __init__(self):
         self.net = Net()
         self.userAgent = RAND_UA
@@ -65,4 +66,4 @@ class VidToDoResolver(ResolveUrl):
         raise ResolverError('Unable to locate video')
 
     def get_url(self, host, media_id):
-        return self._default_get_url(host, media_id, template='https://{host}/{media_id}')
+        return self._default_get_url(host, media_id, template='https://vidtodu.com/{media_id}')

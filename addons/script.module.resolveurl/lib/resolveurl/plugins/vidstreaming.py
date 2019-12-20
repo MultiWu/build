@@ -18,6 +18,7 @@
 
 from __resolve_generic__ import ResolveGeneric
 
+
 class VidStreamingResolver(ResolveGeneric):
     name = "vidstreaming"
     domains = ['vidstreaming.io']

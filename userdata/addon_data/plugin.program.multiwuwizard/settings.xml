@@ -7,15 +7,15 @@
     <setting id="autocleanwiz">true</setting>
     <setting id="buildname">MWUBuild Alpha</setting>
     <setting id="buildtheme" default="true"></setting>
-    <setting id="buildversion">0.0.3</setting>
+    <setting id="buildversion">0.0.4</setting>
     <setting id="clearcache" default="true">false</setting>
     <setting id="clearpackages" default="true">false</setting>
     <setting id="clearthumbs" default="true">false</setting>
     <setting id="crashlog" default="true">false</setting>
-    <setting id="debridlastsave">2019-12-21</setting>
+    <setting id="debridlastsave">2019-12-23</setting>
     <setting id="debuglevel">2</setting>
     <setting id="default.addonupdate">0</setting>
-    <setting id="default.enablerssfeeds">false</setting>
+    <setting id="default.enablerssfeeds">true</setting>
     <setting id="default.font">&quot;Default&quot;</setting>
     <setting id="default.rssedit">&quot;&quot;</setting>
     <setting id="default.skincolors">&quot;SKINDEFAULT&quot;</setting>
@@ -77,8 +77,8 @@
     <setting id="keeptrakt">true</setting>
     <setting id="keepwhitelist" default="true">false</setting>
     <setting id="kitsu-wonderfulsubs" default="true"></setting>
-    <setting id="lastbuildcheck">2019-12-18 21:10:12.646000</setting>
-    <setting id="latestversion">0.0.3</setting>
+    <setting id="lastbuildcheck">2019-12-20 22:57:02.874000</setting>
+    <setting id="latestversion">0.0.4</setting>
     <setting id="location-yahoo" default="true"></setting>
     <setting id="login-eis" default="true"></setting>
     <setting id="login-iagl" default="true"></setting>
@@ -86,10 +86,10 @@
     <setting id="login-opensubsbyopensubs" default="true"></setting>
     <setting id="login-opensubtitles" default="true"></setting>
     <setting id="login-orion" default="true"></setting>
-    <setting id="loginlastsave">2019-12-21</setting>
+    <setting id="loginlastsave">2019-12-23</setting>
     <setting id="mal-wonderfulsubs" default="true"></setting>
     <setting id="nextautocleanup" default="true"></setting>
-    <setting id="nextcleandate">2019-12-19</setting>
+    <setting id="nextcleandate">2019-12-21</setting>
     <setting id="notedismiss">true</setting>
     <setting id="noteid">1</setting>
     <setting id="notify" default="true">false</setting>
@@ -136,7 +136,7 @@
     <setting id="trakt" default="true"></setting>
     <setting id="trakt-openmeta" default="true"></setting>
     <setting id="trakt-seren" default="true"></setting>
-    <setting id="traktlastsave">2019-12-21</setting>
+    <setting id="traktlastsave">2019-12-23</setting>
     <setting id="tvdb-metahandler">2B8557E0CBF7D720</setting>
     <setting id="tvdb-openmeta" default="true"></setting>
     <setting id="tvdb-premiumizer" default="true"></setting>

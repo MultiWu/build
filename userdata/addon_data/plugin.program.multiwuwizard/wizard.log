@@ -1,1308 +1,3 @@
-[2019-12-16 20:29:31] [Path Check] Started
-[2019-12-16 20:29:31] [Path Check] Good!
-[2019-12-16 20:29:31] [First Run] Showing Save Data Settings
-[2019-12-16 20:29:35] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:35] [Current Build Check] Build Not Installed
-[2019-12-16 20:29:40] [Current Build Check] [User Selected: Open Build Menu] [Next Check: ]
-[2019-12-16 20:29:40] [Build Update Check] Next Check: 
-[2019-12-16 20:29:40] [Auto Install Repo] Not Enabled
-[2019-12-16 20:29:40] [Binary Detection] Eligible Binary Addons to Reinstall
-[2019-12-16 20:29:40] [Auto Update Wizard] Started
-[2019-12-16 20:29:40] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:40] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:40] [Auto Update Wizard] No New Version v1.0.0
-[2019-12-16 20:29:40] [Notifications] Started
-[2019-12-16 20:29:41] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:29:41] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:29:41] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:41] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:41] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:29:41] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:41] [Notifications] id: 1
-[2019-12-16 20:29:41] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:29:41] URL is not of a valid schema: http://
-[2019-12-16 20:29:41] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:29:41] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:30:36] [Notification] NotifyID 1 Dismissed
-[2019-12-16 20:30:36] [Notifications] Complete
-[2019-12-16 20:30:36] [Build Installed Check] Not Enabled
-[2019-12-16 20:30:36] [Trakt Data] Started
-[2019-12-16 20:30:36] [Trakt Data] Saving all Data
-[2019-12-16 20:30:36] [Debrid Data] Started
-[2019-12-16 20:30:36] [Debrid Data] Saving all Data
-[2019-12-16 20:30:36] [Login Info] Started
-[2019-12-16 20:30:36] [Login Info] Saving all Data
-[2019-12-16 20:30:36] Login Data Saved for TMDb - metahandler
-[2019-12-16 20:30:36] Login Data Saved for TMDb - Exodus Redux
-[2019-12-16 20:30:37] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:30:37] Login Data Saved for TVDB - metahandler
-[2019-12-16 20:30:37] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:37] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:37] Login Data Saved for OMDb - metahandler
-[2019-12-16 20:30:37] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:37] [Auto Clean Up] Not Enabled
-[2019-12-16 20:30:37] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:37] URL is not of a valid schema: http://
-[2019-12-16 20:30:37] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:30:37] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:30:53] plugin://plugin.program.multiwuwizard/: [ mode: buildinfo ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:30:53] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:53] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:53] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:53] URL is not of a valid schema: url.to.info
-[2019-12-16 20:30:53] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:54] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:30:59] plugin://plugin.program.multiwuwizard/: [ action: fresh ] [ mode: install ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:30:59] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:30:59] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:03] plugin://plugin.program.multiwuwizard/: [ action: normal ] [ mode: install ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:31:04] Login Data Saved for TMDb - metahandler
-[2019-12-16 20:31:04] Login Data Saved for TMDb - Exodus Redux
-[2019-12-16 20:31:04] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:31:04] Login Data Saved for TVDB - metahandler
-[2019-12-16 20:31:04] Login Data Saved for OMDb - metahandler
-[2019-12-16 20:31:04] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:04] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:04] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:05] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:05] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:05] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:05] URL is not of a valid schema: http://
-[2019-12-16 20:31:05] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:31:05] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:31:06] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:06] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:06] URL check passed for http://polskanora.tk/kodi/build.zip: Status code [200]
-[2019-12-16 20:31:28] Login Data Saved for TMDb - metahandler
-[2019-12-16 20:31:28] Login Data Saved for TMDb - Exodus Redux
-[2019-12-16 20:31:28] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:31:28] Login Data Saved for TVDB - metahandler
-[2019-12-16 20:31:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:29] Login Data Saved for OMDb - metahandler
-[2019-12-16 20:31:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:29] URL is not of a valid schema: http://
-[2019-12-16 20:31:29] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:31:29] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:31:30] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:31:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:30] URL is not of a valid schema: http://
-[2019-12-16 20:31:30] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:31:30] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:31:31] Keep Log File: kodi.log
-[2019-12-16 20:31:31] Keep Log File: kodi.old.log
-[2019-12-16 20:31:32] Keep sources.xml: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata\sources.xml
-[2019-12-16 20:31:32] Ignoring Addons27.db on Kodi Leia
-[2019-12-16 20:31:33] lookandfeel.enablerssfeeds saved to false
-[2019-12-16 20:31:33] lookandfeel.font saved to "Default"
-[2019-12-16 20:31:33] lookandfeel.rssedit saved to ""
-[2019-12-16 20:31:33] lookandfeel.skincolors saved to "SKINDEFAULT"
-[2019-12-16 20:31:33] lookandfeel.skintheme saved to "SKINDEFAULT"
-[2019-12-16 20:31:33] lookandfeel.skinzoom saved to 0
-[2019-12-16 20:31:33] lookandfeel.soundskin saved to "resource.uisounds.kodi"
-[2019-12-16 20:31:33] lookandfeel.startupwindow saved to 10000
-[2019-12-16 20:31:33] lookandfeel.stereostrength saved to 5
-[2019-12-16 20:31:33] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:31:33] Skipping: kodi.log
-[2019-12-16 20:31:33] Skipping: kodi.old.log
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/.gitignore
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/addon.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/default.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/fanart.jpg
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/fanart.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/icon.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/LICENSE
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/README.md
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/startup.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/uservar.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/uservar.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/.github/ISSUE_TEMPLATE/add-on-support-request.md
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/.github/ISSUE_TEMPLATE/bug_report.md
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/.github/ISSUE_TEMPLATE/feature-request.md
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/settings.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/tempaddon.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/__init__.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/__init__.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/advanced.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/backup.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/qr.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/restore.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/save.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/speedtest.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/yt.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/addon_menu.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/maintenance_menu.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.pyo
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/addoninstaller.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/apkinstaller.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/builds.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/ContentPanel.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/IconTemplate.psd
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/information.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/keepdebrid.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/keeplogin.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/keeptrakt.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/maintenance.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/qricon.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/savedata.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/settings.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/speed.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/wizard.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Bold.otf
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-BoldItalic.otf
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Italic.otf
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Light.otf
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-LightItalic.otf
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Regular.otf
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/advanced_configurator.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/APK.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/build_update_prompt.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Contact.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunBuild.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunSaveData.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/loguploader.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/log_viewer.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/main.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Notifications.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/SpeedTest.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/text_box.xml
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ajax-loader-bar.gif
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/bg_screen.jpg
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_bg.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_glow_active.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_bg.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_ic_arrow.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_bg.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_glow.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/recspeed.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/speedtest_results_wtext.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/testing_ping.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/bgg2.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/ContentPanel.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/dialogheader.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-black.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-dialog-bg.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-white.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/spmc.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/white.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_grey.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_lightblue.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton-focus.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKey.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKeyNF.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-fo.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-nofo.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-background.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-focus.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonfo.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonnf.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemFO.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemNF.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-focus.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-nofocus.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nib.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nibNF.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/slider1.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/bg_screen.jpg
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/btn_start_bg.png
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/advanced.json
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/apks.txt
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/builds.txt
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/notify.txt
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/themes.txt
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/youtube.txt
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/resources/text/data/advanced_settings.json
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/cli.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/colors.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/consts.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/encoder.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/helpers.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/utils.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/writers.py
-[2019-12-16 20:31:36] Skipping: addons/plugin.program.multiwuwizard/segno/__init__.py
-[2019-12-16 20:31:40] Skipping: addons/script.module.chardet/.gitignore
-[2019-12-16 20:31:41] Skipping: addons/script.module.idna/.gitignore
-[2019-12-16 20:32:06] Skipping: userdata/sources.xml
-[2019-12-16 20:32:06] Skipping: userdata/addon_data/plugin.program.multiwuwizard/settings.xml
-[2019-12-16 20:32:06] Skipping: userdata/addon_data/plugin.program.multiwuwizard/wizard.log
-[2019-12-16 20:32:06] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/exodusredux_tmdb
-[2019-12-16 20:32:06] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_omdb
-[2019-12-16 20:32:06] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tmdb
-[2019-12-16 20:32:06] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tvdb
-[2019-12-16 20:32:06] Skipping: userdata/Database/Textures13.db
-[2019-12-16 20:32:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:32:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:32:07] INSTALLED 100: [ERRORS:0]
-[2019-12-16 20:32:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:32:07] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:32:07] Force Checking for Updates: (2, u'hellyrepo.kodi', u'78346a6f94fa096609b1c2ceb0ac085ffebc63da7a839a9bded2be999331d2dd0fada3c3601c9e873f82059165948179c3501687e4785d8d87e36940c26e6955', u'2019-12-16 17:14:37', u'0.2.6')
-[2019-12-16 20:32:43] Force Closing Kodi: Platform[windows]
-[2019-12-16 20:33:07] [Path Check] Started
-[2019-12-16 20:33:07] [Path Check] Good!
-[2019-12-16 20:33:07] [First Run] Skipping Save Data Settings
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:33:07] [Current Build Check] Build Installed: MWUBuild Alpha
-[2019-12-16 20:33:07] [Build Update Check] Started
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:33:07] [Build Check] Build Installed: Checking Updates
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:33:07] [Check Updates] [Installed Version: 0.0.1] [Current Version: 0.0.1]
-[2019-12-16 20:33:07] [Auto Install Repo] Not Enabled
-[2019-12-16 20:33:07] [Binary Detection] Eligible Binary Addons to Reinstall
-[2019-12-16 20:33:07] [Auto Update Wizard] Started
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:33:07] [Auto Update Wizard] No New Version v1.0.0
-[2019-12-16 20:33:07] [Notifications] Started
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:33:07] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:33:08] [Notifications] id[1] Dismissed
-[2019-12-16 20:33:08] [Build Installed Check] Started
-[2019-12-16 20:33:08] [Build Installed Check] Install seems to be completed correctly
-[2019-12-16 20:33:08] Trakt Data Not Found for Exodus Redux
-[2019-12-16 20:33:08] [Trakt Data] Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:33:08] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:33:08] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:33:08] [Trakt Data] Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:33:08] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:33:08] [Trakt Data] Seren(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:33:08] [Trakt Data] Trakt(script.trakt) is not installed
-[2019-12-16 20:33:08] [Trakt Data] Venom(plugin.video.venom) is not installed
-[2019-12-16 20:33:08] [Build Installed Check] Restoring Trakt Data
-[2019-12-16 20:33:08] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Seren AD(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Seren RD(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] Debrid Info Not Found for ResolveURL AD
-[2019-12-16 20:33:08] Debrid Info Not Found for ResolveURL RD
-[2019-12-16 20:33:08] Debrid Info Not Found for ResolveURL PM
-[2019-12-16 20:33:08] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
-[2019-12-16 20:33:08] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
-[2019-12-16 20:33:08] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
-[2019-12-16 20:33:08] [Build Installed Check] Restoring Real Debrid Data
-[2019-12-16 20:33:08] Login Data Not Found for Fanart.tv - Exodus Redux
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:33:08] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:33:08] Login Data Not Found for IMDb - Exodus Redux
-[2019-12-16 20:33:08] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:33:08] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:33:08] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:33:08] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:33:08] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:33:08] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:33:08] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:33:08] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
-[2019-12-16 20:33:08] [Login Info] Netflix(plugin.video.netflix) is not installed
-[2019-12-16 20:33:08] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:33:08] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:33:08] Login Data Restored for OMDb - metahandler
-[2019-12-16 20:33:08] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-16 20:33:08] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
-[2019-12-16 20:33:08] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
-[2019-12-16 20:33:08] [Login Info] Orion(script.module.orion) is not installed
-[2019-12-16 20:33:08] Login Data Restored for TMDb - Exodus Redux
-[2019-12-16 20:33:08] Login Data Not Found for TMDb Login - ExtendedInfo Script
-[2019-12-16 20:33:08] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:33:08] Login Data Not Found for TMDb - OpenInfo
-[2019-12-16 20:33:08] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-16 20:33:08] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:33:08] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:33:08] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] Login Data Restored for TVDB - metahandler
-[2019-12-16 20:33:08] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:33:08] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:33:08] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:33:08] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:33:08] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
-[2019-12-16 20:33:08] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:33:08] [Build Installed Check] Restoring Login Data
-[2019-12-16 20:33:08] [Trakt Data] Started
-[2019-12-16 20:33:08] [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:33:08] [Debrid Data] Started
-[2019-12-16 20:33:08] [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:33:08] [Login Info] Started
-[2019-12-16 20:33:08] [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:33:08] [Auto Clean Up] Not Enabled
-[2019-12-16 20:51:55] [Path Check] Started
-[2019-12-16 20:51:55] [Path Check] Good!
-[2019-12-16 20:51:55] [First Run] Skipping Save Data Settings
-[2019-12-16 20:51:56] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:51:56] [Current Build Check] Build Installed: MWUBuild Alpha
-[2019-12-16 20:51:56] [Build Update Check] Started
-[2019-12-16 20:51:56] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:51:56] [Build Check] Build Installed: Checking Updates
-[2019-12-16 20:51:56] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:51:56] [Check Updates] [Installed Version: 0.0.1] [Current Version: 0.0.2] Opening Update Window
-[2019-12-16 20:51:59] [Check Updates] [Installed Version: 0.0.1] [Current Version: 0.0.1] [User Selected: Ignore 0 Days]
-[2019-12-16 20:51:59] [Check Updates] [Next Check: 2019-12-16]
-[2019-12-16 20:51:59] [Auto Install Repo] Not Enabled
-[2019-12-16 20:51:59] [Binary Detection] Eligible Binary Addons to Reinstall
-[2019-12-16 20:51:59] [Auto Update Wizard] Started
-[2019-12-16 20:51:59] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:51:59] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:51:59] [Auto Update Wizard] No New Version v1.0.0
-[2019-12-16 20:51:59] [Notifications] Started
-[2019-12-16 20:51:59] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:51:59] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:51:59] [Notifications] id[1] Dismissed
-[2019-12-16 20:51:59] [Build Installed Check] Started
-[2019-12-16 20:51:59] [Build Installed Check] Install seems to be completed correctly
-[2019-12-16 20:51:59] Trakt Data Not Found for Exodus Redux
-[2019-12-16 20:51:59] [Trakt Data] Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:51:59] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:51:59] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:51:59] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:51:59] [Trakt Data] Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:51:59] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:51:59] [Trakt Data] Seren(plugin.video.seren) is not installed
-[2019-12-16 20:51:59] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:51:59] [Trakt Data] Trakt(script.trakt) is not installed
-[2019-12-16 20:51:59] [Trakt Data] Venom(plugin.video.venom) is not installed
-[2019-12-16 20:51:59] [Build Installed Check] Restoring Trakt Data
-[2019-12-16 20:51:59] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Seren AD(plugin.video.seren) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Seren RD(plugin.video.seren) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
-[2019-12-16 20:51:59] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
-[2019-12-16 20:51:59] Debrid Info Not Found for ResolveURL AD
-[2019-12-16 20:51:59] Debrid Info Not Found for ResolveURL RD
-[2019-12-16 20:51:59] Debrid Info Not Found for ResolveURL PM
-[2019-12-16 20:51:59] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
-[2019-12-16 20:51:59] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
-[2019-12-16 20:51:59] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
-[2019-12-16 20:51:59] [Build Installed Check] Restoring Real Debrid Data
-[2019-12-16 20:51:59] Login Data Not Found for Fanart.tv - Exodus Redux
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:51:59] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:52:00] Login Data Not Found for IMDb - Exodus Redux
-[2019-12-16 20:52:00] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:52:00] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:52:00] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:52:00] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:52:00] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:52:00] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:52:00] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:52:00] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:52:00] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
-[2019-12-16 20:52:00] [Login Info] Netflix(plugin.video.netflix) is not installed
-[2019-12-16 20:52:00] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:52:00] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:52:00] Login Data Restored for OMDb - metahandler
-[2019-12-16 20:52:00] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-16 20:52:00] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
-[2019-12-16 20:52:00] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
-[2019-12-16 20:52:00] [Login Info] Orion(script.module.orion) is not installed
-[2019-12-16 20:52:00] Login Data Restored for TMDb - Exodus Redux
-[2019-12-16 20:52:00] Login Data Not Found for TMDb Login - ExtendedInfo Script
-[2019-12-16 20:52:00] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:52:00] Login Data Not Found for TMDb - OpenInfo
-[2019-12-16 20:52:00] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-16 20:52:00] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:52:00] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:52:00] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:52:00] Login Data Restored for TVDB - metahandler
-[2019-12-16 20:52:00] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:52:00] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:52:00] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:52:00] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:52:00] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
-[2019-12-16 20:52:00] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:52:00] [Build Installed Check] Restoring Login Data
-[2019-12-16 20:52:00] [Trakt Data] Started
-[2019-12-16 20:52:00] [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:52:00] [Debrid Data] Started
-[2019-12-16 20:52:00] [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:52:00] [Login Info] Started
-[2019-12-16 20:52:00] [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:52:00] [Auto Clean Up] Not Enabled
-[2019-12-16 20:52:01] plugin://plugin.program.multiwuwizard/: 
-[2019-12-16 20:52:06] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:06] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:06] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:06] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:06] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:52:06] URL is not of a valid schema: http://
-[2019-12-16 20:52:06] URL is not of a valid schema: http://
-[2019-12-16 20:52:11] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:52:11] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:11] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:11] URL is not of a valid schema: http://
-[2019-12-16 20:52:11] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:52:11] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:52:17] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:52:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:52:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:29] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:53:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:34] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:53:34] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:34] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:34] URL is not of a valid schema: http://
-[2019-12-16 20:53:34] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:53:34] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:53:39] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:53:40] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:40] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:40] URL is not of a valid schema: http://
-[2019-12-16 20:53:40] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:53:40] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:53:44] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-16 20:53:44] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:53:44] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:55:33] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:55:33] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:55:33] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:55:33] URL is not of a valid schema: http://
-[2019-12-16 20:55:33] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:55:33] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:56:45] plugin://plugin.program.multiwuwizard/: 
-[2019-12-16 20:56:45] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:45] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:45] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:45] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:45] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:56:45] URL is not of a valid schema: http://
-[2019-12-16 20:56:45] URL is not of a valid schema: http://
-[2019-12-16 20:56:51] plugin://plugin.program.multiwuwizard/: [ action: normal ] [ mode: install ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:56:51] Login Data Saved for TMDb - metahandler
-[2019-12-16 20:56:52] Login Data Saved for TMDb - Exodus Redux
-[2019-12-16 20:56:52] Login Data Saved for TVDB - metahandler
-[2019-12-16 20:56:52] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:56:52] Login Data Saved for OMDb - metahandler
-[2019-12-16 20:56:52] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:52] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:52] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:52] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:52] URL is not of a valid schema: http://
-[2019-12-16 20:56:52] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:56:52] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:56:57] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:57] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:56:57] URL check passed for http://polskanora.tk/kodi/build.zip: Status code [200]
-[2019-12-16 20:57:23] Login Data Saved for TMDb - metahandler
-[2019-12-16 20:57:23] Login Data Saved for TMDb - Exodus Redux
-[2019-12-16 20:57:23] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:57:23] Login Data Saved for TVDB - metahandler
-[2019-12-16 20:57:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:57:23] Login Data Saved for OMDb - metahandler
-[2019-12-16 20:57:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:57:23] URL is not of a valid schema: http://
-[2019-12-16 20:57:23] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:57:23] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:57:24] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-16 20:57:24] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:57:25] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:57:25] Keep Log File: kodi.log
-[2019-12-16 20:57:25] Keep Log File: kodi.old.log
-[2019-12-16 20:57:26] URL is not of a valid schema: http://
-[2019-12-16 20:57:26] URL is not of a valid schema: url.to.guisettings
-[2019-12-16 20:57:26] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:57:26] Keep sources.xml: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata\sources.xml
-[2019-12-16 20:57:27] Ignoring Addons27.db on Kodi Leia
-[2019-12-16 20:57:27] lookandfeel.enablerssfeeds saved to false
-[2019-12-16 20:57:27] lookandfeel.font saved to "Default"
-[2019-12-16 20:57:27] lookandfeel.rssedit saved to ""
-[2019-12-16 20:57:27] lookandfeel.skincolors saved to "SKINDEFAULT"
-[2019-12-16 20:57:27] lookandfeel.skintheme saved to "SKINDEFAULT"
-[2019-12-16 20:57:27] lookandfeel.skinzoom saved to 0
-[2019-12-16 20:57:27] lookandfeel.soundskin saved to "resource.uisounds.kodi"
-[2019-12-16 20:57:27] lookandfeel.startupwindow saved to 10000
-[2019-12-16 20:57:27] lookandfeel.stereostrength saved to 5
-[2019-12-16 20:57:27] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:57:28] Skipping: kodi.log
-[2019-12-16 20:57:28] Skipping: kodi.old.log
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/addon.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/default.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/fanart.jpg
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/fanart.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/icon.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/LICENSE
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/README.md
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/startup.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/uservar.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/uservar.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/settings.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/tempaddon.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/__init__.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/__init__.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/advanced.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/backup.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/qr.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/restore.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/save.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/speedtest.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/yt.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/addon_menu.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/maintenance_menu.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.pyo
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/addoninstaller.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/apkinstaller.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/builds.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/ContentPanel.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/IconTemplate.psd
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/information.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/keepdebrid.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/keeplogin.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/keeptrakt.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/maintenance.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/qricon.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/savedata.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/settings.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/speed.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/wizard.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Bold.otf
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-BoldItalic.otf
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Italic.otf
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Light.otf
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-LightItalic.otf
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Regular.otf
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/advanced_configurator.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/APK.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/build_update_prompt.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Contact.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunBuild.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunSaveData.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/loguploader.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/log_viewer.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/main.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Notifications.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/SpeedTest.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/text_box.xml
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ajax-loader-bar.gif
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/bg_screen.jpg
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_bg.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_glow_active.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_bg.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_ic_arrow.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_bg.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_glow.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/recspeed.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/speedtest_results_wtext.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/testing_ping.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/bgg2.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/ContentPanel.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/dialogheader.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-black.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-dialog-bg.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-white.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/spmc.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/white.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_grey.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_lightblue.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton-focus.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKey.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKeyNF.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-fo.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-nofo.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-background.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-focus.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonfo.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonnf.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemFO.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemNF.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-focus.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-nofocus.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nib.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nibNF.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/slider1.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/bg_screen.jpg
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/btn_start_bg.png
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/advanced.json
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/apks.txt
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/builds.txt
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/notify.txt
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/themes.txt
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/youtube.txt
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/resources/text/data/advanced_settings.json
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/cli.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/colors.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/consts.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/encoder.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/helpers.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/utils.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/writers.py
-[2019-12-16 20:57:30] Skipping: addons/plugin.program.multiwuwizard/segno/__init__.py
-[2019-12-16 20:57:36] Skipping: addons/script.module.chardet/.gitignore
-[2019-12-16 20:57:38] Skipping: addons/script.module.idna/.gitignore
-[2019-12-16 20:58:01] Skipping: userdata/sources.xml
-[2019-12-16 20:58:01] Skipping: userdata/addon_data/plugin.program.multiwuwizard/settings.xml
-[2019-12-16 20:58:01] Skipping: userdata/addon_data/plugin.program.multiwuwizard/wizard.log
-[2019-12-16 20:58:01] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/exodusredux_tmdb
-[2019-12-16 20:58:01] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_omdb
-[2019-12-16 20:58:01] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tmdb
-[2019-12-16 20:58:01] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tvdb
-[2019-12-16 20:58:02] Skipping: userdata/Database/Textures13.db
-[2019-12-16 20:58:03] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:58:04] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:58:04] INSTALLED 100: [ERRORS:0]
-[2019-12-16 20:58:04] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:58:04] URL is not of a valid schema: url.to.themes
-[2019-12-16 20:58:04] Force Checking for Updates: (3, u'repository.host505', u'EE4014D9035FDD481215973E04BB1CE7749A7D79715DDDFD94E299D4EA937191a2d029be142208d9c82328eb5df11a80', u'2019-12-16 20:32:09', u'2.2')
-[2019-12-16 20:58:06] Force Closing Kodi: Platform[windows]
-[2019-12-16 20:59:20] [Path Check] Started
-[2019-12-16 20:59:20] [Path Check] Good!
-[2019-12-16 20:59:20] [First Run] Skipping Save Data Settings
-[2019-12-16 20:59:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:59:20] [Current Build Check] Build Installed: MWUBuild Alpha
-[2019-12-16 20:59:20] [Build Update Check] Started
-[2019-12-16 20:59:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:59:20] [Build Check] Build Installed: Checking Updates
-[2019-12-16 20:59:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:59:20] [Check Updates] [Installed Version: 0.0.2] [Current Version: 0.0.2]
-[2019-12-16 20:59:20] [Auto Install Repo] Not Enabled
-[2019-12-16 20:59:20] [Binary Detection] Eligible Binary Addons to Reinstall
-[2019-12-16 20:59:20] [Auto Update Wizard] Started
-[2019-12-16 20:59:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:59:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-16 20:59:21] [Auto Update Wizard] No New Version v1.0.0
-[2019-12-16 20:59:21] [Notifications] Started
-[2019-12-16 20:59:21] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:59:21] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-16 20:59:21] [Notifications] id[1] Dismissed
-[2019-12-16 20:59:21] [Build Installed Check] Started
-[2019-12-16 20:59:21] [Build Installed Check] Install seems to be completed correctly
-[2019-12-16 20:59:21] Trakt Data Not Found for Exodus Redux
-[2019-12-16 20:59:21] [Trakt Data] Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:59:21] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:59:21] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:59:21] [Trakt Data] Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:59:21] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:59:21] [Trakt Data] Seren(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:59:21] [Trakt Data] Trakt(script.trakt) is not installed
-[2019-12-16 20:59:21] [Trakt Data] Venom(plugin.video.venom) is not installed
-[2019-12-16 20:59:21] [Build Installed Check] Restoring Trakt Data
-[2019-12-16 20:59:21] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Seren AD(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Seren RD(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] Debrid Info Not Found for ResolveURL AD
-[2019-12-16 20:59:21] Debrid Info Not Found for ResolveURL RD
-[2019-12-16 20:59:21] Debrid Info Not Found for ResolveURL PM
-[2019-12-16 20:59:21] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
-[2019-12-16 20:59:21] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
-[2019-12-16 20:59:21] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
-[2019-12-16 20:59:21] [Build Installed Check] Restoring Real Debrid Data
-[2019-12-16 20:59:21] Login Data Not Found for Fanart.tv - Exodus Redux
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:59:21] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:59:21] Login Data Not Found for IMDb - Exodus Redux
-[2019-12-16 20:59:21] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:59:21] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:59:21] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:59:21] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:59:21] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:59:21] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:59:21] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:59:21] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
-[2019-12-16 20:59:21] [Login Info] Netflix(plugin.video.netflix) is not installed
-[2019-12-16 20:59:21] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:59:21] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:59:21] Login Data Restored for OMDb - metahandler
-[2019-12-16 20:59:21] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-16 20:59:21] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
-[2019-12-16 20:59:21] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
-[2019-12-16 20:59:21] [Login Info] Orion(script.module.orion) is not installed
-[2019-12-16 20:59:21] Login Data Restored for TMDb - Exodus Redux
-[2019-12-16 20:59:21] Login Data Not Found for TMDb Login - ExtendedInfo Script
-[2019-12-16 20:59:21] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-16 20:59:21] Login Data Not Found for TMDb - OpenInfo
-[2019-12-16 20:59:21] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-16 20:59:21] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
-[2019-12-16 20:59:21] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:59:21] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] Login Data Restored for TVDB - metahandler
-[2019-12-16 20:59:21] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-16 20:59:21] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-16 20:59:21] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
-[2019-12-16 20:59:21] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
-[2019-12-16 20:59:21] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
-[2019-12-16 20:59:21] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-16 20:59:21] [Build Installed Check] Restoring Login Data
-[2019-12-16 20:59:21] [Trakt Data] Started
-[2019-12-16 20:59:21] [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:59:21] [Debrid Data] Started
-[2019-12-16 20:59:21] [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:59:21] [Login Info] Started
-[2019-12-16 20:59:21] [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-16
-[2019-12-16 20:59:21] [Auto Clean Up] Not Enabled
-[2019-12-18 13:57:42] [Path Check] Started
-[2019-12-18 13:57:42] [Path Check] Good!
-[2019-12-18 13:57:42] [First Run] Skipping Save Data Settings
-[2019-12-18 13:57:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 13:57:42] [Current Build Check] Build Installed: MWUBuild Alpha
-[2019-12-18 13:57:43] [Build Update Check] Started
-[2019-12-18 13:57:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 13:57:43] [Build Check] Build Installed: Checking Updates
-[2019-12-18 13:57:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 13:57:43] [Check Updates] [Installed Version: 0.0.2] [Current Version: 0.0.2]
-[2019-12-18 13:57:43] [Auto Install Repo] Not Enabled
-[2019-12-18 13:57:43] [Binary Detection] Eligible Binary Addons to Reinstall
-[2019-12-18 13:57:43] [Auto Update Wizard] Started
-[2019-12-18 13:57:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 13:57:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 13:57:44] [Auto Update Wizard] No New Version v1.0.0
-[2019-12-18 13:57:44] [Notifications] Started
-[2019-12-18 13:57:44] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-18 13:57:44] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-18 13:57:44] [Notifications] id[1] Dismissed
-[2019-12-18 13:57:44] [Build Installed Check] Started
-[2019-12-18 13:57:44] [Build Installed Check] Install seems to be completed correctly
-[2019-12-18 13:57:44] Trakt Data Not Found for Exodus Redux
-[2019-12-18 13:57:44] [Trakt Data] Gaia(plugin.video.gaia) is not installed
-[2019-12-18 13:57:44] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 13:57:44] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 13:57:44] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 13:57:44] [Trakt Data] Realizer(plugin.video.realizer) is not installed
-[2019-12-18 13:57:44] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 13:57:44] [Trakt Data] Seren(plugin.video.seren) is not installed
-[2019-12-18 13:57:44] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 13:57:44] [Trakt Data] Trakt(script.trakt) is not installed
-[2019-12-18 13:57:44] [Trakt Data] Venom(plugin.video.venom) is not installed
-[2019-12-18 13:57:44] [Build Installed Check] Restoring Trakt Data
-[2019-12-18 13:57:44] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
-[2019-12-18 13:57:44] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
-[2019-12-18 13:57:44] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
-[2019-12-18 13:57:44] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 13:57:44] [Debrid Info] Seren AD(plugin.video.seren) is not installed
-[2019-12-18 13:57:44] [Debrid Info] Seren RD(plugin.video.seren) is not installed
-[2019-12-18 13:57:44] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
-[2019-12-18 13:57:45] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
-[2019-12-18 13:57:45] Debrid Info Not Found for ResolveURL AD
-[2019-12-18 13:57:45] Debrid Info Not Found for ResolveURL RD
-[2019-12-18 13:57:45] Debrid Info Not Found for ResolveURL PM
-[2019-12-18 13:57:45] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
-[2019-12-18 13:57:45] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
-[2019-12-18 13:57:45] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
-[2019-12-18 13:57:45] [Build Installed Check] Restoring Real Debrid Data
-[2019-12-18 13:57:45] Login Data Not Found for Fanart.tv - Exodus Redux
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 13:57:45] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
-[2019-12-18 13:57:45] Login Data Not Found for IMDb - Exodus Redux
-[2019-12-18 13:57:45] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-18 13:57:45] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 13:57:45] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 13:57:45] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 13:57:45] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 13:57:45] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 13:57:45] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
-[2019-12-18 13:57:45] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-18 13:57:45] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
-[2019-12-18 13:57:45] [Login Info] Netflix(plugin.video.netflix) is not installed
-[2019-12-18 13:57:45] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-18 13:57:45] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-18 13:57:46] Login Data Restored for OMDb - metahandler
-[2019-12-18 13:57:46] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-18 13:57:46] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
-[2019-12-18 13:57:46] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
-[2019-12-18 13:57:46] [Login Info] Orion(script.module.orion) is not installed
-[2019-12-18 13:57:46] Login Data Restored for TMDb - Exodus Redux
-[2019-12-18 13:57:46] Login Data Not Found for TMDb Login - ExtendedInfo Script
-[2019-12-18 13:57:46] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 13:57:46] Login Data Not Found for TMDb - OpenInfo
-[2019-12-18 13:57:46] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-18 13:57:46] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
-[2019-12-18 13:57:46] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 13:57:46] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
-[2019-12-18 13:57:46] Login Data Restored for TVDB - metahandler
-[2019-12-18 13:57:46] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 13:57:46] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 13:57:46] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 13:57:46] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
-[2019-12-18 13:57:46] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
-[2019-12-18 13:57:46] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-18 13:57:46] [Build Installed Check] Restoring Login Data
-[2019-12-18 13:57:46] [Trakt Data] Started
-[2019-12-18 13:57:46] [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
-[2019-12-18 13:57:47] [Debrid Data] Started
-[2019-12-18 13:57:47] [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
-[2019-12-18 13:57:47] [Login Info] Started
-[2019-12-18 13:57:47] [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
-[2019-12-18 13:57:47] [Auto Clean Up] Not Enabled
-[2019-12-18 18:35:21] [Path Check] Started
-m.multiwuwizard/: 
-[2019-12-18 18:35:21] [Path Check] Good!
-[2019-12-18 18:35:21] [First Run] Skipping Save Data Settings
-[2019-12-18 18:35:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:21] [Current Build Check] Build Installed: MWUBuild Alpha
-[2019-12-18 18:35:21] [Build Update Check] Started
-[2019-12-18 18:35:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:21] [Build Check] Build Installed: Checking Updates
-[2019-12-18 18:35:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:21] [Check Updates] [Installed Version: 0.0.2] [Current Version: 0.0.2]
-[2019-12-18 18:35:21] [Auto Install Repo] Not Enabled
-[2019-12-18 18:35:21] [Binary Detection] Eligible Binary Addons to Reinstall
-[2019-12-18 18:35:21] [Auto Update Wizard] Started
-[2019-12-18 18:35:22] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:22] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:22] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:22] URL is not of a valid schema: url.to.themes
-[2019-12-18 18:35:22] [Auto Update Wizard] No New Version v1.0.0
-[2019-12-18 18:35:22] [Notifications] Started
-[2019-12-18 18:35:22] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-18 18:35:22] URL is not of a valid schema: http://
-[2019-12-18 18:35:22] URL is not of a valid schema: http://
-[2019-12-18 18:35:22] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
-[2019-12-18 18:35:22] [Notifications] id[1] Dismissed
-[2019-12-18 18:35:22] [Build Installed Check] Started
-[2019-12-18 18:35:22] [Build Installed Check] Install seems to be completed correctly
-[2019-12-18 18:35:22] Trakt Data Not Found for Exodus Redux
-[2019-12-18 18:35:22] [Trakt Data] Gaia(plugin.video.gaia) is not installed
-[2019-12-18 18:35:22] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 18:35:22] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 18:35:22] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 18:35:22] [Trakt Data] Realizer(plugin.video.realizer) is not installed
-[2019-12-18 18:35:22] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 18:35:22] [Trakt Data] Seren(plugin.video.seren) is not installed
-[2019-12-18 18:35:22] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 18:35:22] [Trakt Data] Trakt(script.trakt) is not installed
-[2019-12-18 18:35:22] [Trakt Data] Venom(plugin.video.venom) is not installed
-[2019-12-18 18:35:22] [Build Installed Check] Restoring Trakt Data
-[2019-12-18 18:35:22] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
-[2019-12-18 18:35:22] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
-[2019-12-18 18:35:22] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 18:35:22] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
-[2019-12-18 18:35:22] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 18:35:22] [Debrid Info] Seren AD(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] [Debrid Info] Seren RD(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] Debrid Info Not Found for ResolveURL AD
-[2019-12-18 18:35:23] Debrid Info Not Found for ResolveURL RD
-[2019-12-18 18:35:23] Debrid Info Not Found for ResolveURL PM
-[2019-12-18 18:35:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:23] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
-[2019-12-18 18:35:23] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
-[2019-12-18 18:35:23] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
-[2019-12-18 18:35:23] [Build Installed Check] Restoring Real Debrid Data
-[2019-12-18 18:35:23] Login Data Not Found for Fanart.tv - Exodus Redux
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 18:35:23] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
-[2019-12-18 18:35:23] Login Data Not Found for IMDb - Exodus Redux
-[2019-12-18 18:35:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:23] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-18 18:35:23] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 18:35:23] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 18:35:23] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 18:35:23] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 18:35:23] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 18:35:23] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
-[2019-12-18 18:35:23] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-18 18:35:23] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
-[2019-12-18 18:35:23] [Login Info] Netflix(plugin.video.netflix) is not installed
-[2019-12-18 18:35:23] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-18 18:35:23] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-18 18:35:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:23] Login Data Restored for OMDb - metahandler
-[2019-12-18 18:35:23] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-18 18:35:23] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
-[2019-12-18 18:35:23] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
-[2019-12-18 18:35:23] [Login Info] Orion(script.module.orion) is not installed
-[2019-12-18 18:35:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:23] Login Data Restored for TMDb - Exodus Redux
-[2019-12-18 18:35:23] Login Data Not Found for TMDb Login - ExtendedInfo Script
-[2019-12-18 18:35:23] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
-[2019-12-18 18:35:23] URL is not of a valid schema: url.to.themes
-[2019-12-18 18:35:23] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
-[2019-12-18 18:35:23] Login Data Not Found for TMDb - OpenInfo
-[2019-12-18 18:35:23] URL is not of a valid schema: http://
-[2019-12-18 18:35:23] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 18:35:23] URL is not of a valid schema: http://
-[2019-12-18 18:35:23] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
-[2019-12-18 18:35:23] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
-[2019-12-18 18:35:23] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 18:35:23] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] Login Data Restored for TVDB - metahandler
-[2019-12-18 18:35:23] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
-[2019-12-18 18:35:23] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
-[2019-12-18 18:35:23] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
-[2019-12-18 18:35:23] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
-[2019-12-18 18:35:23] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
-[2019-12-18 18:35:23] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
-[2019-12-18 18:35:23] [Build Installed Check] Restoring Login Data
-[2019-12-18 18:35:24] [Trakt Data] Started
-[2019-12-18 18:35:24] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 18:35:24] [Trakt Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
-[2019-12-18 18:35:24] [Debrid Data] Started
-[2019-12-18 18:35:24] [Debrid Data] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
-[2019-12-18 18:35:24] [Login Info] Started
-[2019-12-18 18:35:24] [Login Info] Next Auto Save isn't until: 2019-12-19 / TODAY is: 2019-12-18
-[2019-12-18 18:35:24] [Auto Clean Up] Not Enabled
-[2019-12-18 18:35:24] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:24] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:24] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:24] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 18:35:24] URL is not of a valid schema: url.to.themes
-[2019-12-18 18:35:24] URL is not of a valid schema: http://
-[2019-12-18 18:35:24] URL is not of a valid schema: http://
-[2019-12-18 20:10:09] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:10:09] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:09] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:15] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:10:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:15] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:10:15] URL is not of a valid schema: http://
-[2019-12-18 20:10:15] URL is not of a valid schema: http://
-[2019-12-18 20:10:17] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:10:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:20] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:10:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:10:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:10:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] URL is not of a valid schema: http://
-[2019-12-18 20:10:21] URL is not of a valid schema: http://
-[2019-12-18 20:10:21] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:21] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:10:21] URL is not of a valid schema: http://
-[2019-12-18 20:10:21] URL is not of a valid schema: http://
-[2019-12-18 20:10:23] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:10:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:23] URL is not of a valid schema: http://
-[2019-12-18 20:10:23] URL is not of a valid schema: url.to.guisettings
-[2019-12-18 20:10:23] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:10:26] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:10:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:10:26] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:10:26] URL is not of a valid schema: http://
-[2019-12-18 20:10:26] URL is not of a valid schema: http://
-[2019-12-18 20:16:41] plugin://plugin.program.multiwuwizard/: [ mode: contact ] 
-[2019-12-18 20:16:49] plugin://plugin.program.multiwuwizard/: [ mode: savedata ] 
-[2019-12-18 20:18:28] plugin://plugin.program.multiwuwizard/: [ mode: savedata ] 
-[2019-12-18 20:18:32] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:18:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:18:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:18:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:18:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:18:32] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:18:32] URL is not of a valid schema: http://
-[2019-12-18 20:18:32] URL is not of a valid schema: http://
-[2019-12-18 20:18:39] plugin://plugin.program.multiwuwizard/: [ mode: settings ] [ name: plugin.program.multiwuwizard ] 
-[2019-12-18 20:20:42] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:20:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:42] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:20:42] URL is not of a valid schema: http://
-[2019-12-18 20:20:42] URL is not of a valid schema: http://
-[2019-12-18 20:20:43] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:20:44] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:44] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:48] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:20:49] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:49] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:51] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:20:51] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:51] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:51] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:51] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:20:51] URL is not of a valid schema: url.to.themes
-[2019-12-18 20:20:51] URL is not of a valid schema: http://
-[2019-12-18 20:20:51] URL is not of a valid schema: http://
-[2019-12-18 20:25:15] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:25:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:17] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:25:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:17] URL is not of a valid schema: http://
-[2019-12-18 20:25:17] URL is not of a valid schema: http://
-[2019-12-18 20:25:17] URL is not of a valid schema: http://
-[2019-12-18 20:25:18] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:25:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:18] URL is not of a valid schema: http://
-[2019-12-18 20:25:18] URL is not of a valid schema: http://
-[2019-12-18 20:25:18] URL is not of a valid schema: http://
-[2019-12-18 20:25:20] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:25:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:20] URL is not of a valid schema: http://
-[2019-12-18 20:25:21] URL is not of a valid schema: http://
-[2019-12-18 20:25:21] URL is not of a valid schema: http://
-[2019-12-18 20:25:22] plugin://plugin.program.multiwuwizard/: [ mode: settings ] [ name: plugin.program.multiwuwizard ] 
-[2019-12-18 20:25:47] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:25:47] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:47] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:47] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:47] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:47] URL is not of a valid schema: http://
-[2019-12-18 20:25:47] URL is not of a valid schema: http://
-[2019-12-18 20:25:47] URL is not of a valid schema: http://
-[2019-12-18 20:25:48] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:25:48] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:48] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:48] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:48] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:25:48] URL is not of a valid schema: http://
-[2019-12-18 20:25:48] URL is not of a valid schema: http://
-[2019-12-18 20:25:48] URL is not of a valid schema: http://
-[2019-12-18 20:39:25] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
-[2019-12-18 20:39:25] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:25] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:28] plugin://plugin.program.multiwuwizard/: 
-[2019-12-18 20:39:28] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:28] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:29] URL is not of a valid schema: http://
-[2019-12-18 20:39:29] URL is not of a valid schema: http://
-[2019-12-18 20:39:29] URL is not of a valid schema: http://
-[2019-12-18 20:39:33] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:39:33] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:33] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:33] URL is not of a valid schema: http://
-[2019-12-18 20:39:33] URL is not of a valid schema: http://
-[2019-12-18 20:39:33] URL is not of a valid schema: http://
-[2019-12-18 20:39:37] plugin://plugin.program.multiwuwizard/: [ action: normal ] [ mode: install ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:39:38] Login Data Saved for TMDb - metahandler
-[2019-12-18 20:39:38] Login Data Saved for TMDb - Exodus Redux
-[2019-12-18 20:39:38] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:39:38] Login Data Saved for TVDB - metahandler
-[2019-12-18 20:39:39] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:39] Login Data Saved for OMDb - metahandler
-[2019-12-18 20:39:39] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:39] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:39] URL is not of a valid schema: http://
-[2019-12-18 20:39:39] URL is not of a valid schema: http://
-[2019-12-18 20:39:39] URL is not of a valid schema: http://
-[2019-12-18 20:39:39] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:41] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:41] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:39:41] URL check passed for http://polskanora.tk/kodi/build.zip: Status code [200]
-[2019-12-18 20:40:04] Login Data Saved for TMDb - metahandler
-[2019-12-18 20:40:05] Login Data Saved for TMDb - Exodus Redux
-[2019-12-18 20:40:05] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:40:05] Login Data Saved for TVDB - metahandler
-[2019-12-18 20:40:05] Login Data Saved for OMDb - metahandler
-[2019-12-18 20:40:05] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:40:05] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:40:05] URL is not of a valid schema: http://
-[2019-12-18 20:40:05] URL is not of a valid schema: http://
-[2019-12-18 20:40:05] URL is not of a valid schema: http://
-[2019-12-18 20:40:06] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
-[2019-12-18 20:40:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:40:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
-[2019-12-18 20:40:07] URL is not of a valid schema: http://
 [2019-12-18 20:40:07] URL is not of a valid schema: http://
 [2019-12-18 20:40:07] URL is not of a valid schema: http://
 [2019-12-18 20:40:07] Keep Log File: kodi.log
@@ -2608,3 +1303,742 @@ m.multiwuwizard/:
 [2019-12-18 21:10:13] [Login Info] Started
 [2019-12-18 21:10:13] [Login Info] Next Auto Save isn't until: 2019-12-21 / TODAY is: 2019-12-18
 [2019-12-18 21:10:13] [Auto Clean Up] Not Enabled
+[2019-12-20 20:26:08] [Path Check] Started
+[2019-12-20 20:26:08] [Path Check] Good!
+[2019-12-20 20:26:08] [First Run] Skipping Save Data Settings
+[2019-12-20 20:26:08] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:08] [Current Build Check] Build Installed: MWUBuild Alpha
+[2019-12-20 20:26:08] [Build Update Check] Started
+[2019-12-20 20:26:08] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:08] [Build Check] Build Installed: Checking Updates
+[2019-12-20 20:26:09] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:09] [Check Updates] [Installed Version: 0.0.3] [Current Version: 0.0.4] Opening Update Window
+[2019-12-20 20:26:15] [Check Updates] [Installed Version: 0.0.3] [Current Version: 0.0.3] [User Selected: Fresh Install build]
+[2019-12-20 20:26:15] [Check Updates] [Next Check: 2019-12-20]
+[2019-12-20 20:26:15] plugin://plugin.program.multiwuwizard/: [ url: fresh ] [ mode: install ] [ name: MWUBuild Alpha ] 
+[2019-12-20 20:26:16] [Auto Install Repo] Not Enabled
+[2019-12-20 20:26:16] [Binary Detection] Eligible Binary Addons to Reinstall
+[2019-12-20 20:26:16] [Auto Update Wizard] Started
+[2019-12-20 20:26:16] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:16] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:16] [Auto Update Wizard] No New Version v1.0.0
+[2019-12-20 20:26:16] [Notifications] Started
+[2019-12-20 20:26:16] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 20:26:16] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 20:26:16] [Notifications] id[1] Dismissed
+[2019-12-20 20:26:16] [Build Installed Check] Started
+[2019-12-20 20:26:16] [Build Installed Check] Install seems to be completed correctly
+[2019-12-20 20:26:16] Trakt Data Not Found for Exodus Redux
+[2019-12-20 20:26:16] [Trakt Data] Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:26:16] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:26:16] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:26:16] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:26:16] [Trakt Data] Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:26:16] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:26:16] [Trakt Data] Seren(plugin.video.seren) is not installed
+[2019-12-20 20:26:16] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:26:16] [Trakt Data] Trakt(script.trakt) is not installed
+[2019-12-20 20:26:16] [Trakt Data] Venom(plugin.video.venom) is not installed
+[2019-12-20 20:26:16] [Build Installed Check] Restoring Trakt Data
+[2019-12-20 20:26:16] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
+[2019-12-20 20:26:16] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
+[2019-12-20 20:26:16] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
+[2019-12-20 20:26:16] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:26:16] [Debrid Info] Seren AD(plugin.video.seren) is not installed
+[2019-12-20 20:26:16] [Debrid Info] Seren RD(plugin.video.seren) is not installed
+[2019-12-20 20:26:16] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
+[2019-12-20 20:26:17] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
+[2019-12-20 20:26:17] Debrid Info Not Found for ResolveURL AD
+[2019-12-20 20:26:17] Debrid Info Not Found for ResolveURL RD
+[2019-12-20 20:26:17] Debrid Info Not Found for ResolveURL PM
+[2019-12-20 20:26:17] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
+[2019-12-20 20:26:17] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
+[2019-12-20 20:26:17] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
+[2019-12-20 20:26:17] [Build Installed Check] Restoring Real Debrid Data
+[2019-12-20 20:26:17] Login Data Not Found for Fanart.tv - Exodus Redux
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:26:17] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
+[2019-12-20 20:26:17] Login Data Not Found for IMDb - Exodus Redux
+[2019-12-20 20:26:17] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:26:17] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:26:17] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:26:17] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:26:17] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:26:17] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:26:17] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 20:26:17] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 20:26:17] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
+[2019-12-20 20:26:17] [Login Info] Netflix(plugin.video.netflix) is not installed
+[2019-12-20 20:26:17] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 20:26:17] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 20:26:17] Login Data Restored for OMDb - metahandler
+[2019-12-20 20:26:17] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 20:26:17] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
+[2019-12-20 20:26:17] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
+[2019-12-20 20:26:18] [Login Info] Orion(script.module.orion) is not installed
+[2019-12-20 20:26:18] Login Data Restored for TMDb - Exodus Redux
+[2019-12-20 20:26:18] Login Data Not Found for TMDb Login - ExtendedInfo Script
+[2019-12-20 20:26:18] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:26:18] Login Data Not Found for TMDb - OpenInfo
+[2019-12-20 20:26:18] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 20:26:18] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 20:26:18] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:26:18] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
+[2019-12-20 20:26:18] Login Data Restored for TVDB - metahandler
+[2019-12-20 20:26:18] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:26:18] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:26:18] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:26:18] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
+[2019-12-20 20:26:18] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
+[2019-12-20 20:26:18] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 20:26:18] [Build Installed Check] Restoring Login Data
+[2019-12-20 20:26:18] [Trakt Data] Started
+[2019-12-20 20:26:18] [Trakt Data] Next Auto Save isn't until: 2019-12-21 / TODAY is: 2019-12-20
+[2019-12-20 20:26:18] [Debrid Data] Started
+[2019-12-20 20:26:18] [Debrid Data] Next Auto Save isn't until: 2019-12-21 / TODAY is: 2019-12-20
+[2019-12-20 20:26:18] [Login Info] Started
+[2019-12-20 20:26:18] [Login Info] Next Auto Save isn't until: 2019-12-21 / TODAY is: 2019-12-20
+[2019-12-20 20:26:18] [Auto Clean Up] Not Enabled
+[2019-12-20 20:26:23] plugin://plugin.program.multiwuwizard/: 
+[2019-12-20 20:26:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:23] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:23] URL is not of a valid schema: http://
+[2019-12-20 20:26:23] URL is not of a valid schema: http://
+[2019-12-20 20:26:23] URL is not of a valid schema: http://
+[2019-12-20 20:26:26] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
+[2019-12-20 20:26:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:28] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
+[2019-12-20 20:26:28] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:28] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:28] URL is not of a valid schema: http://
+[2019-12-20 20:26:28] URL is not of a valid schema: http://
+[2019-12-20 20:26:28] URL is not of a valid schema: http://
+[2019-12-20 20:26:34] plugin://plugin.program.multiwuwizard/: [ action: normal ] [ mode: install ] [ name: MWUBuild Alpha ] 
+[2019-12-20 20:26:34] Login Data Saved for TMDb - metahandler
+[2019-12-20 20:26:35] Login Data Saved for TMDb - Exodus Redux
+[2019-12-20 20:26:35] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
+[2019-12-20 20:26:35] Login Data Saved for TVDB - metahandler
+[2019-12-20 20:26:35] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:35] Login Data Saved for OMDb - metahandler
+[2019-12-20 20:26:35] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:35] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:35] URL is not of a valid schema: http://
+[2019-12-20 20:26:35] URL is not of a valid schema: http://
+[2019-12-20 20:26:35] URL is not of a valid schema: http://
+[2019-12-20 20:26:35] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:39] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:39] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:26:39] URL check passed for http://polskanora.tk/kodi/build.zip: Status code [200]
+[2019-12-20 20:28:13] Login Data Saved for TMDb - metahandler
+[2019-12-20 20:28:13] Login Data Saved for TMDb - Exodus Redux
+[2019-12-20 20:28:13] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
+[2019-12-20 20:28:13] Login Data Saved for TVDB - metahandler
+[2019-12-20 20:28:13] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:13] Login Data Saved for OMDb - metahandler
+[2019-12-20 20:28:13] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:14] URL is not of a valid schema: http://
+[2019-12-20 20:28:14] URL is not of a valid schema: http://
+[2019-12-20 20:28:14] URL is not of a valid schema: http://
+[2019-12-20 20:28:14] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
+[2019-12-20 20:28:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:15] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:15] URL is not of a valid schema: http://
+[2019-12-20 20:28:15] URL is not of a valid schema: http://
+[2019-12-20 20:28:15] URL is not of a valid schema: http://
+[2019-12-20 20:28:16] Keep Log File: kodi.log
+[2019-12-20 20:28:16] Keep Log File: kodi.old.log
+[2019-12-20 20:28:17] Keep sources.xml: C:\Users\Oliwier\AppData\Roaming\Kodi\userdata\sources.xml
+[2019-12-20 20:28:17] Ignoring Addons27.db on Kodi Leia
+[2019-12-20 20:28:18] lookandfeel.enablerssfeeds saved to true
+[2019-12-20 20:28:18] lookandfeel.font saved to "Default"
+[2019-12-20 20:28:18] lookandfeel.rssedit saved to ""
+[2019-12-20 20:28:18] lookandfeel.skincolors saved to "SKINDEFAULT"
+[2019-12-20 20:28:18] lookandfeel.skintheme saved to "SKINDEFAULT"
+[2019-12-20 20:28:18] lookandfeel.skinzoom saved to 0
+[2019-12-20 20:28:18] lookandfeel.soundskin saved to "resource.uisounds.kodi"
+[2019-12-20 20:28:18] lookandfeel.startupwindow saved to 10000
+[2019-12-20 20:28:18] lookandfeel.stereostrength saved to 5
+[2019-12-20 20:28:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:19] Skipping: kodi.log
+[2019-12-20 20:28:19] Skipping: kodi.old.log
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/addon.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/default.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/fanart.jpg
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/fanart.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/icon.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/LICENSE
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/README.md
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/startup.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/uservar.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/uservar.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/settings.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/tempaddon.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/__init__.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/__init__.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/advanced.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/backup.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/check.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/clear.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/db.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/debridit.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/downloader.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/extract.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/install.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/loginit.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/qr.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/restore.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/save.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/skin.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/speedtest.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/test.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/traktit.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/update.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/whitelist.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/wizard.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/yt.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/zipfile.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/__init__.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/config.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/directory.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/logging.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/router.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/tools.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/common/__init__.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/addon_menu.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/build_menu.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/maintenance_menu.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/main_menu.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/menu.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/window.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/libs/gui/__init__.pyo
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/addoninstaller.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/apkinstaller.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/builds.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/ContentPanel.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/IconTemplate.psd
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/information.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/keepdebrid.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/keeplogin.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/keeptrakt.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/maintenance.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/qricon.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/savedata.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/settings.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/speed.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/wizard.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Bold.otf
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-BoldItalic.otf
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Italic.otf
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Light.otf
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-LightItalic.otf
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/media/fonts/Bellota-Regular.otf
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/advanced_configurator.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/APK.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/build_update_prompt.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Contact.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunBuild.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/FirstRunSaveData.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/loguploader.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/log_viewer.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/main.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/Notifications.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/SpeedTest.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/1080i/text_box.xml
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ajax-loader-bar.gif
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/bg_screen.jpg
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_bg.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/btn_start_glow_active.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_bg.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/gauge_ic_arrow.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_bg.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/ping_progress_glow.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/recspeed.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/speedtest_results_wtext.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/testing_ping.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/bgg2.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/ContentPanel.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/dialogheader.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-black.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-dialog-bg.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/loguploader-white.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/spmc.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Background/white.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_grey.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/button-focus_lightblue.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton-focus.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/DialogCloseButton.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKey.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/KeyboardKeyNF.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-fo.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/loguploader-dialogbutton-nofo.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-background.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V-focus.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/scrollbar-V.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonfo.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Button/testbuttonnf.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemFO.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/MenuItemNF.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-focus.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/RadioButton/radiobutton-nofocus.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nib.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/osd_slider_nibNF.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/Slider/slider1.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/bg_screen.jpg
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/skins/Default/media/SpeedTest/btn_start_bg.png
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/advanced.json
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/apks.txt
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/builds.txt
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/notify.txt
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/themes.txt
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/youtube.txt
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/resources/text/data/advanced_settings.json
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/cli.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/colors.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/consts.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/encoder.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/helpers.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/utils.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/writers.py
+[2019-12-20 20:28:21] Skipping: addons/plugin.program.multiwuwizard/segno/__init__.py
+[2019-12-20 20:28:26] Skipping: addons/script.module.chardet/.gitignore
+[2019-12-20 20:28:28] Skipping: addons/script.module.idna/.gitignore
+[2019-12-20 20:28:52] Skipping: userdata/sources.xml
+[2019-12-20 20:28:52] Skipping: userdata/addon_data/plugin.program.multiwuwizard/settings.xml
+[2019-12-20 20:28:52] Skipping: userdata/addon_data/plugin.program.multiwuwizard/wizard.log
+[2019-12-20 20:28:52] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/exodusredux_tmdb
+[2019-12-20 20:28:52] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_omdb
+[2019-12-20 20:28:52] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tmdb
+[2019-12-20 20:28:52] Skipping: userdata/addon_data/plugin.program.multiwuwizard/login/metahandler_tvdb
+[2019-12-20 20:28:52] Skipping: userdata/Database/Textures13.db
+[2019-12-20 20:28:54] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:54] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:54] INSTALLED 100: [ERRORS:0]
+[2019-12-20 20:28:54] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:28:54] URL is not of a valid schema: http://
+[2019-12-20 20:28:54] Force Checking for Updates: (5, u'repository.mods-kodi', u'b8bd2bb4605fb765db6f6cd8616a06be', u'2019-12-18 20:40:50', u'0.1.2')
+[2019-12-20 20:28:56] Force Closing Kodi: Platform[windows]
+[2019-12-20 20:29:06] [Path Check] Started
+[2019-12-20 20:29:07] [Path Check] Good!
+[2019-12-20 20:29:07] [First Run] Skipping Save Data Settings
+[2019-12-20 20:29:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:29:07] [Current Build Check] Build Installed: MWUBuild Alpha
+[2019-12-20 20:29:07] [Build Update Check] Started
+[2019-12-20 20:29:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:29:07] [Build Check] Build Installed: Checking Updates
+[2019-12-20 20:29:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:29:07] [Check Updates] [Installed Version: 0.0.4] [Current Version: 0.0.4]
+[2019-12-20 20:29:07] [Auto Install Repo] Not Enabled
+[2019-12-20 20:29:07] [Binary Detection] Eligible Binary Addons to Reinstall
+[2019-12-20 20:29:07] [Auto Update Wizard] Started
+[2019-12-20 20:29:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:29:07] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 20:29:07] [Auto Update Wizard] No New Version v1.0.0
+[2019-12-20 20:29:07] [Notifications] Started
+[2019-12-20 20:29:08] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 20:29:08] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 20:29:08] [Notifications] id[1] Dismissed
+[2019-12-20 20:29:08] [Build Installed Check] Started
+[2019-12-20 20:29:08] [Build Installed Check] Install seems to be completed correctly
+[2019-12-20 20:29:08] Trakt Data Not Found for Exodus Redux
+[2019-12-20 20:29:08] [Trakt Data] Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:29:08] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:29:08] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:29:08] [Trakt Data] Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:29:08] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:29:08] [Trakt Data] Seren(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:29:08] [Trakt Data] Trakt(script.trakt) is not installed
+[2019-12-20 20:29:08] [Trakt Data] Venom(plugin.video.venom) is not installed
+[2019-12-20 20:29:08] [Build Installed Check] Restoring Trakt Data
+[2019-12-20 20:29:08] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Seren AD(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Seren RD(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] Debrid Info Not Found for ResolveURL AD
+[2019-12-20 20:29:08] Debrid Info Not Found for ResolveURL RD
+[2019-12-20 20:29:08] Debrid Info Not Found for ResolveURL PM
+[2019-12-20 20:29:08] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
+[2019-12-20 20:29:08] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
+[2019-12-20 20:29:08] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
+[2019-12-20 20:29:08] [Build Installed Check] Restoring Real Debrid Data
+[2019-12-20 20:29:08] Login Data Not Found for Fanart.tv - Exodus Redux
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:29:08] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
+[2019-12-20 20:29:08] Login Data Not Found for IMDb - Exodus Redux
+[2019-12-20 20:29:08] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:29:08] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:29:08] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:29:08] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:29:08] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:29:08] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 20:29:08] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 20:29:08] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
+[2019-12-20 20:29:08] [Login Info] Netflix(plugin.video.netflix) is not installed
+[2019-12-20 20:29:08] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 20:29:08] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 20:29:08] Login Data Restored for OMDb - metahandler
+[2019-12-20 20:29:08] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 20:29:08] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
+[2019-12-20 20:29:08] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
+[2019-12-20 20:29:08] [Login Info] Orion(script.module.orion) is not installed
+[2019-12-20 20:29:08] Login Data Restored for TMDb - Exodus Redux
+[2019-12-20 20:29:08] Login Data Not Found for TMDb Login - ExtendedInfo Script
+[2019-12-20 20:29:08] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 20:29:08] Login Data Not Found for TMDb - OpenInfo
+[2019-12-20 20:29:08] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 20:29:08] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 20:29:08] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:29:08] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] Login Data Restored for TVDB - metahandler
+[2019-12-20 20:29:08] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 20:29:08] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 20:29:08] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 20:29:08] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
+[2019-12-20 20:29:08] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
+[2019-12-20 20:29:08] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 20:29:08] [Build Installed Check] Restoring Login Data
+[2019-12-20 20:29:08] [Trakt Data] Started
+[2019-12-20 20:29:08] [Trakt Data] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 20:29:08] [Debrid Data] Started
+[2019-12-20 20:29:08] [Debrid Data] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 20:29:08] [Login Info] Started
+[2019-12-20 20:29:08] [Login Info] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 20:29:08] [Auto Clean Up] Not Enabled
+[2019-12-20 22:29:32] [Path Check] Started
+[2019-12-20 22:29:32] [Path Check] Good!
+[2019-12-20 22:29:32] [First Run] Skipping Save Data Settings
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:29:32] [Current Build Check] Build Installed: MWUBuild Alpha
+[2019-12-20 22:29:32] [Build Update Check] Started
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:29:32] [Build Check] Build Installed: Checking Updates
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:29:32] [Check Updates] [Installed Version: 0.0.4] [Current Version: 0.0.4]
+[2019-12-20 22:29:32] [Auto Install Repo] Not Enabled
+[2019-12-20 22:29:32] [Binary Detection] Eligible Binary Addons to Reinstall
+[2019-12-20 22:29:32] [Auto Update Wizard] Started
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:29:32] [Auto Update Wizard] No New Version v1.0.0
+[2019-12-20 22:29:32] [Notifications] Started
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 22:29:32] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 22:29:32] [Notifications] id[1] Dismissed
+[2019-12-20 22:29:32] [Build Installed Check] Started
+[2019-12-20 22:29:32] [Build Installed Check] Install seems to be completed correctly
+[2019-12-20 22:29:32] Trakt Data Not Found for Exodus Redux
+[2019-12-20 22:29:32] [Trakt Data] Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:29:32] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:29:32] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:29:32] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:29:32] [Trakt Data] Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:29:32] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:29:32] [Trakt Data] Seren(plugin.video.seren) is not installed
+[2019-12-20 22:29:32] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:29:32] [Trakt Data] Trakt(script.trakt) is not installed
+[2019-12-20 22:29:32] [Trakt Data] Venom(plugin.video.venom) is not installed
+[2019-12-20 22:29:32] [Build Installed Check] Restoring Trakt Data
+[2019-12-20 22:29:32] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Seren AD(plugin.video.seren) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Seren RD(plugin.video.seren) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
+[2019-12-20 22:29:32] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
+[2019-12-20 22:29:32] Debrid Info Not Found for ResolveURL AD
+[2019-12-20 22:29:32] Debrid Info Not Found for ResolveURL RD
+[2019-12-20 22:29:32] Debrid Info Not Found for ResolveURL PM
+[2019-12-20 22:29:32] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
+[2019-12-20 22:29:32] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
+[2019-12-20 22:29:32] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
+[2019-12-20 22:29:32] [Build Installed Check] Restoring Real Debrid Data
+[2019-12-20 22:29:32] Login Data Not Found for Fanart.tv - Exodus Redux
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:29:32] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
+[2019-12-20 22:29:33] Login Data Not Found for IMDb - Exodus Redux
+[2019-12-20 22:29:33] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:29:33] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:29:33] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:29:33] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:29:33] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:29:33] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:29:33] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 22:29:33] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 22:29:33] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
+[2019-12-20 22:29:33] [Login Info] Netflix(plugin.video.netflix) is not installed
+[2019-12-20 22:29:33] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 22:29:33] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 22:29:33] Login Data Restored for OMDb - metahandler
+[2019-12-20 22:29:33] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 22:29:33] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
+[2019-12-20 22:29:33] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
+[2019-12-20 22:29:33] [Login Info] Orion(script.module.orion) is not installed
+[2019-12-20 22:29:33] Login Data Restored for TMDb - Exodus Redux
+[2019-12-20 22:29:33] Login Data Not Found for TMDb Login - ExtendedInfo Script
+[2019-12-20 22:29:33] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:29:33] Login Data Not Found for TMDb - OpenInfo
+[2019-12-20 22:29:33] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 22:29:33] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 22:29:33] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:29:33] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
+[2019-12-20 22:29:33] Login Data Restored for TVDB - metahandler
+[2019-12-20 22:29:33] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:29:33] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:29:33] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:29:33] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
+[2019-12-20 22:29:33] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
+[2019-12-20 22:29:33] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 22:29:33] [Build Installed Check] Restoring Login Data
+[2019-12-20 22:29:33] [Trakt Data] Started
+[2019-12-20 22:29:33] [Trakt Data] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 22:29:33] [Debrid Data] Started
+[2019-12-20 22:29:33] [Debrid Data] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 22:29:33] [Login Info] Started
+[2019-12-20 22:29:33] [Login Info] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 22:29:33] [Auto Clean Up] Not Enabled
+[2019-12-20 22:57:02] [Path Check] Started
+[2019-12-20 22:57:02] [Path Check] Good!
+[2019-12-20 22:57:02] [First Run] Skipping Save Data Settings
+[2019-12-20 22:57:02] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:57:02] [Current Build Check] Build Installed: MWUBuild Alpha
+[2019-12-20 22:57:02] [Build Update Check] Started
+[2019-12-20 22:57:02] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:57:02] [Build Check] Build Installed: Checking Updates
+[2019-12-20 22:57:02] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:57:02] [Check Updates] [Installed Version: 0.0.4] [Current Version: 0.0.4]
+[2019-12-20 22:57:02] [Auto Install Repo] Not Enabled
+[2019-12-20 22:57:02] [Binary Detection] Eligible Binary Addons to Reinstall
+[2019-12-20 22:57:02] [Auto Update Wizard] Started
+[2019-12-20 22:57:02] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:57:02] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 22:57:02] [Auto Update Wizard] No New Version v1.0.0
+[2019-12-20 22:57:02] [Notifications] Started
+[2019-12-20 22:57:03] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 22:57:03] URL check passed for http://polskanora.tk/kodi/notify.txt: Status code [200]
+[2019-12-20 22:57:03] [Notifications] id[1] Dismissed
+[2019-12-20 22:57:03] [Build Installed Check] Started
+[2019-12-20 22:57:03] [Build Installed Check] Install seems to be completed correctly
+[2019-12-20 22:57:03] Trakt Data Not Found for Exodus Redux
+[2019-12-20 22:57:03] [Trakt Data] Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Trakt Data] NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:57:03] [Trakt Data] OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:57:03] [Trakt Data] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:57:03] [Trakt Data] Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:57:03] [Trakt Data] Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:57:03] [Trakt Data] Seren(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] [Trakt Data] THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:57:03] [Trakt Data] Trakt(script.trakt) is not installed
+[2019-12-20 22:57:03] [Trakt Data] Venom(plugin.video.venom) is not installed
+[2019-12-20 22:57:03] [Build Installed Check] Restoring Trakt Data
+[2019-12-20 22:57:03] [Debrid Info] Gaia AD(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Gaia RD(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Gaia PM(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Seren AD(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Seren RD(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Seren PM (API Key)(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] [Debrid Info] Seren PM (OAuth)(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] Debrid Info Not Found for ResolveURL AD
+[2019-12-20 22:57:03] Debrid Info Not Found for ResolveURL RD
+[2019-12-20 22:57:03] Debrid Info Not Found for ResolveURL PM
+[2019-12-20 22:57:03] [Debrid Info] URLResolver AD(script.module.urlresolver) is not installed
+[2019-12-20 22:57:03] [Debrid Info] URLResolver RD(script.module.urlresolver) is not installed
+[2019-12-20 22:57:03] [Debrid Info] URLResolver PM(script.module.urlresolver) is not installed
+[2019-12-20 22:57:03] [Build Installed Check] Restoring Real Debrid Data
+[2019-12-20 22:57:03] Login Data Not Found for Fanart.tv - Exodus Redux
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:57:03] [Login Info] Fanart.tv - Venom(plugin.video.venom) is not installed
+[2019-12-20 22:57:03] Login Data Not Found for IMDb - Exodus Redux
+[2019-12-20 22:57:03] [Login Info] IMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Login Info] IMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:57:03] [Login Info] IMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:57:03] [Login Info] IMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:57:03] [Login Info] IMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:57:03] [Login Info] IMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:57:03] [Login Info] IMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 22:57:03] [Login Info] Kitsu - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 22:57:03] [Login Info] Internet Archive - IAGL(plugin.program.iagl) is not installed
+[2019-12-20 22:57:03] [Login Info] Netflix(plugin.video.netflix) is not installed
+[2019-12-20 22:57:03] [Login Info] MyAnimeList - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 22:57:03] [Login Info] OMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 22:57:03] Login Data Restored for OMDb - metahandler
+[2019-12-20 22:57:03] [Login Info] OMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 22:57:03] [Login Info] OpenSubtitles.org(service.subtitles.opensubtitles) is not installed
+[2019-12-20 22:57:03] [Login Info] OpenSubtitles.org by OpenSubtitles(service.subtitles.opensubtitles_by_opensubtitles) is not installed
+[2019-12-20 22:57:03] [Login Info] Orion(script.module.orion) is not installed
+[2019-12-20 22:57:03] Login Data Restored for TMDb - Exodus Redux
+[2019-12-20 22:57:03] Login Data Not Found for TMDb Login - ExtendedInfo Script
+[2019-12-20 22:57:03] [Login Info] TMDb - Gaia(plugin.video.gaia) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - script.module.metadatautils(script.module.metadatautils) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - NuMb3r5(plugin.video.numbersbynumbers) is not installed
+[2019-12-20 22:57:03] Login Data Not Found for TMDb - OpenInfo
+[2019-12-20 22:57:03] [Login Info] TMDb - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - Scrubs v2(plugin.video.scrubsv2) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - Seren(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - THE CREW(plugin.video.thecrew) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - TheMovieDb Helper(plugin.video.themoviedb.helper) is not installed
+[2019-12-20 22:57:03] [Login Info] TMDb - Venom(plugin.video.venom) is not installed
+[2019-12-20 22:57:03] [Login Info] Trakt - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:57:03] [Login Info] Trakt - Seren(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] Login Data Restored for TVDB - metahandler
+[2019-12-20 22:57:03] [Login Info] TVDB - OpenMeta(plugin.video.openmeta) is not installed
+[2019-12-20 22:57:03] [Login Info] TVDB - Premiumizer(plugin.video.premiumizer) is not installed
+[2019-12-20 22:57:03] [Login Info] TVDB - Realizer(plugin.video.realizer) is not installed
+[2019-12-20 22:57:03] [Login Info] TVDB - Seren(plugin.video.seren) is not installed
+[2019-12-20 22:57:03] [Login Info] Yahoo! Weather(weather.yahoo) is not installed
+[2019-12-20 22:57:03] [Login Info] WonderfulSubs - WonderfulSubs(plugin.video.wonderfulsubs) is not installed
+[2019-12-20 22:57:03] [Build Installed Check] Restoring Login Data
+[2019-12-20 22:57:03] [Trakt Data] Started
+[2019-12-20 22:57:03] [Trakt Data] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 22:57:03] [Debrid Data] Started
+[2019-12-20 22:57:03] [Debrid Data] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 22:57:03] [Login Info] Started
+[2019-12-20 22:57:03] [Login Info] Next Auto Save isn't until: 2019-12-23 / TODAY is: 2019-12-20
+[2019-12-20 22:57:03] [Auto Clean Up] Not Enabled
+[2019-12-20 23:13:18] plugin://plugin.program.multiwuwizard/: 
+[2019-12-20 23:13:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:18] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:18] URL is not of a valid schema: http://
+[2019-12-20 23:13:18] URL is not of a valid schema: http://
+[2019-12-20 23:13:18] URL is not of a valid schema: http://
+[2019-12-20 23:13:20] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
+[2019-12-20 23:13:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:20] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:26] plugin://plugin.program.multiwuwizard/: [ mode: settings ] 
+[2019-12-20 23:13:26] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
+[2019-12-20 23:13:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:29] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
+[2019-12-20 23:13:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:29] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:29] URL is not of a valid schema: http://
+[2019-12-20 23:13:29] URL is not of a valid schema: http://
+[2019-12-20 23:13:29] URL is not of a valid schema: http://
+[2019-12-20 23:13:42] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
+[2019-12-20 23:13:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:42] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:42] plugin://plugin.program.multiwuwizard/: 
+[2019-12-20 23:13:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:43] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:13:43] URL is not of a valid schema: http://
+[2019-12-20 23:13:43] URL is not of a valid schema: http://
+[2019-12-20 23:13:43] URL is not of a valid schema: http://
+[2019-12-20 23:14:16] plugin://plugin.program.multiwuwizard/: 
+[2019-12-20 23:14:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:17] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:17] URL is not of a valid schema: http://
+[2019-12-20 23:14:17] URL is not of a valid schema: http://
+[2019-12-20 23:14:17] URL is not of a valid schema: http://
+[2019-12-20 23:14:18] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
+[2019-12-20 23:14:19] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:19] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:26] plugin://plugin.program.multiwuwizard/: [ mode: viewbuild ] [ name: MWUBuild Alpha ] 
+[2019-12-20 23:14:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:26] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:26] URL is not of a valid schema: http://
+[2019-12-20 23:14:26] URL is not of a valid schema: http://
+[2019-12-20 23:14:26] URL is not of a valid schema: http://
+[2019-12-20 23:14:30] plugin://plugin.program.multiwuwizard/: [ mode: builds ] 
+[2019-12-20 23:14:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:30] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:31] plugin://plugin.program.multiwuwizard/: 
+[2019-12-20 23:14:31] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:31] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:31] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:31] URL check passed for http://polskanora.tk/kodi/builds.txt: Status code [200]
+[2019-12-20 23:14:31] URL is not of a valid schema: http://
+[2019-12-20 23:14:31] URL is not of a valid schema: http://
+[2019-12-20 23:14:31] URL is not of a valid schema: http://
