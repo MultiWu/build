@@ -16,11 +16,11 @@ from ..utils import (
 )
 
 
-class FrontendMastersBaseIE(InfoExtractor):
-    _API_BASE = 'https://api.frontendmasters.com/v1/kabuki'
-    _LOGIN_URL = 'https://frontendmasters.com/login/'
+class FrontendMainsBaseIE(InfoExtractor):
+    _API_BASE = 'https://api.frontendmains.com/v1/kabuki'
+    _LOGIN_URL = 'https://frontendmains.com/login/'
 
-    _NETRC_MACHINE = 'frontendmasters'
+    _NETRC_MACHINE = 'frontendmains'
 
     _QUALITIES = {
         'low': {'width': 480, 'height': 360},
@@ -70,7 +70,7 @@ class FrontendMastersBaseIE(InfoExtractor):
         raise ExtractorError('Unable to log in')
 
 
-class FrontendMastersPageBaseIE(FrontendMastersBaseIE):
+class FrontendMainsPageBaseIE(FrontendMainsBaseIE):
     def _download_course(self, course_name, url):
         return self._download_json(
             '%s/courses/%s' % (self._API_BASE, course_name), course_name,
@@ -112,8 +112,8 @@ class FrontendMastersPageBaseIE(FrontendMastersBaseIE):
 
         return {
             '_type': 'url_transparent',
-            'url': 'frontendmasters:%s' % lesson_id,
-            'ie_key': FrontendMastersIE.ie_key(),
+            'url': 'frontendmains:%s' % lesson_id,
+            'ie_key': FrontendMainsIE.ie_key(),
             'id': lesson_id,
             'display_id': display_id,
             'title': title,
@@ -125,19 +125,19 @@ class FrontendMastersPageBaseIE(FrontendMastersBaseIE):
         }
 
 
-class FrontendMastersIE(FrontendMastersBaseIE):
-    _VALID_URL = r'(?:frontendmasters:|https?://api\.frontendmasters\.com/v\d+/kabuki/video/)(?P<id>[^/]+)'
+class FrontendMainsIE(FrontendMainsBaseIE):
+    _VALID_URL = r'(?:frontendmains:|https?://api\.frontendmains\.com/v\d+/kabuki/video/)(?P<id>[^/]+)'
     _TESTS = [{
-        'url': 'https://api.frontendmasters.com/v1/kabuki/video/a2qogef6ba',
+        'url': 'https://api.frontendmains.com/v1/kabuki/video/a2qogef6ba',
         'md5': '7f161159710d6b7016a4f4af6fcb05e2',
         'info_dict': {
             'id': 'a2qogef6ba',
             'ext': 'mp4',
             'title': 'a2qogef6ba',
         },
-        'skip': 'Requires FrontendMasters account credentials',
+        'skip': 'Requires FrontendMains account credentials',
     }, {
-        'url': 'frontendmasters:a2qogef6ba',
+        'url': 'frontendmains:a2qogef6ba',
         'only_matching': True,
     }]
 
@@ -186,10 +186,10 @@ class FrontendMastersIE(FrontendMastersBaseIE):
         }
 
 
-class FrontendMastersLessonIE(FrontendMastersPageBaseIE):
-    _VALID_URL = r'https?://(?:www\.)?frontendmasters\.com/courses/(?P<course_name>[^/]+)/(?P<lesson_name>[^/]+)'
+class FrontendMainsLessonIE(FrontendMainsPageBaseIE):
+    _VALID_URL = r'https?://(?:www\.)?frontendmains\.com/courses/(?P<course_name>[^/]+)/(?P<lesson_name>[^/]+)'
     _TEST = {
-        'url': 'https://frontendmasters.com/courses/web-development/tools',
+        'url': 'https://frontendmains.com/courses/web-development/tools',
         'info_dict': {
             'id': 'a2qogef6ba',
             'display_id': 'tools',
@@ -203,7 +203,7 @@ class FrontendMastersLessonIE(FrontendMastersPageBaseIE):
         'params': {
             'skip_download': True,
         },
-        'skip': 'Requires FrontendMasters account credentials',
+        'skip': 'Requires FrontendMains account credentials',
     }
 
     def _real_extract(self, url):
@@ -221,23 +221,23 @@ class FrontendMastersLessonIE(FrontendMastersPageBaseIE):
         return self._extract_lesson(chapters, lesson_id, lesson)
 
 
-class FrontendMastersCourseIE(FrontendMastersPageBaseIE):
-    _VALID_URL = r'https?://(?:www\.)?frontendmasters\.com/courses/(?P<id>[^/]+)'
+class FrontendMainsCourseIE(FrontendMainsPageBaseIE):
+    _VALID_URL = r'https?://(?:www\.)?frontendmains\.com/courses/(?P<id>[^/]+)'
     _TEST = {
-        'url': 'https://frontendmasters.com/courses/web-development/',
+        'url': 'https://frontendmains.com/courses/web-development/',
         'info_dict': {
             'id': 'web-development',
             'title': 'Introduction to Web Development',
             'description': 'md5:9317e6e842098bf725d62360e52d49a6',
         },
         'playlist_count': 81,
-        'skip': 'Requires FrontendMasters account credentials',
+        'skip': 'Requires FrontendMains account credentials',
     }
 
     @classmethod
     def suitable(cls, url):
-        return False if FrontendMastersLessonIE.suitable(url) else super(
-            FrontendMastersBaseIE, cls).suitable(url)
+        return False if FrontendMainsLessonIE.suitable(url) else super(
+            FrontendMainsBaseIE, cls).suitable(url)
 
     def _real_extract(self, url):
         course_name = self._match_id(url)

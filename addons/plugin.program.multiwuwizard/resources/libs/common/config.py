@@ -130,7 +130,7 @@ class Config:
         self.XBMC = xbmc.translatePath('special://xbmc/')
         self.HOME = xbmc.translatePath('special://home/')
         self.TEMP = xbmc.translatePath('special://temp/')
-        self.MASTERPROFILE = xbmc.translatePath('special://masterprofile/')
+        self.MASTERPROFILE = xbmc.translatePath('special://mainprofile/')
         self.PROFILE = xbmc.translatePath('special://profile/')
         self.SUBTITLES = xbmc.translatePath('special://subtitles/')
         self.USERDATA = xbmc.translatePath('special://userdata/')

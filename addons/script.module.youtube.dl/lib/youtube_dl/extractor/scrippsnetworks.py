@@ -33,7 +33,7 @@ class ScrippsNetworksWatchIE(AWSIE):
             'id': '4194875',
             'ext': 'mp4',
             'title': 'Ample Hills Ice Cream Bike',
-            'description': 'Courtney Rada churns up a signature GK Now ice cream with The Scoopmaster.',
+            'description': 'Courtney Rada churns up a signature GK Now ice cream with The Scoopmain.',
             'uploader': 'ANV',
             'upload_date': '20171011',
             'timestamp': 1507698000,

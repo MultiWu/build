@@ -80,7 +80,7 @@ class HlsFD(FragmentFD):
                     or s.startswith('#UPLYNK-SEGMENT') and s.endswith(',ad'))
 
         def is_ad_fragment_end(s):
-            return (s.startswith('#ANVATO-SEGMENT-INFO') and 'type=master' in s
+            return (s.startswith('#ANVATO-SEGMENT-INFO') and 'type=main' in s
                     or s.startswith('#UPLYNK-SEGMENT') and s.endswith(',segment'))
 
         media_frags = 0

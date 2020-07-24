@@ -67,7 +67,7 @@ class NhkVodIE(InfoExtractor):
             audio = episode['audio']
             audio_path = audio['audio']
             info['formats'] = self._extract_m3u8_formats(
-                'https://nhks-vh.akamaihd.net/i%s/master.m3u8' % audio_path,
+                'https://nhks-vh.akamaihd.net/i%s/main.m3u8' % audio_path,
                 episode_id, 'm4a', m3u8_id='hls', fatal=False)
             for proto in ('rtmpt', 'rtmp'):
                 info['formats'].append({

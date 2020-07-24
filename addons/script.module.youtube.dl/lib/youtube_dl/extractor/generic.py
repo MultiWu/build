@@ -1617,7 +1617,7 @@ class GenericIE(InfoExtractor):
         {
             'url': 'http://www.rtl.be/info/video/589263.aspx?CategoryID=288',
             'info_dict': {
-                'id': 'master',
+                'id': 'main',
                 'ext': 'mp4',
                 'title': 'Une nouvelle espèce de dinosaure découverte en Argentine',
                 'uploader': 'www.rtl.be',

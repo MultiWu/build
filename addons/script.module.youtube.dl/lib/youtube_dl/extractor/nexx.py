@@ -181,7 +181,7 @@ class NexxIE(InfoExtractor):
             for i in fd:
                 p = i.split(':')
                 t += p[1] + p0(int(p[0])) + ','
-            t += '.mp4.csmil/master.%s'
+            t += '.mp4.csmil/main.%s'
         elif cdn_provider == 'ce':
             k = t.split('/')
             h = k.pop()

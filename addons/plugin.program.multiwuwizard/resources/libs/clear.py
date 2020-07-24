@@ -387,7 +387,7 @@ def clear_cache(over=None):
                         except Exception as e:
                             logging.log("[Failed] wiped {0}: {1}".format(item, str(e)))
                     else:
-                        textexe.execute("SELECT name FROM sqlite_master WHERE type = 'table'")
+                        textexe.execute("SELECT name FROM sqlite_main WHERE type = 'table'")
                         for table in textexe.fetchall():
                             try:
                                 textexe.execute("DELETE FROM {0}".format(table[0]))

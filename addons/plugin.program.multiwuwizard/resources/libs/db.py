@@ -129,7 +129,7 @@ def purge_db_file(name):
     else:
         logging.log('{0} not found.'.format(name), level=xbmc.LOGERROR)
         return False
-    textexe.execute("SELECT name FROM sqlite_master WHERE type = 'table'")
+    textexe.execute("SELECT name FROM sqlite_main WHERE type = 'table'")
     for table in textexe.fetchall():
         if table[0] == 'version':
             logging.log('Data from table `{0}` skipped.'.format(table[0]))

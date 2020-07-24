@@ -246,7 +246,7 @@ class PornTubeIE(FourTubeBaseIE):
                    for e in video['encodings'] if e.get('height')]
         formats = self._extract_formats(url, video_id, media_id, sources)
 
-        thumbnail = url_or_none(video.get('masterThumb'))
+        thumbnail = url_or_none(video.get('mainThumb'))
         uploader = try_get(video, lambda x: x['user']['username'], compat_str)
         uploader_id = str_or_none(try_get(
             video, lambda x: x['user']['id'], int))
